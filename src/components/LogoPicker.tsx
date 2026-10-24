@@ -4,10 +4,11 @@ import ufcLogoSvg from "../../public/brand/ufc.svg?raw";
 import { useCardStore } from "../store";
 import { Popover } from "./ui";
 
-// Crop the square source viewBox to the logo's actual bounds.
+// Crop the square source viewBox to the logo's actual bounds (the file also holds an off-canvas red copy).
 const ufcLogo = ufcLogoSvg
+    .replace(/<\?xml[^>]*>/, "")
     .replace(/\s(width|height)="[^"]*"/g, "")
-    .replace('viewBox="0 0 14 14"', 'viewBox="1 4.96 12 4.08" class="block w-full h-auto"');
+    .replace('viewBox="0 0 700 700"', 'viewBox="62.76 249.29 574.49 201.41" class="block w-full h-auto"');
 
 export function EventLogo() {
     const eventType = useCardStore((s) => s.eventType);

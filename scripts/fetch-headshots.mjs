@@ -29,14 +29,8 @@ function slugCandidates(name) {
   const parts = withoutSuffix.split(" ");
   const reversed = [parts.at(-1), ...parts.slice(0, -1)].join(" ");
   const strict = [name, withoutSuffix, reversed].map(slugify);
-  const loose = [
-    ...[withoutSuffix, reversed].map((n) => slugify(n.replace(/-/g, ""))),
-    slugify(`${parts[0]} ${parts.at(-1)}`),
-  ];
-  return [
-    ...new Set(strict),
-    ...[...new Set(loose)].filter((s) => !strict.includes(s)).map((slug) => ({ slug, loose: true })),
-  ].map((c) => (typeof c === "string" ? { slug: c, loose: false } : c));
+  const loose = [...[withoutSuffix, reversed].map((n) => slugify(n.replace(/-/g, ""))), slugify(`${parts[0]} ${parts.at(-1)}`)];
+  return [...new Set(strict), ...[...new Set(loose)].filter((s) => !strict.includes(s)).map((slug) => ({ slug, loose: true }))].map((c) => (typeof c === "string" ? { slug: c, loose: false } : c));
 }
 
 // Slugs from ufc.com search whose tokens all belong to the fighter's name.
@@ -85,10 +79,7 @@ async function tryCandidates(candidates) {
 
 async function resolveFighter(fighter, overrides) {
   if (overrides[fighter.name]) return tryCandidates([{ slug: overrides[fighter.name], loose: false }]);
-  return (
-    (await tryCandidates(slugCandidates(fighter.name))) ??
-    (await tryCandidates(await searchSlugs(fighter.name)))
-  );
+  return (await tryCandidates(slugCandidates(fighter.name))) ?? (await tryCandidates(await searchSlugs(fighter.name)));
 }
 
 async function readOverrides() {

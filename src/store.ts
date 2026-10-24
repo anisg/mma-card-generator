@@ -18,18 +18,7 @@ export type Fight = {
 
 export const MAX_FIGHTS: Record<Section, number> = { mainCard: 6, prelims: 8 };
 
-export const TILT_COLORS = [
-  "#000000",
-  "#7f1d1d",
-  "#b91c1c",
-  "#c2410c",
-  "#a16207",
-  "#15803d",
-  "#0f766e",
-  "#1d4ed8",
-  "#6d28d9",
-  "#be185d",
-];
+export const TILT_COLORS = ["#000000", "#7f1d1d", "#b91c1c", "#c2410c", "#a16207", "#15803d", "#0f766e", "#1d4ed8", "#6d28d9", "#be185d"];
 export const TILT_OPACITY = { min: 0.4, max: 0.9 };
 
 // Fighter tiles always use 40% opacity.
@@ -90,8 +79,7 @@ const pickData = (state: CardState): CardData => {
 export const useCardStore = create<CardState>()(
   temporal(
     (set) => {
-      const updateFight = (section: Section, fightId: string, update: (fight: Fight) => Fight) =>
-        set((state) => ({ [section]: state[section].map((f) => (f.id === fightId ? update(f) : f)) }));
+      const updateFight = (section: Section, fightId: string, update: (fight: Fight) => Fight) => set((state) => ({ [section]: state[section].map((f) => (f.id === fightId ? update(f) : f)) }));
 
       return {
         ...initialData,
@@ -101,15 +89,10 @@ export const useCardStore = create<CardState>()(
             const autoClass = heaviestWeightClassId(next.red?.weightClassId, next.blue?.weightClassId);
             return { ...next, weightClassId: fighter ? autoClass : (fight.weightClassId ?? autoClass) };
           }),
-        setWeightClass: (section, fightId, weightClassId) =>
-          updateFight(section, fightId, (fight) => ({ ...fight, weightClassId })),
-        addFight: (section) =>
-          set((state) =>
-            state[section].length >= MAX_FIGHTS[section] ? {} : { [section]: [...state[section], newFight()] },
-          ),
+        setWeightClass: (section, fightId, weightClassId) => updateFight(section, fightId, (fight) => ({ ...fight, weightClassId })),
+        addFight: (section) => set((state) => (state[section].length >= MAX_FIGHTS[section] ? {} : { [section]: [...state[section], newFight()] })),
         setText: (key, value) => set({ [key]: value }),
-        setEvent: (eventType, eventNumber) =>
-          set((state) => ({ eventType, eventNumber: eventNumber ?? state.eventNumber })),
+        setEvent: (eventType, eventNumber) => set((state) => ({ eventType, eventNumber: eventNumber ?? state.eventNumber })),
         setImage: (target, url) => set((state) => ({ images: { ...state.images, [target]: url } })),
         setTilt: (tilt) =>
           set((state) => {

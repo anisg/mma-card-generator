@@ -2,8 +2,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const SOURCE_URL =
-  "https://en.wikipedia.org/w/index.php?title=List_of_current_UFC_fighters&action=raw";
+const SOURCE_URL = "https://en.wikipedia.org/w/index.php?title=List_of_current_UFC_fighters&action=raw";
 const OUTPUT = resolve(dirname(fileURLToPath(import.meta.url)), "../data/fighters.json");
 
 const WEIGHT_CLASSES = {
@@ -45,24 +44,86 @@ const UK_REGIONS = {
 };
 
 const ISO3_TO_ISO2 = {
-  ABW: "AW", AGO: "AO", ALB: "AL", ARE: "AE", ARG: "AR", ARM: "AM", AUS: "AU",
-  AUT: "AT", AZE: "AZ", BEL: "BE", BHR: "BH", BRA: "BR", CAN: "CA", CHE: "CH",
-  CHL: "CL", CHN: "CN", CMR: "CM", COD: "CD", COL: "CO", CUB: "CU", CZE: "CZ",
-  DEU: "DE", DNK: "DK", DOM: "DO", ECU: "EC", ESP: "ES", FIN: "FI", FRA: "FR",
-  GBR: "GB", GEO: "GE", HRV: "HR", HUN: "HU", IDN: "ID", IND: "IN", IRL: "IE",
-  IRN: "IR", IRQ: "IQ", ISL: "IS", ITA: "IT", JAM: "JM", JPN: "JP", KAZ: "KZ",
-  KGZ: "KG", KOR: "KR", LTU: "LT", MAR: "MA", MDA: "MD", MEX: "MX", MMR: "MM",
-  MNE: "ME", MNG: "MN", NGA: "NG", NLD: "NL", NOR: "NO", NZL: "NZ", PAN: "PA",
-  PER: "PE", POL: "PL", PRT: "PT", PSE: "PS", ROU: "RO", RUS: "RU", SEN: "SN",
-  SRB: "RS", SVK: "SK", SWE: "SE", THA: "TH", TJK: "TJ", TUR: "TR", UGA: "UG",
-  UKR: "UA", USA: "US", UZB: "UZ", VEN: "VE", ZAF: "ZA",
+  ABW: "AW",
+  AGO: "AO",
+  ALB: "AL",
+  ARE: "AE",
+  ARG: "AR",
+  ARM: "AM",
+  AUS: "AU",
+  AUT: "AT",
+  AZE: "AZ",
+  BEL: "BE",
+  BHR: "BH",
+  BRA: "BR",
+  CAN: "CA",
+  CHE: "CH",
+  CHL: "CL",
+  CHN: "CN",
+  CMR: "CM",
+  COD: "CD",
+  COL: "CO",
+  CUB: "CU",
+  CZE: "CZ",
+  DEU: "DE",
+  DNK: "DK",
+  DOM: "DO",
+  ECU: "EC",
+  ESP: "ES",
+  FIN: "FI",
+  FRA: "FR",
+  GBR: "GB",
+  GEO: "GE",
+  HRV: "HR",
+  HUN: "HU",
+  IDN: "ID",
+  IND: "IN",
+  IRL: "IE",
+  IRN: "IR",
+  IRQ: "IQ",
+  ISL: "IS",
+  ITA: "IT",
+  JAM: "JM",
+  JPN: "JP",
+  KAZ: "KZ",
+  KGZ: "KG",
+  KOR: "KR",
+  LTU: "LT",
+  MAR: "MA",
+  MDA: "MD",
+  MEX: "MX",
+  MMR: "MM",
+  MNE: "ME",
+  MNG: "MN",
+  NGA: "NG",
+  NLD: "NL",
+  NOR: "NO",
+  NZL: "NZ",
+  PAN: "PA",
+  PER: "PE",
+  POL: "PL",
+  PRT: "PT",
+  PSE: "PS",
+  ROU: "RO",
+  RUS: "RU",
+  SEN: "SN",
+  SRB: "RS",
+  SVK: "SK",
+  SWE: "SE",
+  THA: "TH",
+  TJK: "TJ",
+  TUR: "TR",
+  UGA: "UG",
+  UKR: "UA",
+  USA: "US",
+  UZB: "UZ",
+  VEN: "VE",
+  ZAF: "ZA",
 };
 
-const iso2ToFlag = (iso2) =>
-  String.fromCodePoint(...[...iso2].map((c) => 0x1f1e6 + c.charCodeAt(0) - 65));
+const iso2ToFlag = (iso2) => String.fromCodePoint(...[...iso2].map((c) => 0x1f1e6 + c.charCodeAt(0) - 65));
 
-const subdivisionFlag = (tag) =>
-  String.fromCodePoint(0x1f3f4, ...[...tag].map((c) => 0xe0000 + c.charCodeAt(0)), 0xe007f);
+const subdivisionFlag = (tag) => String.fromCodePoint(0x1f3f4, ...[...tag].map((c) => 0xe0000 + c.charCodeAt(0)), 0xe007f);
 
 function resolveNationality(rawCode) {
   const region = UK_REGIONS[rawCode];

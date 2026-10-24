@@ -25,21 +25,15 @@ export type GalleryImage = {
   photographer: { name: string };
 };
 
-export const SILHOUETTE = "/brand/no-profile-image.avif";
+export const SILHOUETTE = `${import.meta.env.BASE_URL}brand/no-profile-image.avif`;
 
-export const normalize = (text: string) =>
-  text
-    .normalize("NFD")
-    .replace(/\p{M}/gu, "")
-    .toLowerCase()
-    .trim();
+export const normalize = (text: string) => text.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase().trim();
 
 export const weightClasses = weightClassesData.filter((w) => w.active !== false);
 const weightClassById = new Map(weightClassesData.map((w) => [w.id, w]));
 const weightClassIdByName = new Map(weightClassesData.map((w) => [w.name, w.id]));
 
-export const getWeightClass = (id: string | null | undefined) =>
-  id ? weightClassById.get(id) : undefined;
+export const getWeightClass = (id: string | null | undefined) => (id ? weightClassById.get(id) : undefined);
 
 export const flags = flagsData;
 const flagById = new Map(flagsData.map((f) => [f.id, f]));
@@ -51,9 +45,9 @@ function flagIdFor(iso3: string, region?: string) {
   return flag?.id ?? "";
 }
 
-// UFC images are served through the dev/preview proxy (see vite.config.ts).
+// ufc.com sends no CORS headers (needed by the PNG export), so headshots go through the wsrv.nl image proxy.
 export const proxiedHeadshot = (url?: string) =>
-  url?.replace(/^https:\/\/(www\.)?ufc\.com\/images\//, "/ufc-images/");
+  url && `https://wsrv.nl/?url=${encodeURIComponent(url.replace(/^https?:\/\//, ""))}&w=400&output=webp`;
 
 export const baseFighters: Fighter[] = fightersData.map((f) => ({
   id: f.slug ?? normalize(f.name).replace(/[^a-z0-9]+/g, "-"),

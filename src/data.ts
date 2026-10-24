@@ -46,8 +46,7 @@ function flagIdFor(iso3: string, region?: string) {
 }
 
 // ufc.com sends no CORS headers (needed by the PNG export), so headshots go through the wsrv.nl image proxy.
-export const proxiedHeadshot = (url?: string) =>
-  url && `https://wsrv.nl/?url=${encodeURIComponent(url.replace(/^https?:\/\//, ""))}&w=400&output=webp`;
+export const proxiedHeadshot = (url?: string) => url && `https://wsrv.nl/?url=${encodeURIComponent(url.replace(/^https?:\/\//, ""))}&w=400&output=webp`;
 
 export const baseFighters: Fighter[] = fightersData.map((f) => ({
   id: f.slug ?? normalize(f.name).replace(/[^a-z0-9]+/g, "-"),

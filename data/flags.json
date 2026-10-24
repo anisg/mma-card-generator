@@ -1,0 +1,2292 @@
+[
+  {
+    "id": "af",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "name": "Afghanistan",
+    "emoji": "🇦🇫",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/af.png"
+  },
+  {
+    "id": "ax",
+    "iso2": "AX",
+    "iso3": "ALA",
+    "name": "Åland Islands",
+    "emoji": "🇦🇽",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ax.png"
+  },
+  {
+    "id": "al",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "name": "Albania",
+    "emoji": "🇦🇱",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/al.png"
+  },
+  {
+    "id": "dz",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "name": "Algeria",
+    "emoji": "🇩🇿",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/dz.png"
+  },
+  {
+    "id": "as",
+    "iso2": "AS",
+    "iso3": "ASM",
+    "name": "American Samoa",
+    "emoji": "🇦🇸",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/as.png"
+  },
+  {
+    "id": "ad",
+    "iso2": "AD",
+    "iso3": "AND",
+    "name": "Andorra",
+    "emoji": "🇦🇩",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ad.png"
+  },
+  {
+    "id": "ao",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "name": "Angola",
+    "emoji": "🇦🇴",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ao.png"
+  },
+  {
+    "id": "ai",
+    "iso2": "AI",
+    "iso3": "AIA",
+    "name": "Anguilla",
+    "emoji": "🇦🇮",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ai.png"
+  },
+  {
+    "id": "aq",
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "name": "Antarctica",
+    "emoji": "🇦🇶",
+    "continent": null,
+    "image": "https://flagcdn.com/w640/aq.png"
+  },
+  {
+    "id": "ag",
+    "iso2": "AG",
+    "iso3": "ATG",
+    "name": "Antigua and Barbuda",
+    "emoji": "🇦🇬",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ag.png"
+  },
+  {
+    "id": "ar",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "name": "Argentina",
+    "emoji": "🇦🇷",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ar.png"
+  },
+  {
+    "id": "am",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "name": "Armenia",
+    "emoji": "🇦🇲",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/am.png"
+  },
+  {
+    "id": "aw",
+    "iso2": "AW",
+    "iso3": "ABW",
+    "name": "Aruba",
+    "emoji": "🇦🇼",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/aw.png"
+  },
+  {
+    "id": "au",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "name": "Australia",
+    "emoji": "🇦🇺",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/au.png"
+  },
+  {
+    "id": "at",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "name": "Austria",
+    "emoji": "🇦🇹",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/at.png"
+  },
+  {
+    "id": "az",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "name": "Azerbaijan",
+    "emoji": "🇦🇿",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/az.png"
+  },
+  {
+    "id": "bs",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "name": "Bahamas",
+    "emoji": "🇧🇸",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bs.png"
+  },
+  {
+    "id": "bh",
+    "iso2": "BH",
+    "iso3": "BHR",
+    "name": "Bahrain",
+    "emoji": "🇧🇭",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/bh.png"
+  },
+  {
+    "id": "bd",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "name": "Bangladesh",
+    "emoji": "🇧🇩",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/bd.png"
+  },
+  {
+    "id": "bb",
+    "iso2": "BB",
+    "iso3": "BRB",
+    "name": "Barbados",
+    "emoji": "🇧🇧",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bb.png"
+  },
+  {
+    "id": "by",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "name": "Belarus",
+    "emoji": "🇧🇾",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/by.png"
+  },
+  {
+    "id": "be",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "name": "Belgium",
+    "emoji": "🇧🇪",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/be.png"
+  },
+  {
+    "id": "bz",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "name": "Belize",
+    "emoji": "🇧🇿",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bz.png"
+  },
+  {
+    "id": "bj",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "name": "Benin",
+    "emoji": "🇧🇯",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/bj.png"
+  },
+  {
+    "id": "bm",
+    "iso2": "BM",
+    "iso3": "BMU",
+    "name": "Bermuda",
+    "emoji": "🇧🇲",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bm.png"
+  },
+  {
+    "id": "bt",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "name": "Bhutan",
+    "emoji": "🇧🇹",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/bt.png"
+  },
+  {
+    "id": "bo",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "name": "Bolivia",
+    "emoji": "🇧🇴",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bo.png"
+  },
+  {
+    "id": "ba",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "emoji": "🇧🇦",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ba.png"
+  },
+  {
+    "id": "bw",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "name": "Botswana",
+    "emoji": "🇧🇼",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/bw.png"
+  },
+  {
+    "id": "bv",
+    "iso2": "BV",
+    "iso3": "BVT",
+    "name": "Bouvet Island",
+    "emoji": "🇧🇻",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bv.png"
+  },
+  {
+    "id": "br",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "name": "Brazil",
+    "emoji": "🇧🇷",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/br.png"
+  },
+  {
+    "id": "io",
+    "iso2": "IO",
+    "iso3": "IOT",
+    "name": "British Indian Ocean Territory",
+    "emoji": "🇮🇴",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/io.png"
+  },
+  {
+    "id": "vg",
+    "iso2": "VG",
+    "iso3": "VGB",
+    "name": "British Virgin Islands",
+    "emoji": "🇻🇬",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/vg.png"
+  },
+  {
+    "id": "bn",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "name": "Brunei",
+    "emoji": "🇧🇳",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/bn.png"
+  },
+  {
+    "id": "bg",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "name": "Bulgaria",
+    "emoji": "🇧🇬",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/bg.png"
+  },
+  {
+    "id": "bf",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "name": "Burkina Faso",
+    "emoji": "🇧🇫",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/bf.png"
+  },
+  {
+    "id": "bi",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "name": "Burundi",
+    "emoji": "🇧🇮",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/bi.png"
+  },
+  {
+    "id": "kh",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "name": "Cambodia",
+    "emoji": "🇰🇭",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/kh.png"
+  },
+  {
+    "id": "cm",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "name": "Cameroon",
+    "emoji": "🇨🇲",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/cm.png"
+  },
+  {
+    "id": "ca",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "name": "Canada",
+    "emoji": "🇨🇦",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ca.png"
+  },
+  {
+    "id": "cv",
+    "iso2": "CV",
+    "iso3": "CPV",
+    "name": "Cape Verde",
+    "emoji": "🇨🇻",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/cv.png"
+  },
+  {
+    "id": "bq",
+    "iso2": "BQ",
+    "iso3": "BES",
+    "name": "Caribbean Netherlands",
+    "emoji": "🇧🇶",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bq.png"
+  },
+  {
+    "id": "ky",
+    "iso2": "KY",
+    "iso3": "CYM",
+    "name": "Cayman Islands",
+    "emoji": "🇰🇾",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ky.png"
+  },
+  {
+    "id": "cf",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "name": "Central African Republic",
+    "emoji": "🇨🇫",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/cf.png"
+  },
+  {
+    "id": "td",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "name": "Chad",
+    "emoji": "🇹🇩",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/td.png"
+  },
+  {
+    "id": "cl",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "name": "Chile",
+    "emoji": "🇨🇱",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/cl.png"
+  },
+  {
+    "id": "cn",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "name": "China",
+    "emoji": "🇨🇳",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/cn.png"
+  },
+  {
+    "id": "cx",
+    "iso2": "CX",
+    "iso3": "CXR",
+    "name": "Christmas Island",
+    "emoji": "🇨🇽",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/cx.png"
+  },
+  {
+    "id": "cc",
+    "iso2": "CC",
+    "iso3": "CCK",
+    "name": "Cocos (Keeling) Islands",
+    "emoji": "🇨🇨",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/cc.png"
+  },
+  {
+    "id": "co",
+    "iso2": "CO",
+    "iso3": "COL",
+    "name": "Colombia",
+    "emoji": "🇨🇴",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/co.png"
+  },
+  {
+    "id": "km",
+    "iso2": "KM",
+    "iso3": "COM",
+    "name": "Comoros",
+    "emoji": "🇰🇲",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/km.png"
+  },
+  {
+    "id": "ck",
+    "iso2": "CK",
+    "iso3": "COK",
+    "name": "Cook Islands",
+    "emoji": "🇨🇰",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/ck.png"
+  },
+  {
+    "id": "cr",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "name": "Costa Rica",
+    "emoji": "🇨🇷",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/cr.png"
+  },
+  {
+    "id": "ci",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "name": "Côte d'Ivoire (Ivory Coast)",
+    "emoji": "🇨🇮",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ci.png"
+  },
+  {
+    "id": "hr",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "name": "Croatia",
+    "emoji": "🇭🇷",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/hr.png"
+  },
+  {
+    "id": "cu",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "name": "Cuba",
+    "emoji": "🇨🇺",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/cu.png"
+  },
+  {
+    "id": "cw",
+    "iso2": "CW",
+    "iso3": "CUW",
+    "name": "Curaçao",
+    "emoji": "🇨🇼",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/cw.png"
+  },
+  {
+    "id": "cy",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "name": "Cyprus",
+    "emoji": "🇨🇾",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/cy.png"
+  },
+  {
+    "id": "cz",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "name": "Czechia",
+    "emoji": "🇨🇿",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/cz.png"
+  },
+  {
+    "id": "dk",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "name": "Denmark",
+    "emoji": "🇩🇰",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/dk.png"
+  },
+  {
+    "id": "dj",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "name": "Djibouti",
+    "emoji": "🇩🇯",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/dj.png"
+  },
+  {
+    "id": "dm",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "name": "Dominica",
+    "emoji": "🇩🇲",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/dm.png"
+  },
+  {
+    "id": "do",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "name": "Dominican Republic",
+    "emoji": "🇩🇴",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/do.png"
+  },
+  {
+    "id": "cd",
+    "iso2": "CD",
+    "iso3": "COD",
+    "name": "DR Congo",
+    "emoji": "🇨🇩",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/cd.png"
+  },
+  {
+    "id": "ec",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "name": "Ecuador",
+    "emoji": "🇪🇨",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ec.png"
+  },
+  {
+    "id": "eg",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "name": "Egypt",
+    "emoji": "🇪🇬",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/eg.png"
+  },
+  {
+    "id": "sv",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "name": "El Salvador",
+    "emoji": "🇸🇻",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/sv.png"
+  },
+  {
+    "id": "gb-eng",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "region": "England",
+    "name": "England",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gb-eng.png"
+  },
+  {
+    "id": "gq",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "name": "Equatorial Guinea",
+    "emoji": "🇬🇶",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/gq.png"
+  },
+  {
+    "id": "er",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "name": "Eritrea",
+    "emoji": "🇪🇷",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/er.png"
+  },
+  {
+    "id": "ee",
+    "iso2": "EE",
+    "iso3": "EST",
+    "name": "Estonia",
+    "emoji": "🇪🇪",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ee.png"
+  },
+  {
+    "id": "sz",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "name": "Eswatini (Swaziland)",
+    "emoji": "🇸🇿",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/sz.png"
+  },
+  {
+    "id": "et",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "name": "Ethiopia",
+    "emoji": "🇪🇹",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/et.png"
+  },
+  {
+    "id": "fk",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "name": "Falkland Islands",
+    "emoji": "🇫🇰",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/fk.png"
+  },
+  {
+    "id": "fo",
+    "iso2": "FO",
+    "iso3": "FRO",
+    "name": "Faroe Islands",
+    "emoji": "🇫🇴",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/fo.png"
+  },
+  {
+    "id": "fj",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "name": "Fiji",
+    "emoji": "🇫🇯",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/fj.png"
+  },
+  {
+    "id": "fi",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "name": "Finland",
+    "emoji": "🇫🇮",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/fi.png"
+  },
+  {
+    "id": "fr",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "name": "France",
+    "emoji": "🇫🇷",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/fr.png"
+  },
+  {
+    "id": "gf",
+    "iso2": "GF",
+    "iso3": "GUF",
+    "name": "French Guiana",
+    "emoji": "🇬🇫",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/gf.png"
+  },
+  {
+    "id": "pf",
+    "iso2": "PF",
+    "iso3": "PYF",
+    "name": "French Polynesia",
+    "emoji": "🇵🇫",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/pf.png"
+  },
+  {
+    "id": "tf",
+    "iso2": "TF",
+    "iso3": "ATF",
+    "name": "French Southern and Antarctic Lands",
+    "emoji": "🇹🇫",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/tf.png"
+  },
+  {
+    "id": "ga",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "name": "Gabon",
+    "emoji": "🇬🇦",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ga.png"
+  },
+  {
+    "id": "gm",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "name": "Gambia",
+    "emoji": "🇬🇲",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/gm.png"
+  },
+  {
+    "id": "ge",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "name": "Georgia",
+    "emoji": "🇬🇪",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/ge.png"
+  },
+  {
+    "id": "de",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "name": "Germany",
+    "emoji": "🇩🇪",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/de.png"
+  },
+  {
+    "id": "gh",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "name": "Ghana",
+    "emoji": "🇬🇭",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/gh.png"
+  },
+  {
+    "id": "gi",
+    "iso2": "GI",
+    "iso3": "GIB",
+    "name": "Gibraltar",
+    "emoji": "🇬🇮",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gi.png"
+  },
+  {
+    "id": "gr",
+    "iso2": "GR",
+    "iso3": "GRC",
+    "name": "Greece",
+    "emoji": "🇬🇷",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gr.png"
+  },
+  {
+    "id": "gl",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "name": "Greenland",
+    "emoji": "🇬🇱",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/gl.png"
+  },
+  {
+    "id": "gd",
+    "iso2": "GD",
+    "iso3": "GRD",
+    "name": "Grenada",
+    "emoji": "🇬🇩",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/gd.png"
+  },
+  {
+    "id": "gp",
+    "iso2": "GP",
+    "iso3": "GLP",
+    "name": "Guadeloupe",
+    "emoji": "🇬🇵",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/gp.png"
+  },
+  {
+    "id": "gu",
+    "iso2": "GU",
+    "iso3": "GUM",
+    "name": "Guam",
+    "emoji": "🇬🇺",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/gu.png"
+  },
+  {
+    "id": "gt",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "name": "Guatemala",
+    "emoji": "🇬🇹",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/gt.png"
+  },
+  {
+    "id": "gg",
+    "iso2": "GG",
+    "iso3": "GGY",
+    "name": "Guernsey",
+    "emoji": "🇬🇬",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gg.png"
+  },
+  {
+    "id": "gn",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "name": "Guinea",
+    "emoji": "🇬🇳",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/gn.png"
+  },
+  {
+    "id": "gw",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "name": "Guinea-Bissau",
+    "emoji": "🇬🇼",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/gw.png"
+  },
+  {
+    "id": "gy",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "name": "Guyana",
+    "emoji": "🇬🇾",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/gy.png"
+  },
+  {
+    "id": "ht",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "name": "Haiti",
+    "emoji": "🇭🇹",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ht.png"
+  },
+  {
+    "id": "hm",
+    "iso2": "HM",
+    "iso3": "HMD",
+    "name": "Heard Island and McDonald Islands",
+    "emoji": "🇭🇲",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/hm.png"
+  },
+  {
+    "id": "hn",
+    "iso2": "HN",
+    "iso3": "HND",
+    "name": "Honduras",
+    "emoji": "🇭🇳",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/hn.png"
+  },
+  {
+    "id": "hk",
+    "iso2": "HK",
+    "iso3": "HKG",
+    "name": "Hong Kong",
+    "emoji": "🇭🇰",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/hk.png"
+  },
+  {
+    "id": "hu",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "name": "Hungary",
+    "emoji": "🇭🇺",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/hu.png"
+  },
+  {
+    "id": "is",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "name": "Iceland",
+    "emoji": "🇮🇸",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/is.png"
+  },
+  {
+    "id": "in",
+    "iso2": "IN",
+    "iso3": "IND",
+    "name": "India",
+    "emoji": "🇮🇳",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/in.png"
+  },
+  {
+    "id": "id",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "name": "Indonesia",
+    "emoji": "🇮🇩",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/id.png"
+  },
+  {
+    "id": "ir",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "name": "Iran",
+    "emoji": "🇮🇷",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/ir.png"
+  },
+  {
+    "id": "iq",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "name": "Iraq",
+    "emoji": "🇮🇶",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/iq.png"
+  },
+  {
+    "id": "ie",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "name": "Ireland",
+    "emoji": "🇮🇪",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ie.png"
+  },
+  {
+    "id": "im",
+    "iso2": "IM",
+    "iso3": "IMN",
+    "name": "Isle of Man",
+    "emoji": "🇮🇲",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/im.png"
+  },
+  {
+    "id": "il",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "name": "Israel",
+    "emoji": "🇮🇱",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/il.png"
+  },
+  {
+    "id": "it",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "name": "Italy",
+    "emoji": "🇮🇹",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/it.png"
+  },
+  {
+    "id": "jm",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "name": "Jamaica",
+    "emoji": "🇯🇲",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/jm.png"
+  },
+  {
+    "id": "jp",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "name": "Japan",
+    "emoji": "🇯🇵",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/jp.png"
+  },
+  {
+    "id": "je",
+    "iso2": "JE",
+    "iso3": "JEY",
+    "name": "Jersey",
+    "emoji": "🇯🇪",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/je.png"
+  },
+  {
+    "id": "jo",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "name": "Jordan",
+    "emoji": "🇯🇴",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/jo.png"
+  },
+  {
+    "id": "kz",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "name": "Kazakhstan",
+    "emoji": "🇰🇿",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/kz.png"
+  },
+  {
+    "id": "ke",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "name": "Kenya",
+    "emoji": "🇰🇪",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ke.png"
+  },
+  {
+    "id": "ki",
+    "iso2": "KI",
+    "iso3": "KIR",
+    "name": "Kiribati",
+    "emoji": "🇰🇮",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/ki.png"
+  },
+  {
+    "id": "xk",
+    "iso2": "XK",
+    "iso3": "XKX",
+    "name": "Kosovo",
+    "emoji": "🇽🇰",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/xk.png"
+  },
+  {
+    "id": "kw",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "name": "Kuwait",
+    "emoji": "🇰🇼",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/kw.png"
+  },
+  {
+    "id": "kg",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "name": "Kyrgyzstan",
+    "emoji": "🇰🇬",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/kg.png"
+  },
+  {
+    "id": "la",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "name": "Laos",
+    "emoji": "🇱🇦",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/la.png"
+  },
+  {
+    "id": "lv",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "name": "Latvia",
+    "emoji": "🇱🇻",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/lv.png"
+  },
+  {
+    "id": "lb",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "name": "Lebanon",
+    "emoji": "🇱🇧",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/lb.png"
+  },
+  {
+    "id": "ls",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "name": "Lesotho",
+    "emoji": "🇱🇸",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ls.png"
+  },
+  {
+    "id": "lr",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "name": "Liberia",
+    "emoji": "🇱🇷",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/lr.png"
+  },
+  {
+    "id": "ly",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "name": "Libya",
+    "emoji": "🇱🇾",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ly.png"
+  },
+  {
+    "id": "li",
+    "iso2": "LI",
+    "iso3": "LIE",
+    "name": "Liechtenstein",
+    "emoji": "🇱🇮",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/li.png"
+  },
+  {
+    "id": "lt",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "name": "Lithuania",
+    "emoji": "🇱🇹",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/lt.png"
+  },
+  {
+    "id": "lu",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "name": "Luxembourg",
+    "emoji": "🇱🇺",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/lu.png"
+  },
+  {
+    "id": "mo",
+    "iso2": "MO",
+    "iso3": "MAC",
+    "name": "Macau",
+    "emoji": "🇲🇴",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/mo.png"
+  },
+  {
+    "id": "mg",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "name": "Madagascar",
+    "emoji": "🇲🇬",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/mg.png"
+  },
+  {
+    "id": "mw",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "name": "Malawi",
+    "emoji": "🇲🇼",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/mw.png"
+  },
+  {
+    "id": "my",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "name": "Malaysia",
+    "emoji": "🇲🇾",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/my.png"
+  },
+  {
+    "id": "mv",
+    "iso2": "MV",
+    "iso3": "MDV",
+    "name": "Maldives",
+    "emoji": "🇲🇻",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/mv.png"
+  },
+  {
+    "id": "ml",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "name": "Mali",
+    "emoji": "🇲🇱",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ml.png"
+  },
+  {
+    "id": "mt",
+    "iso2": "MT",
+    "iso3": "MLT",
+    "name": "Malta",
+    "emoji": "🇲🇹",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/mt.png"
+  },
+  {
+    "id": "mh",
+    "iso2": "MH",
+    "iso3": "MHL",
+    "name": "Marshall Islands",
+    "emoji": "🇲🇭",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/mh.png"
+  },
+  {
+    "id": "mq",
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "name": "Martinique",
+    "emoji": "🇲🇶",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/mq.png"
+  },
+  {
+    "id": "mr",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "name": "Mauritania",
+    "emoji": "🇲🇷",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/mr.png"
+  },
+  {
+    "id": "mu",
+    "iso2": "MU",
+    "iso3": "MUS",
+    "name": "Mauritius",
+    "emoji": "🇲🇺",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/mu.png"
+  },
+  {
+    "id": "yt",
+    "iso2": "YT",
+    "iso3": "MYT",
+    "name": "Mayotte",
+    "emoji": "🇾🇹",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/yt.png"
+  },
+  {
+    "id": "mx",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "name": "Mexico",
+    "emoji": "🇲🇽",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/mx.png"
+  },
+  {
+    "id": "fm",
+    "iso2": "FM",
+    "iso3": "FSM",
+    "name": "Micronesia",
+    "emoji": "🇫🇲",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/fm.png"
+  },
+  {
+    "id": "md",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "name": "Moldova",
+    "emoji": "🇲🇩",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/md.png"
+  },
+  {
+    "id": "mc",
+    "iso2": "MC",
+    "iso3": "MCO",
+    "name": "Monaco",
+    "emoji": "🇲🇨",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/mc.png"
+  },
+  {
+    "id": "mn",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "name": "Mongolia",
+    "emoji": "🇲🇳",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/mn.png"
+  },
+  {
+    "id": "me",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "name": "Montenegro",
+    "emoji": "🇲🇪",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/me.png"
+  },
+  {
+    "id": "ms",
+    "iso2": "MS",
+    "iso3": "MSR",
+    "name": "Montserrat",
+    "emoji": "🇲🇸",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ms.png"
+  },
+  {
+    "id": "ma",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "name": "Morocco",
+    "emoji": "🇲🇦",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ma.png"
+  },
+  {
+    "id": "mz",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "name": "Mozambique",
+    "emoji": "🇲🇿",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/mz.png"
+  },
+  {
+    "id": "mm",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "name": "Myanmar",
+    "emoji": "🇲🇲",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/mm.png"
+  },
+  {
+    "id": "na",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "name": "Namibia",
+    "emoji": "🇳🇦",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/na.png"
+  },
+  {
+    "id": "nr",
+    "iso2": "NR",
+    "iso3": "NRU",
+    "name": "Nauru",
+    "emoji": "🇳🇷",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/nr.png"
+  },
+  {
+    "id": "np",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "name": "Nepal",
+    "emoji": "🇳🇵",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/np.png"
+  },
+  {
+    "id": "nl",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "name": "Netherlands",
+    "emoji": "🇳🇱",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/nl.png"
+  },
+  {
+    "id": "nc",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "name": "New Caledonia",
+    "emoji": "🇳🇨",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/nc.png"
+  },
+  {
+    "id": "nz",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "name": "New Zealand",
+    "emoji": "🇳🇿",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/nz.png"
+  },
+  {
+    "id": "ni",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "name": "Nicaragua",
+    "emoji": "🇳🇮",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ni.png"
+  },
+  {
+    "id": "ne",
+    "iso2": "NE",
+    "iso3": "NER",
+    "name": "Niger",
+    "emoji": "🇳🇪",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ne.png"
+  },
+  {
+    "id": "ng",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "name": "Nigeria",
+    "emoji": "🇳🇬",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ng.png"
+  },
+  {
+    "id": "nu",
+    "iso2": "NU",
+    "iso3": "NIU",
+    "name": "Niue",
+    "emoji": "🇳🇺",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/nu.png"
+  },
+  {
+    "id": "nf",
+    "iso2": "NF",
+    "iso3": "NFK",
+    "name": "Norfolk Island",
+    "emoji": "🇳🇫",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/nf.png"
+  },
+  {
+    "id": "kp",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "name": "North Korea",
+    "emoji": "🇰🇵",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/kp.png"
+  },
+  {
+    "id": "mk",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "name": "North Macedonia",
+    "emoji": "🇲🇰",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/mk.png"
+  },
+  {
+    "id": "gb-nir",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "region": "Northern Ireland",
+    "name": "Northern Ireland",
+    "emoji": "🇬🇧",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gb-nir.png"
+  },
+  {
+    "id": "mp",
+    "iso2": "MP",
+    "iso3": "MNP",
+    "name": "Northern Mariana Islands",
+    "emoji": "🇲🇵",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/mp.png"
+  },
+  {
+    "id": "no",
+    "iso2": "NO",
+    "iso3": "NOR",
+    "name": "Norway",
+    "emoji": "🇳🇴",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/no.png"
+  },
+  {
+    "id": "om",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "name": "Oman",
+    "emoji": "🇴🇲",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/om.png"
+  },
+  {
+    "id": "pk",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "name": "Pakistan",
+    "emoji": "🇵🇰",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/pk.png"
+  },
+  {
+    "id": "pw",
+    "iso2": "PW",
+    "iso3": "PLW",
+    "name": "Palau",
+    "emoji": "🇵🇼",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/pw.png"
+  },
+  {
+    "id": "ps",
+    "iso2": "PS",
+    "iso3": "PSE",
+    "name": "Palestine",
+    "emoji": "🇵🇸",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/ps.png"
+  },
+  {
+    "id": "pa",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "name": "Panama",
+    "emoji": "🇵🇦",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/pa.png"
+  },
+  {
+    "id": "pg",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "name": "Papua New Guinea",
+    "emoji": "🇵🇬",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/pg.png"
+  },
+  {
+    "id": "py",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "name": "Paraguay",
+    "emoji": "🇵🇾",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/py.png"
+  },
+  {
+    "id": "pe",
+    "iso2": "PE",
+    "iso3": "PER",
+    "name": "Peru",
+    "emoji": "🇵🇪",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/pe.png"
+  },
+  {
+    "id": "ph",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "name": "Philippines",
+    "emoji": "🇵🇭",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/ph.png"
+  },
+  {
+    "id": "pn",
+    "iso2": "PN",
+    "iso3": "PCN",
+    "name": "Pitcairn Islands",
+    "emoji": "🇵🇳",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/pn.png"
+  },
+  {
+    "id": "pl",
+    "iso2": "PL",
+    "iso3": "POL",
+    "name": "Poland",
+    "emoji": "🇵🇱",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/pl.png"
+  },
+  {
+    "id": "pt",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "name": "Portugal",
+    "emoji": "🇵🇹",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/pt.png"
+  },
+  {
+    "id": "pr",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "name": "Puerto Rico",
+    "emoji": "🇵🇷",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/pr.png"
+  },
+  {
+    "id": "qa",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "name": "Qatar",
+    "emoji": "🇶🇦",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/qa.png"
+  },
+  {
+    "id": "cg",
+    "iso2": "CG",
+    "iso3": "COG",
+    "name": "Republic of the Congo",
+    "emoji": "🇨🇬",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/cg.png"
+  },
+  {
+    "id": "re",
+    "iso2": "RE",
+    "iso3": "REU",
+    "name": "Réunion",
+    "emoji": "🇷🇪",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/re.png"
+  },
+  {
+    "id": "ro",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "name": "Romania",
+    "emoji": "🇷🇴",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ro.png"
+  },
+  {
+    "id": "ru",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "name": "Russia",
+    "emoji": "🇷🇺",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ru.png"
+  },
+  {
+    "id": "rw",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "name": "Rwanda",
+    "emoji": "🇷🇼",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/rw.png"
+  },
+  {
+    "id": "bl",
+    "iso2": "BL",
+    "iso3": "BLM",
+    "name": "Saint Barthélemy",
+    "emoji": "🇧🇱",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/bl.png"
+  },
+  {
+    "id": "sh",
+    "iso2": "SH",
+    "iso3": "SHN",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "emoji": "🇸🇭",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/sh.png"
+  },
+  {
+    "id": "kn",
+    "iso2": "KN",
+    "iso3": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "emoji": "🇰🇳",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/kn.png"
+  },
+  {
+    "id": "lc",
+    "iso2": "LC",
+    "iso3": "LCA",
+    "name": "Saint Lucia",
+    "emoji": "🇱🇨",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/lc.png"
+  },
+  {
+    "id": "mf",
+    "iso2": "MF",
+    "iso3": "MAF",
+    "name": "Saint Martin",
+    "emoji": "🇲🇫",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/mf.png"
+  },
+  {
+    "id": "pm",
+    "iso2": "PM",
+    "iso3": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "emoji": "🇵🇲",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/pm.png"
+  },
+  {
+    "id": "vc",
+    "iso2": "VC",
+    "iso3": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "emoji": "🇻🇨",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/vc.png"
+  },
+  {
+    "id": "ws",
+    "iso2": "WS",
+    "iso3": "WSM",
+    "name": "Samoa",
+    "emoji": "🇼🇸",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/ws.png"
+  },
+  {
+    "id": "sm",
+    "iso2": "SM",
+    "iso3": "SMR",
+    "name": "San Marino",
+    "emoji": "🇸🇲",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/sm.png"
+  },
+  {
+    "id": "st",
+    "iso2": "ST",
+    "iso3": "STP",
+    "name": "São Tomé and Príncipe",
+    "emoji": "🇸🇹",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/st.png"
+  },
+  {
+    "id": "sa",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "name": "Saudi Arabia",
+    "emoji": "🇸🇦",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/sa.png"
+  },
+  {
+    "id": "gb-sct",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "region": "Scotland",
+    "name": "Scotland",
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gb-sct.png"
+  },
+  {
+    "id": "sn",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "name": "Senegal",
+    "emoji": "🇸🇳",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/sn.png"
+  },
+  {
+    "id": "rs",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "name": "Serbia",
+    "emoji": "🇷🇸",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/rs.png"
+  },
+  {
+    "id": "sc",
+    "iso2": "SC",
+    "iso3": "SYC",
+    "name": "Seychelles",
+    "emoji": "🇸🇨",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/sc.png"
+  },
+  {
+    "id": "sl",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "name": "Sierra Leone",
+    "emoji": "🇸🇱",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/sl.png"
+  },
+  {
+    "id": "sg",
+    "iso2": "SG",
+    "iso3": "SGP",
+    "name": "Singapore",
+    "emoji": "🇸🇬",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/sg.png"
+  },
+  {
+    "id": "sx",
+    "iso2": "SX",
+    "iso3": "SXM",
+    "name": "Sint Maarten",
+    "emoji": "🇸🇽",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/sx.png"
+  },
+  {
+    "id": "sk",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "name": "Slovakia",
+    "emoji": "🇸🇰",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/sk.png"
+  },
+  {
+    "id": "si",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "name": "Slovenia",
+    "emoji": "🇸🇮",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/si.png"
+  },
+  {
+    "id": "sb",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "name": "Solomon Islands",
+    "emoji": "🇸🇧",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/sb.png"
+  },
+  {
+    "id": "so",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "name": "Somalia",
+    "emoji": "🇸🇴",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/so.png"
+  },
+  {
+    "id": "za",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "name": "South Africa",
+    "emoji": "🇿🇦",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/za.png"
+  },
+  {
+    "id": "gs",
+    "iso2": "GS",
+    "iso3": "SGS",
+    "name": "South Georgia",
+    "emoji": "🇬🇸",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/gs.png"
+  },
+  {
+    "id": "kr",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "name": "South Korea",
+    "emoji": "🇰🇷",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/kr.png"
+  },
+  {
+    "id": "ss",
+    "iso2": "SS",
+    "iso3": "SSD",
+    "name": "South Sudan",
+    "emoji": "🇸🇸",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ss.png"
+  },
+  {
+    "id": "es",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "name": "Spain",
+    "emoji": "🇪🇸",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/es.png"
+  },
+  {
+    "id": "lk",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "name": "Sri Lanka",
+    "emoji": "🇱🇰",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/lk.png"
+  },
+  {
+    "id": "sd",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "name": "Sudan",
+    "emoji": "🇸🇩",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/sd.png"
+  },
+  {
+    "id": "sr",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "name": "Suriname",
+    "emoji": "🇸🇷",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/sr.png"
+  },
+  {
+    "id": "sj",
+    "iso2": "SJ",
+    "iso3": "SJM",
+    "name": "Svalbard and Jan Mayen",
+    "emoji": "🇸🇯",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/sj.png"
+  },
+  {
+    "id": "se",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "name": "Sweden",
+    "emoji": "🇸🇪",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/se.png"
+  },
+  {
+    "id": "ch",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "name": "Switzerland",
+    "emoji": "🇨🇭",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ch.png"
+  },
+  {
+    "id": "sy",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "name": "Syria",
+    "emoji": "🇸🇾",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/sy.png"
+  },
+  {
+    "id": "tw",
+    "iso2": "TW",
+    "iso3": "TWN",
+    "name": "Taiwan",
+    "emoji": "🇹🇼",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/tw.png"
+  },
+  {
+    "id": "tj",
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "name": "Tajikistan",
+    "emoji": "🇹🇯",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/tj.png"
+  },
+  {
+    "id": "tz",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "name": "Tanzania",
+    "emoji": "🇹🇿",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/tz.png"
+  },
+  {
+    "id": "th",
+    "iso2": "TH",
+    "iso3": "THA",
+    "name": "Thailand",
+    "emoji": "🇹🇭",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/th.png"
+  },
+  {
+    "id": "tl",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "name": "Timor-Leste",
+    "emoji": "🇹🇱",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/tl.png"
+  },
+  {
+    "id": "tg",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "name": "Togo",
+    "emoji": "🇹🇬",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/tg.png"
+  },
+  {
+    "id": "tk",
+    "iso2": "TK",
+    "iso3": "TKL",
+    "name": "Tokelau",
+    "emoji": "🇹🇰",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/tk.png"
+  },
+  {
+    "id": "to",
+    "iso2": "TO",
+    "iso3": "TON",
+    "name": "Tonga",
+    "emoji": "🇹🇴",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/to.png"
+  },
+  {
+    "id": "tt",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "name": "Trinidad and Tobago",
+    "emoji": "🇹🇹",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/tt.png"
+  },
+  {
+    "id": "tn",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "name": "Tunisia",
+    "emoji": "🇹🇳",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/tn.png"
+  },
+  {
+    "id": "tr",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "name": "Turkey",
+    "emoji": "🇹🇷",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/tr.png"
+  },
+  {
+    "id": "tm",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "name": "Turkmenistan",
+    "emoji": "🇹🇲",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/tm.png"
+  },
+  {
+    "id": "tc",
+    "iso2": "TC",
+    "iso3": "TCA",
+    "name": "Turks and Caicos Islands",
+    "emoji": "🇹🇨",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/tc.png"
+  },
+  {
+    "id": "tv",
+    "iso2": "TV",
+    "iso3": "TUV",
+    "name": "Tuvalu",
+    "emoji": "🇹🇻",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/tv.png"
+  },
+  {
+    "id": "ug",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "name": "Uganda",
+    "emoji": "🇺🇬",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/ug.png"
+  },
+  {
+    "id": "ua",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "name": "Ukraine",
+    "emoji": "🇺🇦",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/ua.png"
+  },
+  {
+    "id": "ae",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "name": "United Arab Emirates",
+    "emoji": "🇦🇪",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/ae.png"
+  },
+  {
+    "id": "gb",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "name": "United Kingdom",
+    "emoji": "🇬🇧",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gb.png"
+  },
+  {
+    "id": "us",
+    "iso2": "US",
+    "iso3": "USA",
+    "name": "United States",
+    "emoji": "🇺🇸",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/us.png"
+  },
+  {
+    "id": "um",
+    "iso2": "UM",
+    "iso3": "UMI",
+    "name": "United States Minor Outlying Islands",
+    "emoji": "🇺🇲",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/um.png"
+  },
+  {
+    "id": "vi",
+    "iso2": "VI",
+    "iso3": "VIR",
+    "name": "United States Virgin Islands",
+    "emoji": "🇻🇮",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/vi.png"
+  },
+  {
+    "id": "uy",
+    "iso2": "UY",
+    "iso3": "URY",
+    "name": "Uruguay",
+    "emoji": "🇺🇾",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/uy.png"
+  },
+  {
+    "id": "uz",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "name": "Uzbekistan",
+    "emoji": "🇺🇿",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/uz.png"
+  },
+  {
+    "id": "vu",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "name": "Vanuatu",
+    "emoji": "🇻🇺",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/vu.png"
+  },
+  {
+    "id": "va",
+    "iso2": "VA",
+    "iso3": "VAT",
+    "name": "Vatican City (Holy See)",
+    "emoji": "🇻🇦",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/va.png"
+  },
+  {
+    "id": "ve",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "name": "Venezuela",
+    "emoji": "🇻🇪",
+    "continent": "Americas",
+    "image": "https://flagcdn.com/w640/ve.png"
+  },
+  {
+    "id": "vn",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "name": "Vietnam",
+    "emoji": "🇻🇳",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/vn.png"
+  },
+  {
+    "id": "gb-wls",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "region": "Wales",
+    "name": "Wales",
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "continent": "Europe",
+    "image": "https://flagcdn.com/w640/gb-wls.png"
+  },
+  {
+    "id": "wf",
+    "iso2": "WF",
+    "iso3": "WLF",
+    "name": "Wallis and Futuna",
+    "emoji": "🇼🇫",
+    "continent": "Oceania",
+    "image": "https://flagcdn.com/w640/wf.png"
+  },
+  {
+    "id": "eh",
+    "iso2": "EH",
+    "iso3": "ESH",
+    "name": "Western Sahara",
+    "emoji": "🇪🇭",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/eh.png"
+  },
+  {
+    "id": "ye",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "name": "Yemen",
+    "emoji": "🇾🇪",
+    "continent": "Asia",
+    "image": "https://flagcdn.com/w640/ye.png"
+  },
+  {
+    "id": "zm",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "name": "Zambia",
+    "emoji": "🇿🇲",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/zm.png"
+  },
+  {
+    "id": "zw",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "name": "Zimbabwe",
+    "emoji": "🇿🇼",
+    "continent": "Africa",
+    "image": "https://flagcdn.com/w640/zw.png"
+  }
+]

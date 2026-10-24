@@ -1,0 +1,14 @@
+[
+  { "id": "heavyweight", "name": "Heavyweight", "gender": "male", "limitLb": 265, "limitKg": 120 },
+  { "id": "light-heavyweight", "name": "Light Heavyweight", "gender": "male", "limitLb": 205, "limitKg": 93 },
+  { "id": "middleweight", "name": "Middleweight", "gender": "male", "limitLb": 185, "limitKg": 84 },
+  { "id": "welterweight", "name": "Welterweight", "gender": "male", "limitLb": 170, "limitKg": 77 },
+  { "id": "lightweight", "name": "Lightweight", "gender": "male", "limitLb": 155, "limitKg": 70 },
+  { "id": "featherweight", "name": "Featherweight", "gender": "male", "limitLb": 145, "limitKg": 66 },
+  { "id": "bantamweight", "name": "Bantamweight", "gender": "male", "limitLb": 135, "limitKg": 61 },
+  { "id": "flyweight", "name": "Flyweight", "gender": "male", "limitLb": 125, "limitKg": 57 },
+  { "id": "womens-featherweight", "name": "Women's Featherweight", "gender": "female", "limitLb": 145, "limitKg": 66, "active": false },
+  { "id": "womens-bantamweight", "name": "Women's Bantamweight", "gender": "female", "limitLb": 135, "limitKg": 61 },
+  { "id": "womens-flyweight", "name": "Women's Flyweight", "gender": "female", "limitLb": 125, "limitKg": 57 },
+  { "id": "womens-strawweight", "name": "Women's Strawweight", "gender": "female", "limitLb": 115, "limitKg": 52 }
+]

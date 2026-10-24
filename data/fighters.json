@@ -1,0 +1,5686 @@
+[
+  {
+    "name": "Derrick Lewis",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "derrick-lewis",
+    "headshot": "https://www.ufc.com/images/2026-06/LEWIS_DERRICK_06-14.png"
+  },
+  {
+    "name": "Curtis Blaydes",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "curtis-blaydes",
+    "headshot": "https://www.ufc.com/images/2026-09/BLAYDES_CURTIS_09-12.png"
+  },
+  {
+    "name": "Marcin Tybura",
+    "weightClass": "Heavyweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "marcin-tybura",
+    "headshot": "https://www.ufc.com/images/2026-07/TYBURA_MARCIN_08-01.png"
+  },
+  {
+    "name": "Alexander Volkov",
+    "weightClass": "Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "alexander-volkov",
+    "headshot": "https://www.ufc.com/images/2026-10/VOLKOV_ALEXANDER_10-24.png"
+  },
+  {
+    "name": "Tai Tuivasa",
+    "weightClass": "Heavyweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "tai-tuivasa",
+    "headshot": "https://www.ufc.com/images/2026-09/TUIVASA_TAI_09-19.png"
+  },
+  {
+    "name": "Aleksandar Rakić",
+    "weightClass": "Heavyweight",
+    "nationality": "AUT",
+    "flag": "🇦🇹",
+    "slug": "aleksandar-rakic",
+    "headshot": "https://www.ufc.com/images/2026-07/RAKIC_ALEKSANDAR_08-01.png"
+  },
+  {
+    "name": "Ryan Spann",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ryan-spann",
+    "headshot": "https://www.ufc.com/images/2026-09/SPANN_RYAN_09-05.png"
+  },
+  {
+    "name": "Johnny Walker",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "johnny-walker",
+    "headshot": "https://www.ufc.com/images/2026-10/WALKER_JOHNNY_10-03.png"
+  },
+  {
+    "name": "Sergei Pavlovich",
+    "weightClass": "Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "sergei-pavlovich",
+    "headshot": "https://www.ufc.com/images/2026-05/PAVLOVICH_SERGEI_05-30.png"
+  },
+  {
+    "name": "Kennedy Nzechukwu",
+    "weightClass": "Heavyweight",
+    "nationality": "NGA",
+    "flag": "🇳🇬",
+    "slug": "kennedy-nzechukwu",
+    "headshot": "https://www.ufc.com/images/2026-08/NZECHUKWU_KENNEDY_08-22.png"
+  },
+  {
+    "name": "Serghei Spivac",
+    "weightClass": "Heavyweight",
+    "nationality": "MDA",
+    "flag": "🇲🇩",
+    "slug": "serghei-spivac",
+    "headshot": "https://www.ufc.com/images/2026-08/SPIVAC_SERGHEI_08-22.png"
+  },
+  {
+    "name": "Ciryl Gane",
+    "weightClass": "Heavyweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "ciryl-gane",
+    "headshot": "https://www.ufc.com/images/2026-06/GANE_CIRYL_BELT_01-22.png"
+  },
+  {
+    "name": "Tanner Boser",
+    "weightClass": "Heavyweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "tanner-boser",
+    "headshot": "https://www.ufc.com/images/2026-10/BOSER_TANNER_10-17.png"
+  },
+  {
+    "name": "Tom Aspinall",
+    "weightClass": "Heavyweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "tom-aspinall",
+    "headshot": "https://www.ufc.com/images/2023-11/ASPINALL_TOM_11-11.png"
+  },
+  {
+    "name": "Alex Pereira",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "alex-pereira",
+    "headshot": "https://www.ufc.com/images/2025-10/PEREIRA_ALEX_10-04.png"
+  },
+  {
+    "name": "Waldo Cortes-Acosta",
+    "weightClass": "Heavyweight",
+    "nationality": "DOM",
+    "flag": "🇩🇴",
+    "slug": "waldo-cortes-acosta",
+    "headshot": "https://www.ufc.com/images/2026-09/CORTES_ACOSTA_WALDO_09-12.png"
+  },
+  {
+    "name": "Vitor Petrino",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "vitor-petrino",
+    "headshot": "https://www.ufc.com/images/2026-08/PETRINO_VITOR_08-22.png"
+  },
+  {
+    "name": "Mick Parkin",
+    "weightClass": "Heavyweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "mick-parkin",
+    "headshot": "https://www.ufc.com/images/2026-10/PARKIN_MICK_10-03.png"
+  },
+  {
+    "name": "Shamil Gaziev",
+    "weightClass": "Heavyweight",
+    "nationality": "BHR",
+    "flag": "🇧🇭",
+    "slug": "shamil-gaziev",
+    "headshot": "https://www.ufc.com/images/2026-08/GAZIEV_SHAMIL_08-22.png"
+  },
+  {
+    "name": "Thomas Petersen",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "thomas-petersen",
+    "headshot": "https://www.ufc.com/images/2026-07/PETERSEN_THOMAS_07-25.png"
+  },
+  {
+    "name": "Robelis Despaigne",
+    "weightClass": "Heavyweight",
+    "nationality": "CUB",
+    "flag": "🇨🇺",
+    "slug": "robelis-despaigne",
+    "headshot": "https://www.ufc.com/images/2026-09/DESPAIGNE_ROBELIS_09-19.png"
+  },
+  {
+    "name": "Valter Walker",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "valter-walker",
+    "headshot": "https://www.ufc.com/images/2026-07/WALKER_VALTER_07-25.png"
+  },
+  {
+    "name": "Jhonata Diniz",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jhonata-diniz",
+    "headshot": "https://www.ufc.com/images/2026-10/DINIZ_JHONATA_10-17.png"
+  },
+  {
+    "name": "Sean Sharaf",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sean-sharaf",
+    "headshot": "https://www.ufc.com/images/2026-09/SHARAF_SEAN_09-19.png"
+  },
+  {
+    "name": "Tallison Teixeira",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "tallison-teixeira",
+    "headshot": "https://www.ufc.com/images/2025-07/TEIXEIRA_TALLISON_07-12.png"
+  },
+  {
+    "name": "Mário Pinto",
+    "weightClass": "Heavyweight",
+    "nationality": "PRT",
+    "flag": "🇵🇹",
+    "slug": "mario-pinto",
+    "headshot": "https://www.ufc.com/images/2026-09/PINTO_MARIO_09-05.png"
+  },
+  {
+    "name": "Rizvan Kuniev",
+    "weightClass": "Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "rizvan-kuniev",
+    "headshot": "https://www.ufc.com/images/2026-10/KUNIEV_RIZVAN_10-24.png"
+  },
+  {
+    "name": "Alvin Hines",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "alvin-hines",
+    "headshot": "https://www.ufc.com/images/2026-07/HINES_ALVIN_07-18.png"
+  },
+  {
+    "name": "Marcus Buchecha",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "marcus-buchecha",
+    "headshot": "https://www.ufc.com/images/2026-04/BUCHECHA_MARCUS_04-25.png"
+  },
+  {
+    "name": "Ante Delija",
+    "weightClass": "Heavyweight",
+    "nationality": "HRV",
+    "flag": "🇭🇷",
+    "slug": "ante-delija",
+    "headshot": "https://www.ufc.com/images/2026-02/DELIJA_ANTE_02-21.png"
+  },
+  {
+    "name": "Brando Peričić",
+    "weightClass": "Heavyweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "brando-pericic",
+    "headshot": "https://www.ufc.com/images/2026-04/PERICIC_BRANDO_05-02.png"
+  },
+  {
+    "name": "Elisha Ellison",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "elisha-ellison",
+    "headshot": "https://www.ufc.com/images/2026-07/ELLISON_ELISHA_07-11.png"
+  },
+  {
+    "name": "Louie Sutherland",
+    "weightClass": "Heavyweight",
+    "nationality": "GBR",
+    "region": "Scotland",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "slug": "louie-sutherland",
+    "headshot": "https://www.ufc.com/images/2026-08/SUTHERLAND_LOUIE_08-08.png"
+  },
+  {
+    "name": "Josh Hokit",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "josh-hokit",
+    "headshot": "https://www.ufc.com/images/2026-06/HOKIT_JOSH_06-14.png"
+  },
+  {
+    "name": "Max Gimenis",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "max-gimenis",
+    "headshot": "https://www.ufc.com/images/2025-11/GIMENIS_MAX_11-08.png"
+  },
+  {
+    "name": "Denzel Freeman",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "denzel-freeman",
+    "headshot": "https://www.ufc.com/images/2025-11/FREEMAN_DENZEL_11-22.png"
+  },
+  {
+    "name": "Guilherme Pat",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "guilherme-pat",
+    "headshot": "https://www.ufc.com/images/2026-08/PAT_GUILHERME_08-08.png"
+  },
+  {
+    "name": "Allen Frye Jr.",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "allen-frye-jr",
+    "headshot": "https://www.ufc.com/images/2026-10/FRYE_JR_ALLEN_10-10.png"
+  },
+  {
+    "name": "Steven Asplund",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "steven-asplund",
+    "headshot": "https://www.ufc.com/images/2026-08/ASPLUND_STEVE_08-08.png"
+  },
+  {
+    "name": "Tyrell Fortune",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "tyrell-fortune",
+    "headshot": "https://www.ufc.com/images/2026-07/FORTUNE_TYRELL_07-25.png"
+  },
+  {
+    "name": "Gökhan Saricam",
+    "weightClass": "Heavyweight",
+    "nationality": "TUR",
+    "flag": "🇹🇷",
+    "slug": "gokhan-saricam",
+    "headshot": "https://www.ufc.com/images/2026-04/SARICAM_GOKHAN_04-18.png"
+  },
+  {
+    "name": "Gable Steveson",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "gable-steveson",
+    "headshot": "https://www.ufc.com/images/2026-09/STEVESON_GABLE_09-19.png"
+  },
+  {
+    "name": "RJ Harris",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "rj-harris",
+    "headshot": "https://www.ufc.com/images/2026-10/HARRIS_RJ_10-10.png"
+  },
+  {
+    "name": "Jovan Leka",
+    "weightClass": "Heavyweight",
+    "nationality": "SRB",
+    "flag": "🇷🇸",
+    "slug": "jovan-leka",
+    "headshot": "https://www.ufc.com/images/2026-07/LEKA_JOVAN_08-01.png"
+  },
+  {
+    "name": "Alexander Poppeck",
+    "weightClass": "Heavyweight",
+    "nationality": "DEU",
+    "flag": "🇩🇪",
+    "slug": "alexander-poppeck",
+    "headshot": "https://www.ufc.com/images/2026-07/POPPECK_ALEXANDER_08-01.png"
+  },
+  {
+    "name": "José Luiz",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷"
+  },
+  {
+    "name": "Anthony Wint",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "anthony-wint",
+    "headshot": "https://www.ufc.com/images/2026-10/WINT_ANTHONY_10-03.png"
+  },
+  {
+    "name": "Terrance Chatman",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "terrance-chatman",
+    "headshot": "https://www.ufc.com/images/2026-08/CHATMAN_TERRANCE_08-22.png"
+  },
+  {
+    "name": "Lucas Armand",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "lucas-armand",
+    "headshot": "https://www.ufc.com/images/2026-10/ARMAND_LUCAS_10-03.png"
+  },
+  {
+    "name": "Javad Mahjoub",
+    "weightClass": "Heavyweight",
+    "nationality": "IRN",
+    "flag": "🇮🇷",
+    "slug": "javad-mahjoub",
+    "headshot": "https://www.ufc.com/images/2026-10/MAHJOUB_JAVAD_10-17.png"
+  },
+  {
+    "name": "Joel Faglier",
+    "weightClass": "Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "joel-faglier",
+    "headshot": "https://www.ufc.com/images/2026-10/FAGLIER_JOEL_10-17.png"
+  },
+  {
+    "name": "Dustin Jacoby",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "dustin-jacoby",
+    "headshot": "https://www.ufc.com/images/2026-07/JACOBY_DUSTIN_07-25.png"
+  },
+  {
+    "name": "Robert Whittaker",
+    "weightClass": "Light Heavyweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "robert-whittaker",
+    "headshot": "https://www.ufc.com/images/2026-07/WHITTAKER_ROBERT_07-11.png"
+  },
+  {
+    "name": "Nikita Krylov",
+    "weightClass": "Light Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "nikita-krylov",
+    "headshot": "https://www.ufc.com/images/2026-10/KRYLOV_NIKITA_10-24.png"
+  },
+  {
+    "name": "Jan Błachowicz",
+    "weightClass": "Light Heavyweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "jan-blachowicz",
+    "headshot": "https://www.ufc.com/images/2026-07/BLACHOWICZ_JAN_08-01.png"
+  },
+  {
+    "name": "Ion Cuțelaba",
+    "weightClass": "Light Heavyweight",
+    "nationality": "MDA",
+    "flag": "🇲🇩",
+    "slug": "ion-cutelaba",
+    "headshot": "https://www.ufc.com/images/2026-06/CUTELABA_ION_06-20.png"
+  },
+  {
+    "name": "Khalil Rountree Jr.",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "khalil-rountree-jr",
+    "headshot": "https://www.ufc.com/images/2025-10/ROUNTREE_KHALIL_10-04.png"
+  },
+  {
+    "name": "Volkan Oezdemir",
+    "weightClass": "Light Heavyweight",
+    "nationality": "CHE",
+    "flag": "🇨🇭",
+    "slug": "volkan-oezdemir",
+    "headshot": "https://www.ufc.com/images/2025-11/OEZDEMIR_VOLKAN_11-22.png"
+  },
+  {
+    "name": "Paulo Costa",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "paulo-costa",
+    "headshot": "https://www.ufc.com/images/2026-04/COSTA_PAULO_04-11.png"
+  },
+  {
+    "name": "Dominick Reyes",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "dominick-reyes",
+    "headshot": "https://www.ufc.com/images/2026-10/REYES_DOMINICK_10-24.png"
+  },
+  {
+    "name": "Magomed Ankalaev",
+    "weightClass": "Light Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "magomed-ankalaev",
+    "headshot": "https://www.ufc.com/images/2026-07/ANKALAEV_MAGOMED_07-25.png"
+  },
+  {
+    "name": "Jimmy Crute",
+    "weightClass": "Light Heavyweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "jimmy-crute",
+    "headshot": "https://www.ufc.com/images/2025-09/CRUTE_JIMMY_09-27.png"
+  },
+  {
+    "name": "Alonzo Menifield",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "alonzo-menifield",
+    "headshot": "https://www.ufc.com/images/2026-09/MENIFIELD_ALONZO_09-19.png"
+  },
+  {
+    "name": "Jamahal Hill",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jamahal-hill",
+    "headshot": "https://www.ufc.com/images/2025-06/HILL_JAMAHAL_06-21.png"
+  },
+  {
+    "name": "Jiří Procházka",
+    "weightClass": "Light Heavyweight",
+    "nationality": "CZE",
+    "flag": "🇨🇿",
+    "slug": "jiri-prochazka",
+    "headshot": "https://www.ufc.com/images/2026-04/PROCHAZKA_JIRI_04-11.png"
+  },
+  {
+    "name": "Modestas Bukauskas",
+    "weightClass": "Light Heavyweight",
+    "nationality": "LTU",
+    "flag": "🇱🇹",
+    "slug": "modestas-bukauskas",
+    "headshot": "https://www.ufc.com/images/2026-09/BUKAUSKAS_MODESTAS_09-05.png"
+  },
+  {
+    "name": "Roman Dolidze",
+    "weightClass": "Light Heavyweight",
+    "nationality": "GEO",
+    "flag": "🇬🇪",
+    "slug": "roman-dolidze",
+    "headshot": "https://www.ufc.com/images/2026-08/DOLIDZE_ROMAN_08-22.png"
+  },
+  {
+    "name": "Carlos Ulberg",
+    "weightClass": "Light Heavyweight",
+    "nationality": "NZL",
+    "flag": "🇳🇿",
+    "slug": "carlos-ulberg",
+    "headshot": "https://www.ufc.com/images/2026-04/ULBERG_CARLOS_BELTMOCK.png"
+  },
+  {
+    "name": "Azamat Murzakanov",
+    "weightClass": "Light Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "azamat-murzakanov",
+    "headshot": "https://www.ufc.com/images/2026-10/MURZAKANOV_AZAMAT_10-24.png"
+  },
+  {
+    "name": "Sedriques Dumas",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sedriques-dumas",
+    "headshot": "https://www.ufc.com/images/2026-09/DUMAS_SEDRIQUES_09-26.png"
+  },
+  {
+    "name": "Junior Tafa",
+    "weightClass": "Light Heavyweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "junior-tafa",
+    "headshot": "https://www.ufc.com/images/2026-06/TAFA_JUNIOR_06-06.png"
+  },
+  {
+    "name": "Bogdan Guskov",
+    "weightClass": "Light Heavyweight",
+    "nationality": "UZB",
+    "flag": "🇺🇿",
+    "slug": "bogdan-guskov",
+    "headshot": "https://www.ufc.com/images/2025-12/GUSKOV_BOGDAN_12-06.png"
+  },
+  {
+    "name": "Rodolfo Bellato",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "rodolfo-bellato",
+    "headshot": "https://www.ufc.com/images/2026-09/BELLATO_RODOLFO_09-26.png"
+  },
+  {
+    "name": "Zhang Mingyang",
+    "weightClass": "Light Heavyweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "zhang-mingyang",
+    "headshot": "https://www.ufc.com/images/2026-05/MINGYANG_ZHANG_05-30.png"
+  },
+  {
+    "name": "Brendson Ribeiro",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "brendson-ribeiro",
+    "headshot": "https://www.ufc.com/images/2026-10/RIBEIRO_BRENDSON_10-10.png"
+  },
+  {
+    "name": "İbo Aslan",
+    "weightClass": "Light Heavyweight",
+    "nationality": "TUR",
+    "flag": "🇹🇷",
+    "slug": "ibo-aslan",
+    "headshot": "https://www.ufc.com/images/2025-12/ASLAN_IBO_12-06.png"
+  },
+  {
+    "name": "Oumar Sy",
+    "weightClass": "Light Heavyweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "oumar-sy",
+    "headshot": "https://www.ufc.com/images/2026-09/SY_OUMAR_09-05.png"
+  },
+  {
+    "name": "Reinier de Ridder",
+    "weightClass": "Light Heavyweight",
+    "nationality": "NLD",
+    "flag": "🇳🇱",
+    "slug": "reinier-de-ridder",
+    "headshot": "https://www.ufc.com/images/2026-08/DE-RIDDER_REINIER_08-22.png"
+  },
+  {
+    "name": "Navajo Stirling",
+    "weightClass": "Light Heavyweight",
+    "nationality": "NZL",
+    "flag": "🇳🇿",
+    "slug": "navajo-stirling",
+    "headshot": "https://www.ufc.com/images/2026-07/STIRLING_NAVAJO_08-01.png"
+  },
+  {
+    "name": "Billy Elekana",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "billy-elekana",
+    "headshot": "https://www.ufc.com/images/2026-01/ELEKANA_BILLY_01-31.png"
+  },
+  {
+    "name": "Julius Walker",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "julius-walker",
+    "headshot": "https://www.ufc.com/images/2026-10/WALKER_JULIUS_10-10.png"
+  },
+  {
+    "name": "Diyar Nurgozhay",
+    "weightClass": "Light Heavyweight",
+    "nationality": "KAZ",
+    "flag": "🇰🇿",
+    "slug": "diyar-nurgozhay",
+    "headshot": "https://www.ufc.com/images/2026-08/NURGOZHAY_DIYAR_08-08.png"
+  },
+  {
+    "name": "Uran Satybaldiev",
+    "weightClass": "Light Heavyweight",
+    "nationality": "KGZ",
+    "flag": "🇰🇬",
+    "slug": "uran-satybaldiev",
+    "headshot": "https://www.ufc.com/images/2025-08/SATYBALDIEV_URAN_08-23.png"
+  },
+  {
+    "name": "Kevin Christian",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "kevin-christian",
+    "headshot": "https://www.ufc.com/images/2025-11/CHRISTIAN_KEVIN_11-01.png"
+  },
+  {
+    "name": "Abdul-Rakhman Yakhyaev",
+    "weightClass": "Light Heavyweight",
+    "nationality": "TUR",
+    "flag": "🇹🇷",
+    "slug": "abdulrakhman-yakhyaev",
+    "headshot": "https://www.ufc.com/images/2026-10/YAKHYAEV_ABDUL_RAKHMAN_10-24.png"
+  },
+  {
+    "name": "Iwo Baraniewski",
+    "weightClass": "Light Heavyweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "iwo-baraniewski",
+    "headshot": "https://www.ufc.com/images/2026-09/BARANIEWSKI_IWO_09-19.png"
+  },
+  {
+    "name": "Luke Fernandez",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "luke-fernandez",
+    "headshot": "https://www.ufc.com/images/2026-03/FERNANDEZ_LUKE_03-07.png"
+  },
+  {
+    "name": "Rafael Tobias",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "rafael-tobias",
+    "headshot": "https://www.ufc.com/images/2026-08/TOBIAS_RAFAEL_08-15.png"
+  },
+  {
+    "name": "Felipe Franco",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "felipe-franco",
+    "headshot": "https://www.ufc.com/images/2026-10/FRANCO_FELIPE_10-10.png"
+  },
+  {
+    "name": "Christian Edwards",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "christian-edwards",
+    "headshot": "https://www.ufc.com/images/2026-05/EDWARDS_CHRISTIAN_05-16.png"
+  },
+  {
+    "name": "Levi Rodrigues Jr.",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "levi-rodrigues-jr",
+    "headshot": "https://www.ufc.com/images/2026-08/RODRIGUES_JR_LEVI_08-29.png"
+  },
+  {
+    "name": "Magomed Tuchalov",
+    "weightClass": "Light Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "magomed-tuchalov",
+    "headshot": "https://www.ufc.com/images/2026-07/TUCHALOV_MAGOMED_07-25.png"
+  },
+  {
+    "name": "Muhammad Saidov",
+    "weightClass": "Light Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "muhammad-said",
+    "headshot": "https://www.ufc.com/images/2026-07/SAIDOV_MUHAMMAD_07-25.png"
+  },
+  {
+    "name": "Lucas Fernando",
+    "weightClass": "Light Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "lucas-fernando",
+    "headshot": "https://www.ufc.com/images/2026-08/FERNANDO_LUCAS_08-15.png"
+  },
+  {
+    "name": "Liu Ce",
+    "weightClass": "Light Heavyweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "liu-ce",
+    "headshot": "https://www.ufc.com/images/2026-08/CE_LIU_08-29.png"
+  },
+  {
+    "name": "Luis Hernandez",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "luis-hernandez",
+    "headshot": "https://www.ufc.com/images/2026-09/HERNANDEZ_LUIS_09-26.png"
+  },
+  {
+    "name": "Brad Tavares",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "brad-tavares",
+    "headshot": "https://www.ufc.com/images/2026-03/TAVARES_BRAD_03-14.png"
+  },
+  {
+    "name": "Kelvin Gastelum",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "kelvin-gastelum",
+    "headshot": "https://www.ufc.com/images/2026-04/GASTELUM_KELVIN_04-11.png"
+  },
+  {
+    "name": "Sean Strickland",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sean-strickland",
+    "headshot": "https://www.ufc.com/images/2024-01/STRICKLAND_SEAN_BELT_01-20.png"
+  },
+  {
+    "name": "Jared Cannonier",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jared-cannonier",
+    "headshot": "https://www.ufc.com/images/2026-07/CANNONIER_JARED_07-18.png"
+  },
+  {
+    "name": "Vicente Luque",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "vicente-luque",
+    "headshot": "https://www.ufc.com/images/2026-08/LUQUE_VICENTE_08-15.png"
+  },
+  {
+    "name": "Kamaru Usman",
+    "weightClass": "Middleweight",
+    "nationality": "NGA",
+    "flag": "🇳🇬",
+    "slug": "kamaru-usman",
+    "headshot": "https://www.ufc.com/images/2026-07/USMAN_KAMARU_07-18.png"
+  },
+  {
+    "name": "Marvin Vettori",
+    "weightClass": "Middleweight",
+    "nationality": "ITA",
+    "flag": "🇮🇹",
+    "slug": "marvin-vettori",
+    "headshot": "https://www.ufc.com/images/2026-10/VETTORI_MARVIN_10-03.png"
+  },
+  {
+    "name": "Michał Oleksiejczuk",
+    "weightClass": "Middleweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "michal-oleksiejczuk",
+    "headshot": "https://www.ufc.com/images/2026-06/OLEKSIEJCZUK_MICHAL_06-27.png"
+  },
+  {
+    "name": "Israel Adesanya",
+    "weightClass": "Middleweight",
+    "nationality": "NGA",
+    "flag": "🇳🇬",
+    "slug": "israel-adesanya",
+    "headshot": "https://www.ufc.com/images/2026-03/ADESANYA_ISRAEL_03-28.png"
+  },
+  {
+    "name": "Edmen Shahbazyan",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "edmen-shahbazyan",
+    "headshot": "https://www.ufc.com/images/2026-09/SHAHBAZYAN_EDMEN_09-19.png"
+  },
+  {
+    "name": "Anthony Hernandez",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "anthony-hernandez",
+    "headshot": "https://www.ufc.com/images/2026-08/HERNANDEZ_ANTHONY_08-22.png"
+  },
+  {
+    "name": "Ismail Naurdiev",
+    "weightClass": "Middleweight",
+    "nationality": "AUT",
+    "flag": "🇦🇹",
+    "slug": "ismail-naurdiev",
+    "headshot": "https://www.ufc.com/images/2026-10/NAURDIEV_ISMAIL_10-03.png"
+  },
+  {
+    "name": "Marc-André Barriault",
+    "weightClass": "Middleweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "marc-andre-barriault",
+    "headshot": "https://www.ufc.com/images/2026-10/BARRIAULT_MARC-ANDRE_10-17.png"
+  },
+  {
+    "name": "Rodolfo Vieira",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "rodolfo-vieira",
+    "headshot": "https://www.ufc.com/images/2026-09/VIEIRA_RODOLFO_09-26.png"
+  },
+  {
+    "name": "Park Jun-yong",
+    "weightClass": "Middleweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "jun-yong-park",
+    "headshot": "https://www.ufc.com/images/2025-10/PARK_JUNYONG_10-25.png"
+  },
+  {
+    "name": "Brendan Allen",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "brendan-allen",
+    "headshot": "https://www.ufc.com/images/2026-10/ALLEN_BRENDAN_10-10.png"
+  },
+  {
+    "name": "Roman Kopylov",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "roman-kopylov",
+    "headshot": "https://www.ufc.com/images/2026-10/KOPYLOV_ROMAN_10-03.png"
+  },
+  {
+    "name": "Kyle Daukaus",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "kyle-daukaus",
+    "headshot": "https://www.ufc.com/images/2026-10/DAUKAUS_KYLE_10-17.png"
+  },
+  {
+    "name": "Khamzat Chimaev",
+    "weightClass": "Middleweight",
+    "nationality": "ARE",
+    "flag": "🇦🇪",
+    "slug": "khamzat-chimaev",
+    "headshot": "https://www.ufc.com/images/2025-05/CHIMAEV_KHAMZAT_10-26.png"
+  },
+  {
+    "name": "Nassourdine Imavov",
+    "weightClass": "Middleweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "nassourdine-imavov",
+    "headshot": "https://www.ufc.com/images/2025-09/IMAVOV_NASSOURDINE_09-06.png"
+  },
+  {
+    "name": "Duško Todorović",
+    "weightClass": "Middleweight",
+    "nationality": "SRB",
+    "flag": "🇷🇸",
+    "slug": "dusko-todorovic",
+    "headshot": "https://www.ufc.com/images/2026-07/TODOROVIC_DUSKO_08-01.png"
+  },
+  {
+    "name": "Dricus du Plessis",
+    "weightClass": "Middleweight",
+    "nationality": "ZAF",
+    "flag": "🇿🇦",
+    "slug": "dricus-du-plessis",
+    "headshot": "https://www.ufc.com/images/2026-07/DU_PLESSIS_DRICUS_07-18.png"
+  },
+  {
+    "name": "Gilbert Urbina",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "gilbert-urbina",
+    "headshot": "https://www.ufc.com/images/2026-07/URBINA_GILBERT_08-01.png"
+  },
+  {
+    "name": "Cody Brundage",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "cody-brundage",
+    "headshot": "https://www.ufc.com/images/2026-05/BRUNDAGE_CODY_05-16.png"
+  },
+  {
+    "name": "Jacob Malkoun",
+    "weightClass": "Middleweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "jacob-malkoun",
+    "headshot": "https://www.ufc.com/images/2026-10/MALKOUN_JACOB_10-24.png"
+  },
+  {
+    "name": "Dustin Stoltzfus",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "dustin-stoltzfus",
+    "headshot": "https://www.ufc.com/images/2026-08/STOLTZFUS_DUSTIN_08-15.png"
+  },
+  {
+    "name": "Gregory Rodrigues",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "gregory-rodrigues",
+    "headshot": "https://www.ufc.com/images/2026-08/RODRIGUES_GREGORY_08-22.png"
+  },
+  {
+    "name": "Andre Petroski",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "andre-petroski",
+    "headshot": "https://www.ufc.com/images/2026-05/PETROSKI_ANDRE_05-16.png"
+  },
+  {
+    "name": "Tresean Gore",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "tresean-gore",
+    "headshot": "https://www.ufc.com/images/2026-08/GORE_TRESEAN_08-15.png"
+  },
+  {
+    "name": "Caio Borralho",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "caio-borralho",
+    "headshot": "https://www.ufc.com/images/2026-03/BORRALHO_CAIO_03-07.png"
+  },
+  {
+    "name": "Abusupiyan Magomedov",
+    "weightClass": "Middleweight",
+    "nationality": "DEU",
+    "flag": "🇩🇪",
+    "slug": "abus-magomedov",
+    "headshot": "https://www.ufc.com/images/2026-10/MAGOMEDOV_ABUS_10-24.png"
+  },
+  {
+    "name": "Joe Pyfer",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "joe-pyfer",
+    "headshot": "https://www.ufc.com/images/2026-03/PYFER_JOE_03-28.png"
+  },
+  {
+    "name": "Brunno Ferreira",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "brunno-ferreira",
+    "headshot": "https://www.ufc.com/images/2026-09/FERREIRA_BRUNNO_09-19.png"
+  },
+  {
+    "name": "Bo Nickal",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "bo-nickal",
+    "headshot": "https://www.ufc.com/images/2026-06/NICKAL_BO_06-14.png"
+  },
+  {
+    "name": "Christian Leroy Duncan",
+    "weightClass": "Middleweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "christian-leroy-duncan",
+    "headshot": "https://www.ufc.com/images/2026-10/DUNCAN_CHRISTIAN_LEROY_10-10.png"
+  },
+  {
+    "name": "Ikram Aliskerov",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "ikram-aliskerov",
+    "headshot": "https://www.ufc.com/images/2026-06/ALISKEROV_IKRAM_06-27.png"
+  },
+  {
+    "name": "Nursulton Ruziboev",
+    "weightClass": "Middleweight",
+    "nationality": "UZB",
+    "flag": "🇺🇿",
+    "slug": "nursulton-ruziboev",
+    "headshot": "https://www.ufc.com/images/2026-09/RUZIBOEV_NURSULTON_09-05.png"
+  },
+  {
+    "name": "Sharabutdin Magomedov",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "shara-magomedov",
+    "headshot": "https://www.ufc.com/images/2026-06/MAGOMEDOV_SHARA_06-27.png"
+  },
+  {
+    "name": "Zachary Reese",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "zachary-reese",
+    "headshot": "https://www.ufc.com/images/2026-07/REESE_ZACH_07-11.png"
+  },
+  {
+    "name": "Robert Bryczek",
+    "weightClass": "Middleweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "robert-bryczek",
+    "headshot": "https://www.ufc.com/images/2026-09/BRYCZEK_ROBERT_09-26.png"
+  },
+  {
+    "name": "César Almeida",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "cesar-almeida",
+    "headshot": "https://www.ufc.com/images/2026-07/ALMEIDA_CESAR_07-11.png"
+  },
+  {
+    "name": "Robert Valentin",
+    "weightClass": "Middleweight",
+    "nationality": "CHE",
+    "flag": "🇨🇭",
+    "slug": "robert-valentin-frey",
+    "headshot": "https://www.ufc.com/images/2026-07/VALENTIN_ROBERT_08-01.png"
+  },
+  {
+    "name": "Ryan Loder",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ryan-loder",
+    "headshot": "https://www.ufc.com/images/2025-11/LODER_RYAN_11-22.png"
+  },
+  {
+    "name": "Mansur Abdul-Malik",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mansur-abdul-malik",
+    "headshot": "https://www.ufc.com/images/2026-08/ABDUL-MALIK_MANSUR_08-15.png"
+  },
+  {
+    "name": "Osman Diaz",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ozzy-diaz",
+    "headshot": "https://www.ufc.com/images/2025-03/DIAZ_OZZY_03-08.png"
+  },
+  {
+    "name": "Marco Tulio",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "marco-tulio",
+    "headshot": "https://www.ufc.com/images/2026-05/TULIO_MARCO_05-09.png"
+  },
+  {
+    "name": "Azamat Bekoev",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "azamat-bekoev",
+    "headshot": "https://www.ufc.com/images/2026-04/BEKOEV_AZAMAT_04-04.png"
+  },
+  {
+    "name": "Eric McConico",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "eric-mcconico",
+    "headshot": "https://www.ufc.com/images/2026-08/MCCONICO_ERIC_08-15.png"
+  },
+  {
+    "name": "Nick Klein",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "nick-klein",
+    "headshot": "https://www.ufc.com/images/2025-07/KLEIN_NICK_08-02.png"
+  },
+  {
+    "name": "Djorden Santos",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "djorden-santos",
+    "headshot": "https://www.ufc.com/images/2026-09/SANTOS_DJORDEN_09-12.png"
+  },
+  {
+    "name": "Andrey Pulyaev",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "andrey-pulyaev",
+    "headshot": "https://www.ufc.com/images/2025-03/PULYAEV_ANDREY_03-22.png"
+  },
+  {
+    "name": "Ateba Gautier",
+    "weightClass": "Middleweight",
+    "nationality": "CMR",
+    "flag": "🇨🇲",
+    "slug": "ateba-gautier",
+    "headshot": "https://www.ufc.com/images/2026-10/GAUTIER_ATEBA_10-03.png"
+  },
+  {
+    "name": "Torrez Finney",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "torrez-finney",
+    "headshot": "https://www.ufc.com/images/2026-01/FINNEY_TORREZ_01-31.png"
+  },
+  {
+    "name": "Jackson McVey",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jackson-mcvey",
+    "headshot": "https://www.ufc.com/images/2026-08/MCVEY_JACKSON_08-22.png"
+  },
+  {
+    "name": "Baisangur Susurkaev",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "baisangur-susurkaev",
+    "headshot": "https://www.ufc.com/images/2026-05/SUSURKAEV_BAISANGUR_05-09.png"
+  },
+  {
+    "name": "Cameron Rowston",
+    "weightClass": "Middleweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "cameron-rowston",
+    "headshot": "https://www.ufc.com/images/2026-10/ROWSTON_CAM_10-24.png"
+  },
+  {
+    "name": "Tre'ston Vines",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "treston-vines",
+    "headshot": "https://www.ufc.com/images/2025-10/VINES_TRESTON_10-04.png"
+  },
+  {
+    "name": "Yousri Belgaroui",
+    "weightClass": "Middleweight",
+    "nationality": "NLD",
+    "flag": "🇳🇱",
+    "slug": "yousri-belgaroui",
+    "headshot": "https://www.ufc.com/images/2026-09/BELGAROUI_YOUSRI_09-12.png"
+  },
+  {
+    "name": "Donte Johnson",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "donte-johnson",
+    "headshot": "https://www.ufc.com/images/2026-08/JOHNSON_DONTE_08-15.png"
+  },
+  {
+    "name": "Cezary Oleksiejczuk",
+    "weightClass": "Middleweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "cezary-oleksiejczuk",
+    "headshot": "https://www.ufc.com/images/2025-12/OLEKSIEJZCUK_CEZARY_12-13.png"
+  },
+  {
+    "name": "Damian Pinas",
+    "weightClass": "Middleweight",
+    "nationality": "ABW",
+    "flag": "🇦🇼",
+    "slug": "damian-pinas",
+    "headshot": "https://www.ufc.com/images/2026-10/PINAS_DAMIAN_10-03.png"
+  },
+  {
+    "name": "Wesley Schultz",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "wes-schultz",
+    "headshot": "https://www.ufc.com/images/2026-08/SCHULTZ_WESLEY_08-22.png"
+  },
+  {
+    "name": "Ryan Gandra",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "ryan-gandra",
+    "headshot": "https://www.ufc.com/images/2026-09/GANDRA_RYAN_09-19.png"
+  },
+  {
+    "name": "Mantas Kondratavičius",
+    "weightClass": "Middleweight",
+    "nationality": "LTU",
+    "flag": "🇱🇹",
+    "slug": "mantas-kondratavicius",
+    "headshot": "https://www.ufc.com/images/2026-03/KONDRATAVICIUS_MANTAS_03-21.png"
+  },
+  {
+    "name": "Julien Leblanc",
+    "weightClass": "Middleweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "julien-leblanc",
+    "headshot": "https://www.ufc.com/images/2026-10/LEBLANC_JULIEN_10-17.png"
+  },
+  {
+    "name": "Ben Johnston",
+    "weightClass": "Middleweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "benjamin-johnston",
+    "headshot": "https://www.ufc.com/images/2026-04/JOHNSTON_BEN_05-02.png"
+  },
+  {
+    "name": "Lee Yi-sak",
+    "weightClass": "Middleweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "yi-sak-lee",
+    "headshot": "https://www.ufc.com/images/2026-05/LEE_YISAK_05-30.png"
+  },
+  {
+    "name": "Luis Felipe Dias",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "luis-felipe-dias",
+    "headshot": "https://www.ufc.com/images/2026-09/DIAS_LUIS_FELIPE_09-05.png"
+  },
+  {
+    "name": "Abubakar Vagaev",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "abubakar-vagaev",
+    "headshot": "https://www.ufc.com/images/2026-10/VAGAEV_ABUBAKAR_10-24.png"
+  },
+  {
+    "name": "Vlasto Čepo",
+    "weightClass": "Middleweight",
+    "nationality": "SRB",
+    "flag": "🇷🇸",
+    "slug": "vlasto-cepo",
+    "headshot": "https://www.ufc.com/images/2026-07/CEPO_VLASTO_08-01.png"
+  },
+  {
+    "name": "Yilizhati Maimaitijiang",
+    "weightClass": "Middleweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "yilizhati-maimaitijiang",
+    "headshot": "https://www.ufc.com/images/2026-08/YILIZHATI_MAIMAITIJIANG_08-28.png"
+  },
+  {
+    "name": "Matthieu Letho Duclos",
+    "weightClass": "Middleweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "matthieu-letho-duclos",
+    "headshot": "https://www.ufc.com/images/2026-09/DUCLOS_MATTHIEU_09-05.png"
+  },
+  {
+    "name": "Nick Galanti",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "nick-galanti",
+    "headshot": "https://www.ufc.com/images/2026-10/GALANTI_NICK_10-17.png"
+  },
+  {
+    "name": "Stephen Thompson",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "stephen-thompson",
+    "headshot": "https://www.ufc.com/images/2025-07/THOMPSON_STEPHEN_07-12.png"
+  },
+  {
+    "name": "Max Holloway",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "max-holloway",
+    "headshot": "https://www.ufc.com/images/2024-04/HOLLOWAY_MAX_04-13.png"
+  },
+  {
+    "name": "Tim Means",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "tim-means",
+    "headshot": "https://www.ufc.com/images/2024-10/MEANS_TIM_10-05.png"
+  },
+  {
+    "name": "Gunnar Nelson",
+    "weightClass": "Welterweight",
+    "nationality": "ISL",
+    "flag": "🇮🇸",
+    "slug": "gunnar-nelson",
+    "headshot": "https://www.ufc.com/images/2025-03/NELSON_GUNNAR_03-22.png"
+  },
+  {
+    "name": "Neil Magny",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "neil-magny",
+    "headshot": "https://www.ufc.com/images/2026-08/MAGNY_NEIL_08-15.png"
+  },
+  {
+    "name": "Conor McGregor",
+    "weightClass": "Welterweight",
+    "nationality": "IRL",
+    "flag": "🇮🇪",
+    "slug": "conor-mcgregor",
+    "headshot": "https://www.ufc.com/images/2026-07/MCGREGOR_CONOR_07-11.png"
+  },
+  {
+    "name": "Santiago Ponzinibbio",
+    "weightClass": "Welterweight",
+    "nationality": "ARG",
+    "flag": "🇦🇷",
+    "slug": "santiago-ponzinibbio",
+    "headshot": "https://www.ufc.com/images/2026-07/PONZINIBBIO_SANTIAGO_07-25.png"
+  },
+  {
+    "name": "Jake Matthews",
+    "weightClass": "Welterweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "jake-matthews",
+    "headshot": "https://www.ufc.com/images/2026-05/MATTHEWS_JAKE_05-30.png"
+  },
+  {
+    "name": "Leon Edwards",
+    "weightClass": "Welterweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "leon-edwards",
+    "headshot": "https://www.ufc.com/images/2025-11/EDWARDS_LEON_11-15.png"
+  },
+  {
+    "name": "Islam Makhachev",
+    "weightClass": "Welterweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "islam-makhachev",
+    "headshot": "https://www.ufc.com/images/2025-01/7/MAKHACHEV_ISLAM_BELT_01-18.png"
+  },
+  {
+    "name": "Nicolas Dalby",
+    "weightClass": "Welterweight",
+    "nationality": "DNK",
+    "flag": "🇩🇰",
+    "slug": "nicolas-dalby",
+    "headshot": "https://www.ufc.com/images/2025-11/DALBY_NICOLAS_11-22.png"
+  },
+  {
+    "name": "Randy Brown",
+    "weightClass": "Welterweight",
+    "nationality": "JAM",
+    "flag": "🇯🇲",
+    "slug": "randy-brown",
+    "headshot": "https://www.ufc.com/images/2026-04/BROWN_RANDY_04-11.png"
+  },
+  {
+    "name": "Mickey Gall",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mickey-gall",
+    "headshot": "https://www.ufc.com/images/2026-09/GALL_MICKEY_09-26.png"
+  },
+  {
+    "name": "Belal Muhammad",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "belal-muhammad",
+    "headshot": "https://www.ufc.com/images/2026-06/MUHAMMAD_BELAL_06-06.png"
+  },
+  {
+    "name": "Jack Hermansson",
+    "weightClass": "Welterweight",
+    "nationality": "NOR",
+    "flag": "🇳🇴",
+    "slug": "jack-hermansson",
+    "headshot": "https://www.ufc.com/images/2025-11/HERMANSSON_JACK_11-22.png"
+  },
+  {
+    "name": "Song Kenan",
+    "weightClass": "Welterweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "song-kenan",
+    "headshot": "https://www.ufc.com/images/2023-03/KENAN_SONG_03-05.png"
+  },
+  {
+    "name": "Muslim Salikhov",
+    "weightClass": "Welterweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "muslim-salikhov",
+    "headshot": "https://www.ufc.com/images/2025-11/SALIKHOV_MUSLIM_11-08.png"
+  },
+  {
+    "name": "Geoff Neal",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "geoff-neal",
+    "headshot": "https://www.ufc.com/images/2026-02/NEAL_GEOFF_02-21.png"
+  },
+  {
+    "name": "Kevin Holland",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "kevin-holland",
+    "headshot": "https://www.ufc.com/images/2026-04/HOLLAND_KEVIN_04-11.png"
+  },
+  {
+    "name": "Joel Álvarez",
+    "weightClass": "Welterweight",
+    "nationality": "ESP",
+    "flag": "🇪🇸",
+    "slug": "joel-alvarez",
+    "headshot": "https://www.ufc.com/images/2026-08/ALVAREZ_JOEL_08-15.png"
+  },
+  {
+    "name": "Wellington Turman",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "wellington-turman",
+    "headshot": "https://www.ufc.com/images/2026-07/TURMAN_WELLINGTON_07-25.png"
+  },
+  {
+    "name": "Sean Brady",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sean-brady",
+    "headshot": "https://www.ufc.com/images/2026-05/BRADY_SEAN_05-09.png"
+  },
+  {
+    "name": "Punahele Soriano",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "punahele-soriano",
+    "headshot": "https://www.ufc.com/images/2026-09/SORIANO_PUNAHELE_09-05.png"
+  },
+  {
+    "name": "Khaos Williams",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "khaos-williams",
+    "headshot": "https://www.ufc.com/images/2026-10/WILLIAMS_KHAOS_10-03.png"
+  },
+  {
+    "name": "Joaquin Buckley",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "joaquin-buckley",
+    "headshot": "https://www.ufc.com/images/2026-10/BUCKLEY_JOAQUIN_10-17.png"
+  },
+  {
+    "name": "Daniel Rodriguez",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "daniel-rodriguez",
+    "headshot": "https://www.ufc.com/images/2026-07/RODRIGUEZ_DANIEL_08-01.png"
+  },
+  {
+    "name": "Shavkat Rakhmonov",
+    "weightClass": "Welterweight",
+    "nationality": "KAZ",
+    "flag": "🇰🇿",
+    "slug": "shavkat-rakhmonov",
+    "headshot": "https://www.ufc.com/images/2025-01/5/RAKHMONOV_SHAVKAT_12-07.png"
+  },
+  {
+    "name": "Ramiz Brahimaj",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ramiz-brahimaj",
+    "headshot": "https://www.ufc.com/images/2026-08/BRAHIMAJ_RAMIZ_08-15.png"
+  },
+  {
+    "name": "Uroš Medić",
+    "weightClass": "Welterweight",
+    "nationality": "SRB",
+    "flag": "🇷🇸",
+    "slug": "uros-medic",
+    "headshot": "https://www.ufc.com/images/2026-07/MEDIC_UROS_08-01.png"
+  },
+  {
+    "name": "Ignacio Bahamondes",
+    "weightClass": "Welterweight",
+    "nationality": "CHL",
+    "flag": "🇨🇱",
+    "slug": "ignacio-bahamondes",
+    "headshot": "https://www.ufc.com/images/2026-09/BAHAMONDES_IGNACIO_09-12.png"
+  },
+  {
+    "name": "Jeremiah Wells",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jeremiah-wells",
+    "headshot": "https://www.ufc.com/images/2026-08/WELLS_JEREMIAH_08-15.png"
+  },
+  {
+    "name": "Chris Curtis",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "chris-curtis",
+    "headshot": "https://www.ufc.com/images/2026-03/CURTIS_CHRIS_03-14.png"
+  },
+  {
+    "name": "Ian Machado Garry",
+    "weightClass": "Welterweight",
+    "nationality": "IRL",
+    "flag": "🇮🇪",
+    "slug": "ian-machado-garry",
+    "headshot": "https://www.ufc.com/images/2026-08/MACHADO_GARRY_IAN_08-15.png"
+  },
+  {
+    "name": "Jack Della Maddalena",
+    "weightClass": "Welterweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "jack-della-maddalena",
+    "headshot": "https://www.ufc.com/images/2026-04/DELLA_MADDALENA_JACK_05-02.png"
+  },
+  {
+    "name": "Michael Morales",
+    "weightClass": "Welterweight",
+    "nationality": "ECU",
+    "flag": "🇪🇨",
+    "slug": "michael-morales",
+    "headshot": "https://www.ufc.com/images/2025-11/MORALES_MICHAEL_11-15.png"
+  },
+  {
+    "name": "Chidi Njokuani",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "chidi-njokuani",
+    "headshot": "https://www.ufc.com/images/2026-08/NJOKUANI_CHIDI_08-15.png"
+  },
+  {
+    "name": "Mike Malott",
+    "weightClass": "Welterweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "mike-malott",
+    "headshot": "https://www.ufc.com/images/2026-10/MALOTT_MIKE_10-17.png"
+  },
+  {
+    "name": "Gabriel Bonfim",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "gabriel-bonfim",
+    "headshot": "https://www.ufc.com/images/2026-06/BONFIM_GABRIEL_06-06.png"
+  },
+  {
+    "name": "Sam Patterson",
+    "weightClass": "Welterweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "sam-patterson",
+    "headshot": "https://www.ufc.com/images/2026-07/PATTERSON_SAM_07-25.png"
+  },
+  {
+    "name": "Bassil Hafez",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "bassil-hafez",
+    "headshot": "https://www.ufc.com/images/2024-11/HAFEZ_BASSIL_11-16.png"
+  },
+  {
+    "name": "Billy Ray Goff",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "billy-goff",
+    "headshot": "https://www.ufc.com/images/2026-08/GOFF_BILLY_08-08.png"
+  },
+  {
+    "name": "Charles Radtke",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "charles-radtke",
+    "headshot": "https://www.ufc.com/images/2026-04/RADTKE_CHARLES_04-11.png"
+  },
+  {
+    "name": "Myktybek Orolbai",
+    "weightClass": "Welterweight",
+    "nationality": "KGZ",
+    "flag": "🇰🇬",
+    "slug": "myktybek-orolbai",
+    "headshot": "https://www.ufc.com/images/2026-08/OROLBAI_MYKTYBEK_08-15.png"
+  },
+  {
+    "name": "Carlos Prates",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "carlos-prates",
+    "headshot": "https://www.ufc.com/images/2026-04/PRATES_CARLOS_05-02.png"
+  },
+  {
+    "name": "Oban Elliott",
+    "weightClass": "Welterweight",
+    "nationality": "GBR",
+    "region": "Wales",
+    "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "slug": "oban-elliott",
+    "headshot": "https://www.ufc.com/images/2026-07/ELLIOTT_OBAN_08-01.png"
+  },
+  {
+    "name": "Nikolay Veretennikov",
+    "weightClass": "Welterweight",
+    "nationality": "KAZ",
+    "flag": "🇰🇿",
+    "slug": "nikolay-veretennikov",
+    "headshot": "https://www.ufc.com/images/2025-10/VERETENNIKOV_NIKOLAY_10-04.png"
+  },
+  {
+    "name": "Carlos Leal",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "carlos-leal",
+    "headshot": "https://www.ufc.com/images/2026-02/LEAL_CARLOS_02-21.png"
+  },
+  {
+    "name": "Jacobe Smith",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jacobe-smith",
+    "headshot": "https://www.ufc.com/images/2026-10/SMITH_JACOBE_10-03.png"
+  },
+  {
+    "name": "Jonathan Micallef",
+    "weightClass": "Welterweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "jonathan-micallef",
+    "headshot": "https://www.ufc.com/images/2026-04/MICALLEF_JONATHAN_05-02.png"
+  },
+  {
+    "name": "Austin Vanderford",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "austin-vanderford",
+    "headshot": "https://www.ufc.com/images/2025-10/VANDERFORD_AUSTIN_10-04.png"
+  },
+  {
+    "name": "Ko Seok-hyeon",
+    "weightClass": "Welterweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "seokhyeon-ko",
+    "headshot": "https://www.ufc.com/images/2026-07/KO_SEOKHYEON_07-18.png"
+  },
+  {
+    "name": "Islam Dulatov",
+    "weightClass": "Welterweight",
+    "nationality": "DEU",
+    "flag": "🇩🇪",
+    "slug": "islam-dulatov",
+    "headshot": "https://www.ufc.com/images/2026-07/DULATOV_ISLAM_07-25.png"
+  },
+  {
+    "name": "Eric Nolan",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "eric-nolan",
+    "headshot": "https://www.ufc.com/images/2026-10/NOLAN_ERIC_10-03.png"
+  },
+  {
+    "name": "Taiyilake Nueraji",
+    "weightClass": "Welterweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "taiyilake-nueraji",
+    "headshot": "https://www.ufc.com/images/2025-08/NUERAJI_TAIYILAKE_08-23.png"
+  },
+  {
+    "name": "Rodrigo Sezinando",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "rodrigo-sezinando",
+    "headshot": "https://www.ufc.com/images/2025-09/SEZINANDO_RODRIGO_09-13.png"
+  },
+  {
+    "name": "Daniil Donchenko",
+    "weightClass": "Welterweight",
+    "nationality": "UKR",
+    "flag": "🇺🇦",
+    "slug": "daniil-donchenko",
+    "headshot": "https://www.ufc.com/images/2026-09/DONCHENKO_DANIIL_09-05.png"
+  },
+  {
+    "name": "Yaroslav Amosov",
+    "weightClass": "Welterweight",
+    "nationality": "UKR",
+    "flag": "🇺🇦",
+    "slug": "yaroslav-amosov",
+    "headshot": "https://www.ufc.com/images/2025-12/AMOSOV_YAROSLAV_12-13.png"
+  },
+  {
+    "name": "Ty Miller",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ty-miller",
+    "headshot": "https://www.ufc.com/images/2026-01/MILLER_TY_01-24.png"
+  },
+  {
+    "name": "Jean-Paul Lebosnoyani",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jean-paul-lebosnoyani",
+    "headshot": "https://www.ufc.com/images/2026-02/LEBOSNOYANI_JEAN-PAUL_02-21.png"
+  },
+  {
+    "name": "Victor Valenzuela",
+    "weightClass": "Welterweight",
+    "nationality": "CHL",
+    "flag": "🇨🇱",
+    "slug": "victor-valenzuela-0",
+    "headshot": "https://www.ufc.com/images/2026-04/VALENZUELA_VICTOR_04-25.png"
+  },
+  {
+    "name": "Ding Meng",
+    "weightClass": "Welterweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "ding-meng",
+    "headshot": "https://www.ufc.com/images/2026-08/MENG_DING_08-29.png"
+  },
+  {
+    "name": "José Henrique Souza",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jose-souza",
+    "headshot": "https://www.ufc.com/images/2026-05/SOUZA_JOSE_05-30.png"
+  },
+  {
+    "name": "Leon Shahbazyan",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "leon-shahbazyan",
+    "headshot": "https://www.ufc.com/images/2026-10/SHAHBAZYAN_LEON_10-10.png"
+  },
+  {
+    "name": "Levan Chokheli",
+    "weightClass": "Welterweight",
+    "nationality": "GEO",
+    "flag": "🇬🇪",
+    "slug": "levan-chokheli",
+    "headshot": "https://www.ufc.com/images/2026-06/CHOKHELI_LEVAN_06-20.png"
+  },
+  {
+    "name": "Tahir Abdullayev",
+    "weightClass": "Welterweight",
+    "nationality": "AZE",
+    "flag": "🇦🇿",
+    "slug": "tahir-abdullayev",
+    "headshot": "https://www.ufc.com/images/2026-06/ABDULLAYEV_TAHIR_06-27.png"
+  },
+  {
+    "name": "Jefferson Nascimento",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jefferson-nascimento",
+    "headshot": "https://www.ufc.com/images/2026-06/NASCIMENTO_JEFFERSON_06-27.png"
+  },
+  {
+    "name": "Theodor Berggren",
+    "weightClass": "Welterweight",
+    "nationality": "SWE",
+    "flag": "🇸🇪",
+    "slug": "theodor-berggren",
+    "headshot": "https://www.ufc.com/images/2026-06/BERGGREN_THEODOR_06-27.png"
+  },
+  {
+    "name": "Farman Hasanov",
+    "weightClass": "Welterweight",
+    "nationality": "AZE",
+    "flag": "🇦🇿",
+    "slug": "farman-hasanov",
+    "headshot": "https://www.ufc.com/images/2026-06/HASANOV_FARMAN_06-27.png"
+  },
+  {
+    "name": "Michael Oliveira",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "michael-oliveira",
+    "headshot": "https://www.ufc.com/images/2026-07/OLIVEIRA_MICHAEL_08-01.png"
+  },
+  {
+    "name": "Cameron Nelson",
+    "weightClass": "Welterweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "cameron-nelson",
+    "headshot": "https://www.ufc.com/images/2026-08/NELSON_CAM_08-29.png"
+  },
+  {
+    "name": "Bruce Whitehead",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "bruce-whitehead",
+    "headshot": "https://www.ufc.com/images/2026-10/WHITEHEAD_BRUCE_10-03.png"
+  },
+  {
+    "name": "Roberto Soldić",
+    "weightClass": "Welterweight",
+    "nationality": "HRV",
+    "flag": "🇭🇷",
+    "slug": "roberto-soldic",
+    "headshot": "https://www.ufc.com/images/2026-10/SOLDIC_ROBERTO_10-03.png"
+  },
+  {
+    "name": "Jeremy Stephens",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jeremy-stephens",
+    "headshot": "https://www.ufc.com/images/2026-05/STEPHENS_JEREMY_05-09.png"
+  },
+  {
+    "name": "Rafael dos Anjos",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "rafael-dos-anjos",
+    "headshot": "https://www.ufc.com/images/2026-10/DOS_ANJOS_RAFAEL_10-03.png"
+  },
+  {
+    "name": "Jim Miller",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jim-miller",
+    "headshot": "https://www.ufc.com/images/2026-05/MILLER_JIM_05-09.png"
+  },
+  {
+    "name": "Charles Oliveira",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "charles-oliveira",
+    "headshot": "https://www.ufc.com/images/2026-03/OLIVEIRA_CHARLES_BMFMOCK.png"
+  },
+  {
+    "name": "Michael Johnson",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "michael-johnson",
+    "headshot": "https://www.ufc.com/images/2026-03/JOHNSON_MICHAEL_03-07.png"
+  },
+  {
+    "name": "King Green",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "king-green",
+    "headshot": "https://www.ufc.com/images/2026-10/GREEN_KING_10-03.png"
+  },
+  {
+    "name": "Drew Dober",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "drew-dober",
+    "headshot": "https://www.ufc.com/images/2026-03/DOBER_DREW_03-07.png"
+  },
+  {
+    "name": "Beneil Dariush",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "beneil-dariush",
+    "headshot": "https://www.ufc.com/images/2026-04/DARIUSH_BENEIL_05-02.png"
+  },
+  {
+    "name": "Dan Hooker",
+    "weightClass": "Lightweight",
+    "nationality": "NZL",
+    "flag": "🇳🇿",
+    "slug": "dan-hooker",
+    "headshot": "https://www.ufc.com/images/2026-09/HOOKER_DAN_09-05.png"
+  },
+  {
+    "name": "Carlos Diego Ferreira",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "diego-ferreira",
+    "headshot": "https://www.ufc.com/images/2026-08/FERREIRA_DIEGO_08-08.png"
+  },
+  {
+    "name": "Renato Moicano",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "renato-moicano",
+    "headshot": "https://www.ufc.com/images/2026-04/MOICANO_RENATO_04-04.png"
+  },
+  {
+    "name": "Joaquim Silva",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "joaquim-silva",
+    "headshot": "https://www.ufc.com/images/2025-09/SILVA_JOAQUIM_09-13.png"
+  },
+  {
+    "name": "Damir Hadžović",
+    "weightClass": "Lightweight",
+    "nationality": "DNK",
+    "flag": "🇩🇰",
+    "slug": "damir-hadzovic",
+    "headshot": "https://www.ufc.com/images/2025-01/HADZOVIC_DAMIR_02-01.png"
+  },
+  {
+    "name": "Claudio Puelles",
+    "weightClass": "Lightweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "slug": "claudio-puelles",
+    "headshot": "https://www.ufc.com/images/2025-09/PUELLES_CLAUDIO_09-13.png"
+  },
+  {
+    "name": "Drakkar Klose",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "drakkar-klose",
+    "headshot": "https://www.ufc.com/images/2026-09/KLOSE_DRAKKAR_09-12.png"
+  },
+  {
+    "name": "Jared Gordon",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jared-gordon",
+    "headshot": "https://www.ufc.com/images/2026-05/GORDON_JARED_05-09.png"
+  },
+  {
+    "name": "Justin Gaethje",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "justin-gaethje",
+    "headshot": "https://www.ufc.com/images/2026-06/GAETHJE_JUSTIN_BELT_06-14.png"
+  },
+  {
+    "name": "Nasrat Haqparast",
+    "weightClass": "Lightweight",
+    "nationality": "MAR",
+    "flag": "🇲🇦",
+    "slug": "nasrat-haqparast",
+    "headshot": "https://www.ufc.com/images/2026-08/HAQPARAST_NASRAT_08-22.png"
+  },
+  {
+    "name": "Matt Frevola",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "matt-frevola",
+    "headshot": "https://www.ufc.com/images/2025-10/FREVOLA_MATT_10-18.png"
+  },
+  {
+    "name": "Alexander Hernandez",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "alexander-hernandez",
+    "headshot": "https://www.ufc.com/images/2026-10/HERNANDEZ_ALEXANDER_10-03.png"
+  },
+  {
+    "name": "Jalin Turner",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jalin-turner",
+    "headshot": "https://www.ufc.com/images/2026-08/TURNER_JALIN_08-15.png"
+  },
+  {
+    "name": "Sodiq Yusuff",
+    "weightClass": "Lightweight",
+    "nationality": "NGA",
+    "flag": "🇳🇬",
+    "slug": "sodiq-yusuff",
+    "headshot": "https://www.ufc.com/images/2025-05/YUSUFF_SODIQ_05-17.png"
+  },
+  {
+    "name": "Kyle Nelson",
+    "weightClass": "Lightweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "kyle-nelson",
+    "headshot": "https://www.ufc.com/images/2026-10/NELSON_KYLE_10-17.png"
+  },
+  {
+    "name": "Grant Dawson",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "grant-dawson",
+    "headshot": "https://www.ufc.com/images/2026-10/DAWSON_GRANT_10-24.png"
+  },
+  {
+    "name": "Rafael Fiziev",
+    "weightClass": "Lightweight",
+    "nationality": "AZE",
+    "flag": "🇦🇿",
+    "slug": "rafael-fiziev",
+    "headshot": "https://www.ufc.com/images/2026-06/FIZIEV_RAFAEL_06-27.png"
+  },
+  {
+    "name": "Arman Tsarukyan",
+    "weightClass": "Lightweight",
+    "nationality": "ARM",
+    "flag": "🇦🇲",
+    "slug": "arman-tsarukyan",
+    "headshot": "https://www.ufc.com/images/2026-09/TSARUKYAN_ARMAN_09-19.png"
+  },
+  {
+    "name": "Mike Davis",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mike-davis",
+    "headshot": "https://www.ufc.com/images/2026-07/DAVIS_MIKE_07-25.png"
+  },
+  {
+    "name": "Kyle Prepolec",
+    "weightClass": "Lightweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "kyle-prepolec",
+    "headshot": "https://www.ufc.com/images/2026-07/PREPOLEC_KYLE_08-01.png"
+  },
+  {
+    "name": "Farès Ziam",
+    "weightClass": "Lightweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "fares-ziam",
+    "headshot": "https://www.ufc.com/images/2026-09/ZIAM_FARES_09-05.png"
+  },
+  {
+    "name": "Ottman Azaitar",
+    "weightClass": "Lightweight",
+    "nationality": "DEU",
+    "flag": "🇩🇪",
+    "slug": "ottman-azaitar",
+    "headshot": "https://www.ufc.com/images/2024-12/AZAITAR_OTTMAN_12-14.png"
+  },
+  {
+    "name": "Billy Quarantillo",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "billy-quarantillo",
+    "headshot": "https://www.ufc.com/images/2026-08/QUARANTILLO_BILLY_08-08.png"
+  },
+  {
+    "name": "Chase Hooper",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "chase-hooper",
+    "headshot": "https://www.ufc.com/images/2026-07/HOOPER_CHASE_07-18.png"
+  },
+  {
+    "name": "Nate Landwehr",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "nate-landwehr",
+    "headshot": "https://www.ufc.com/images/2026-10/LANDWEHR_NATE_10-17.png"
+  },
+  {
+    "name": "Gabriel Green",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "gabriel-green",
+    "headshot": "https://www.ufc.com/images/2025-05/GREEN_GABE_05-17.png"
+  },
+  {
+    "name": "Jai Herbert",
+    "weightClass": "Lightweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "jai-herbert",
+    "headshot": "https://www.ufc.com/images/2026-10/HERBERT_JAI_10-10.png"
+  },
+  {
+    "name": "Ľudovít Klein",
+    "weightClass": "Lightweight",
+    "nationality": "SVK",
+    "flag": "🇸🇰",
+    "slug": "ludovit-klein",
+    "headshot": "https://www.ufc.com/images/2026-07/KLEIN_LUDOVIT_08-01.png"
+  },
+  {
+    "name": "Ilia Topuria",
+    "weightClass": "Lightweight",
+    "nationality": "GEO",
+    "flag": "🇬🇪",
+    "slug": "ilia-topuria",
+    "headshot": "https://www.ufc.com/images/2025-06/TOPURIA_ILIA_06-28.png"
+  },
+  {
+    "name": "Mateusz Gamrot",
+    "weightClass": "Lightweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "mateusz-gamrot",
+    "headshot": "https://www.ufc.com/images/2026-08/GAMROT_MATEUSZ_08-08.png"
+  },
+  {
+    "name": "Mason Jones",
+    "weightClass": "Lightweight",
+    "nationality": "GBR",
+    "region": "Wales",
+    "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "slug": "mason-jones",
+    "headshot": "https://www.ufc.com/images/2026-08/JONES_MASON_08-22.png"
+  },
+  {
+    "name": "Michael Chandler",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "michael-chandler",
+    "headshot": "https://www.ufc.com/images/2026-06/CHANDLER_MICHAEL_06-14.png"
+  },
+  {
+    "name": "Rafa García",
+    "weightClass": "Lightweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "rafa-garcia",
+    "headshot": "https://www.ufc.com/images/2026-09/GARCIA_RAFA_09-12.png"
+  },
+  {
+    "name": "Rong Zhu",
+    "weightClass": "Lightweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "rong-zhu",
+    "headshot": "https://www.ufc.com/images/2026-09/RONGZHU_09-12.png"
+  },
+  {
+    "name": "Terrance McKinney",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "terrance-mckinney",
+    "headshot": "https://www.ufc.com/images/2026-07/MCKINNEY_TERRANCE_07-11.png"
+  },
+  {
+    "name": "Paddy Pimblett",
+    "weightClass": "Lightweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "paddy-pimblett",
+    "headshot": "https://www.ufc.com/images/2026-07/PIMBLETT_PADDY_07-11.png"
+  },
+  {
+    "name": "Benoît Saint Denis",
+    "weightClass": "Lightweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "benoit-saint-denis",
+    "headshot": "https://www.ufc.com/images/2026-07/SAINT_DENIS_BENOIT_07-11.png"
+  },
+  {
+    "name": "Nikolas Motta",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "nikolas-motta",
+    "headshot": "https://www.ufc.com/images/2025-06/MOTTA_NIKOLAS_06-21.png"
+  },
+  {
+    "name": "Trey Ogden",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "trey-ogden",
+    "headshot": "https://www.ufc.com/images/2025-01/16/OGDEN_TREY_01-11.png"
+  },
+  {
+    "name": "Evan Elder",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "evan-elder",
+    "headshot": "https://www.ufc.com/images/2025-04/ELDER_EVAN_04-26.png"
+  },
+  {
+    "name": "Manuel Torres",
+    "weightClass": "Lightweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "manuel-torres",
+    "headshot": "https://www.ufc.com/images/2026-06/TORRES_MANUEL_06-27.png"
+  },
+  {
+    "name": "Maheshate Hayisaer",
+    "weightClass": "Lightweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "hayisaer-maheshate",
+    "headshot": "https://www.ufc.com/images/2026-08/MAHESHATE_08-28.png"
+  },
+  {
+    "name": "Daniel Zellhuber",
+    "weightClass": "Lightweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "daniel-zellhuber",
+    "headshot": "https://www.ufc.com/images/2026-02/ZELLHUBER_DANIEL_02-28.png"
+  },
+  {
+    "name": "Francis Marshall",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "francis-marshall",
+    "headshot": "https://www.ufc.com/images/2026-04/MARSHALL_FRANCIS_04-25.png"
+  },
+  {
+    "name": "Mateusz Rębecki",
+    "weightClass": "Lightweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "mateusz-rebecki",
+    "headshot": "https://www.ufc.com/images/2026-07/REBECKI_MATEUSZ_08-01.png"
+  },
+  {
+    "name": "Anshul Jubli",
+    "weightClass": "Lightweight",
+    "nationality": "IND",
+    "flag": "🇮🇳",
+    "slug": "anshul-jubli",
+    "headshot": "https://www.ufc.com/images/2025-02/JUBLI_ANSHUL_02-08.png"
+  },
+  {
+    "name": "Elves Brener",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "elves-brener",
+    "headshot": "https://www.ufc.com/images/2026-09/BRENER_ELVES_09-26.png"
+  },
+  {
+    "name": "Francisco Prado",
+    "weightClass": "Lightweight",
+    "nationality": "ARG",
+    "flag": "🇦🇷",
+    "slug": "francisco-prado",
+    "headshot": "https://www.ufc.com/images/2026-10/PRADO_FRANCISCO_10-10.png"
+  },
+  {
+    "name": "Nazim Sadykhov",
+    "weightClass": "Lightweight",
+    "nationality": "AZE",
+    "flag": "🇦🇿",
+    "slug": "nazim-sadykhov",
+    "headshot": "https://www.ufc.com/images/2025-12/SADYKHOV_NAZIM_12-06.png"
+  },
+  {
+    "name": "Nurullo Aliev",
+    "weightClass": "Lightweight",
+    "nationality": "TJK",
+    "flag": "🇹🇯",
+    "slug": "nurullo-aliev",
+    "headshot": "https://www.ufc.com/images/2026-10/ALIEV_NURULLO_10-24.png"
+  },
+  {
+    "name": "Esteban Ribovics",
+    "weightClass": "Lightweight",
+    "nationality": "ARG",
+    "flag": "🇦🇷",
+    "slug": "esteban-ribovics",
+    "headshot": "https://www.ufc.com/images/2026-10/RIBOVICS_ESTEBAN_10-03.png"
+  },
+  {
+    "name": "Chris Duncan",
+    "weightClass": "Lightweight",
+    "nationality": "GBR",
+    "region": "Scotland",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "slug": "chris-duncan",
+    "headshot": "https://www.ufc.com/images/2026-04/DUNCAN_CHRIS_04-04.png"
+  },
+  {
+    "name": "Darrius Flowers",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "darrius-flowers",
+    "headshot": "https://www.ufc.com/images/2026-08/FLOWERS_DARRIUS_08-28.png"
+  },
+  {
+    "name": "Charlie Campbell",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "charlie-campbell",
+    "headshot": "https://www.ufc.com/images/2025-09/CAMPBELL_CHARLIE_09-27.png"
+  },
+  {
+    "name": "Kauê Fernandes",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "kaue-fernandes",
+    "headshot": "https://www.ufc.com/images/2026-08/FERNANDES_KAUE_08-15.png"
+  },
+  {
+    "name": "Tom Nolan",
+    "weightClass": "Lightweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "tom-nolan",
+    "headshot": "https://www.ufc.com/images/2026-06/NOLAN_TOM_06-06.png"
+  },
+  {
+    "name": "MarQuel Mederos",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "marquel-mederos",
+    "headshot": "https://www.ufc.com/images/2026-08/MEDEROS_MARQUEL_08-22.png"
+  },
+  {
+    "name": "Abdul-Kareem Al-Selwady",
+    "weightClass": "Lightweight",
+    "nationality": "PSE",
+    "flag": "🇵🇸",
+    "slug": "abdul-kareem-al-selwady",
+    "headshot": "https://www.ufc.com/images/2026-03/AL-SELWADY_ABDUL-KAREEM_03-21.png"
+  },
+  {
+    "name": "Mitch Ramirez",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mitch-ramirez",
+    "headshot": "https://www.ufc.com/images/2026-07/RAMIREZ_MITCH_07-18.png"
+  },
+  {
+    "name": "Chris Padilla",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "chris-padilla",
+    "headshot": "https://www.ufc.com/images/2026-08/PADILLA_CHRIS_08-22.png"
+  },
+  {
+    "name": "Maurício Ruffy",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "mauricio-ruffy",
+    "headshot": "https://www.ufc.com/images/2026-09/RUFFY_MAURICIO_09-19.png"
+  },
+  {
+    "name": "Quillan Salkilld",
+    "weightClass": "Lightweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "quillan-salkilld",
+    "headshot": "https://www.ufc.com/images/2026-08/SALKILLD_QUILLAN_08-08.png"
+  },
+  {
+    "name": "Kody Steele",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "kody-steele",
+    "headshot": "https://www.ufc.com/images/2025-02/STEELE_KODY_02-08.png"
+  },
+  {
+    "name": "Gauge Young",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "gauge-young",
+    "headshot": "https://www.ufc.com/images/2026-08/YOUNG_GAUGE_08-22.png"
+  },
+  {
+    "name": "Matheus Camilo",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "matheus-camilo",
+    "headshot": "https://www.ufc.com/images/2026-10/CAMILO_MATHEUS_10-10.png"
+  },
+  {
+    "name": "Mark Choinski",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mark-choinski",
+    "headshot": "https://www.ufc.com/images/2025-06/CHOINSKI_MARK_06-07.png"
+  },
+  {
+    "name": "Tofiq Musayev",
+    "weightClass": "Lightweight",
+    "nationality": "AZE",
+    "flag": "🇦🇿",
+    "slug": "tofiq-musayev",
+    "headshot": "https://www.ufc.com/images/2026-07/MUSAYEV_TOFIQ_08-01.png"
+  },
+  {
+    "name": "Axel Sola",
+    "weightClass": "Lightweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "axel-sola",
+    "headshot": "https://www.ufc.com/images/2026-09/SOLA_AXEL_09-05.png"
+  },
+  {
+    "name": "Lance Gibson Jr.",
+    "weightClass": "Lightweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "lance-gibson-jr",
+    "headshot": "https://www.ufc.com/images/2025-12/GIBSON_JR_LANCE_12-13.png"
+  },
+  {
+    "name": "Dom Mar Fan",
+    "weightClass": "Lightweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "dom-mar-fan",
+    "headshot": "https://www.ufc.com/images/2026-01/MAR_FAN_DOM_01-31.png"
+  },
+  {
+    "name": "Josiah Harrell",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "josiah-harrell",
+    "headshot": "https://www.ufc.com/images/2026-09/HARRELL_JOSIAH_09-26.png"
+  },
+  {
+    "name": "Manoel Sousa",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "manoel-sousa",
+    "headshot": "https://www.ufc.com/images/2026-08/SOUSA_MANOEL_08-08.png"
+  },
+  {
+    "name": "Dakota Hope",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "dakota-hope",
+    "headshot": "https://www.ufc.com/images/2026-04/HOPE_DAKOTA_04-04.png"
+  },
+  {
+    "name": "Mandel Nallo",
+    "weightClass": "Lightweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "mandel-nallo",
+    "headshot": "https://www.ufc.com/images/2026-10/NALLO_MANDEL_10-17.png"
+  },
+  {
+    "name": "Lucas Brennan",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "lucas-brennan",
+    "headshot": "https://www.ufc.com/images/2026-04/BRENNAN_LUCAS_04-25.png"
+  },
+  {
+    "name": "Thomas Gantt",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "thomas-gantt",
+    "headshot": "https://www.ufc.com/images/2026-09/GANTT_TOMMY_09-12.png"
+  },
+  {
+    "name": "Artur Minev",
+    "weightClass": "Lightweight",
+    "nationality": "UKR",
+    "flag": "🇺🇦",
+    "slug": "artur-minev",
+    "headshot": "https://www.ufc.com/images/2026-05/MINEV_ARTUR_05-16.png"
+  },
+  {
+    "name": "Magomed Zaynukov",
+    "weightClass": "Lightweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "magomed-zaynukov",
+    "headshot": "https://www.ufc.com/images/2026-07/ZAYNUKOV_MAGOMED_07-25.png"
+  },
+  {
+    "name": "Damian Rzepecki",
+    "weightClass": "Lightweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "damian-rzepecki",
+    "headshot": "https://www.ufc.com/images/2026-07/RZEPECKI_DAMIAN_07-25.png"
+  },
+  {
+    "name": "Miloš Janičić",
+    "weightClass": "Lightweight",
+    "nationality": "MNE",
+    "flag": "🇲🇪",
+    "slug": "milos-janicic",
+    "headshot": "https://www.ufc.com/images/2026-07/JANICIC_MILOS_08-01.png"
+  },
+  {
+    "name": "Noah Gugnon",
+    "weightClass": "Lightweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "noah-gugnon",
+    "headshot": "https://www.ufc.com/images/2026-10/GUGNON_NOAH_10-24.png"
+  },
+  {
+    "name": "Richie Miranda",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "richie-miranda",
+    "headshot": "https://www.ufc.com/images/2026-08/MIRANDA_RICHIE_08-08.png"
+  },
+  {
+    "name": "Stanley Dorsainvil",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "stan-dorsainvil",
+    "headshot": "https://www.ufc.com/images/2026-08/DORSAINVIL_STAN_08-22.png"
+  },
+  {
+    "name": "Salahdine Parnasse",
+    "weightClass": "Lightweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "salahdine-parnasse",
+    "headshot": "https://www.ufc.com/images/2026-09/PARNASSE_SALAHDINE_09-05.png"
+  },
+  {
+    "name": "Cristian Pérez",
+    "weightClass": "Lightweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "cristian-perez-gonzalez",
+    "headshot": "https://www.ufc.com/images/2026-10/PEREZ_CRISTIAN_10-17.png"
+  },
+  {
+    "name": "Andre Fili",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "andre-fili",
+    "headshot": "https://www.ufc.com/images/2026-10/FILI_ANDRE_10-10.png"
+  },
+  {
+    "name": "Douglas Silva de Andrade",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "douglas-silva-de-andrade",
+    "headshot": "https://www.ufc.com/images/2026-02/SILVA_DOUGLAS_02-28.png"
+  },
+  {
+    "name": "Aljamain Sterling",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "aljamain-sterling",
+    "headshot": "https://www.ufc.com/images/2026-04/STERLING_ALJAMAIN_04-25.png"
+  },
+  {
+    "name": "Brian Ortega",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "brian-ortega",
+    "headshot": "https://www.ufc.com/images/2025-08/ORTEGA_BRIAN_08-23.png"
+  },
+  {
+    "name": "Yair Rodríguez",
+    "weightClass": "Featherweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "yair-rodriguez",
+    "headshot": "https://www.ufc.com/images/2025-04/RODRIGUEZ_YAIR_04-12.png"
+  },
+  {
+    "name": "Choi Doo-ho",
+    "weightClass": "Featherweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "dooho-choi",
+    "headshot": "https://www.ufc.com/images/2026-09/CHOI_DOOHO_09-19.png"
+  },
+  {
+    "name": "Arnold Allen",
+    "weightClass": "Featherweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "arnold-allen",
+    "headshot": "https://www.ufc.com/images/2026-05/ALLEN_ARNOLD_05-16.png"
+  },
+  {
+    "name": "Julian Erosa",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "julian-erosa",
+    "headshot": "https://www.ufc.com/images/2026-03/EROSA_JULIAN_03-28.png"
+  },
+  {
+    "name": "Josh Emmett",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "josh-emmett",
+    "headshot": "https://www.ufc.com/images/2026-03/EMMETT_JOSH_03-14.png"
+  },
+  {
+    "name": "Alexander Volkanovski",
+    "weightClass": "Featherweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "alexander-volkanovski",
+    "headshot": "https://www.ufc.com/images/2026-10/VOLKANOVSKI_ALEXANDER_BELT_10-24.png"
+  },
+  {
+    "name": "Calvin Kattar",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "calvin-kattar",
+    "headshot": "https://www.ufc.com/images/2025-07/KATTAR_CALVIN_07-12.png"
+  },
+  {
+    "name": "Dan Ige",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "dan-ige",
+    "headshot": "https://www.ufc.com/images/2025-07/IGE_DAN_07-19.png"
+  },
+  {
+    "name": "Nathaniel Wood",
+    "weightClass": "Featherweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "nathaniel-wood",
+    "headshot": "https://www.ufc.com/images/2025-10/WOOD_NATHANIEL_10-25.png"
+  },
+  {
+    "name": "Movsar Evloev",
+    "weightClass": "Featherweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "movsar-evloev",
+    "headshot": "https://www.ufc.com/images/2026-10/EVLOEV_MOVSAR_10-24.png"
+  },
+  {
+    "name": "Lerone Murphy",
+    "weightClass": "Featherweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "lerone-murphy",
+    "headshot": "https://www.ufc.com/images/2026-03/MURPHY_LERONE_03-21.png"
+  },
+  {
+    "name": "Miles Johns",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "miles-johns",
+    "headshot": "https://www.ufc.com/images/2026-08/JOHNS_MILES_08-08.png"
+  },
+  {
+    "name": "Giga Chikadze",
+    "weightClass": "Featherweight",
+    "nationality": "GEO",
+    "flag": "🇬🇪",
+    "slug": "giga-chikadze",
+    "headshot": "https://www.ufc.com/images/2026-09/CHIKADZE_GIGA_09-19.png"
+  },
+  {
+    "name": "Sean Woodson",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sean-woodson",
+    "headshot": "https://www.ufc.com/images/2026-08/WOODSON_SEAN_08-29.png"
+  },
+  {
+    "name": "Youssef Zalal",
+    "weightClass": "Featherweight",
+    "nationality": "MAR",
+    "flag": "🇲🇦",
+    "slug": "youssef-zalal",
+    "headshot": "https://www.ufc.com/images/2026-04/ZALAL_YOUSSEF_04-25.png"
+  },
+  {
+    "name": "Steve Garcia",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "steve-garcia",
+    "headshot": "https://www.ufc.com/images/2026-06/GARCIA_STEVE_06-14.png"
+  },
+  {
+    "name": "Jamall Emmers",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jamall-emmers",
+    "headshot": "https://www.ufc.com/images/2026-08/EMMERS_JAMALL_08-22.png"
+  },
+  {
+    "name": "Kai Kamaka III",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "kai-kamaka-iii",
+    "headshot": "https://www.ufc.com/images/2026-10/KAMAKA_KAI_10-10.png"
+  },
+  {
+    "name": "Jordan Leavitt",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jordan-leavitt",
+    "headshot": "https://www.ufc.com/images/2026-06/LEAVITT_JORDAN_06-06.png"
+  },
+  {
+    "name": "Pat Sabatini",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "pat-sabatini",
+    "headshot": "https://www.ufc.com/images/2026-05/SABATINI_PAT_05-09.png"
+  },
+  {
+    "name": "Melsik Baghdasaryan",
+    "weightClass": "Featherweight",
+    "nationality": "ARM",
+    "flag": "🇦🇲",
+    "slug": "melsik-baghdasaryan",
+    "headshot": "https://www.ufc.com/images/2026-06/BAGHDASARYAN_MELSIK_06-20.png"
+  },
+  {
+    "name": "Ricky Turcios",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ricky-turcios",
+    "headshot": "https://www.ufc.com/images/2024-02/TURCIOS_RICKY_02-24.png"
+  },
+  {
+    "name": "David Onama",
+    "weightClass": "Featherweight",
+    "nationality": "UGA",
+    "flag": "🇺🇬",
+    "slug": "david-onama",
+    "headshot": "https://www.ufc.com/images/2025-10/ONAMA_DAVID_11-01.png"
+  },
+  {
+    "name": "Joanderson Brito",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "joanderson-brito",
+    "headshot": "https://www.ufc.com/images/2026-09/BRITO_JOANDERSON_09-19.png"
+  },
+  {
+    "name": "Christian Rodriguez",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "christian-rodriguez",
+    "headshot": "https://www.ufc.com/images/2025-03/RODRIGUEZ_CHRISTIAN_03-29.png"
+  },
+  {
+    "name": "Daniel Santos",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "daniel-santos",
+    "headshot": "https://www.ufc.com/images/2026-10/SANTOS_DANIEL_10-24.png"
+  },
+  {
+    "name": "William Gomis",
+    "weightClass": "Featherweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "william-gomis",
+    "headshot": "https://www.ufc.com/images/2026-05/GOMIS_WILLIAM_05-09.png"
+  },
+  {
+    "name": "Melquizael Costa",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "melquizael-costa",
+    "headshot": "https://www.ufc.com/images/2026-05/COSTA_MELQUIZAEL_05-16.png"
+  },
+  {
+    "name": "Lee Jeong-yeong",
+    "weightClass": "Featherweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "jeong-yeong-lee",
+    "headshot": "https://www.ufc.com/images/2026-03/LEE_JEONGYEONG_03-07.png"
+  },
+  {
+    "name": "Yi Zha",
+    "weightClass": "Featherweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "yi-zha",
+    "headshot": "https://www.ufc.com/images/2026-01/YIZHA_01-31.png"
+  },
+  {
+    "name": "Jack Jenkins",
+    "weightClass": "Featherweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "jack-jenkins",
+    "headshot": "https://www.ufc.com/images/2026-08/JENKINS_JACK_08-29.png"
+  },
+  {
+    "name": "Trevor Peek",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "trevor-peek",
+    "headshot": "https://www.ufc.com/images/2026-09/PEEK_TREVOR_09-05.png"
+  },
+  {
+    "name": "Gabriel Santos",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "gabriel-santos",
+    "headshot": "https://www.ufc.com/images/2025-02/SANTOS_GABRIEL_02-08.png"
+  },
+  {
+    "name": "Gastón Bolaños",
+    "weightClass": "Featherweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "slug": "gaston-bolanos",
+    "headshot": "https://www.ufc.com/images/2026-06/BOLANOS_GASTON_06-20.png"
+  },
+  {
+    "name": "Marcus McGhee",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "marcus-mcghee",
+    "headshot": "https://www.ufc.com/images/2026-10/MCGHEE_MARCUS_10-03.png"
+  },
+  {
+    "name": "Fernando Padilla",
+    "weightClass": "Featherweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "fernando-padilla",
+    "headshot": "https://www.ufc.com/images/2024-12/PADILLA_FERNANDO_12-14.png"
+  },
+  {
+    "name": "Diego Lopes",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "diego-lopes",
+    "headshot": "https://www.ufc.com/images/2026-06/LOPES_DIEGO_06-14.png"
+  },
+  {
+    "name": "Chepe Mariscal",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "chepe-mariscal",
+    "headshot": "https://www.ufc.com/images/2025-11/MARISCAL_CHEPE_11-15.png"
+  },
+  {
+    "name": "Morgan Charrière",
+    "weightClass": "Featherweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "morgan-charriere",
+    "headshot": "https://www.ufc.com/images/2026-09/CHARRIERE_MORGAN_09-05.png"
+  },
+  {
+    "name": "Manolo Zecchini",
+    "weightClass": "Featherweight",
+    "nationality": "ITA",
+    "flag": "🇮🇹",
+    "slug": "manolo-zecchini",
+    "headshot": "https://www.ufc.com/images/2026-04/ZECCHINI_MANOLO_04-04.png"
+  },
+  {
+    "name": "Jean Silva",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jean-silva",
+    "headshot": "https://www.ufc.com/images/2026-09/SILVA_JEAN_09-12.png"
+  },
+  {
+    "name": "Ramon Taveras",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ramon-taveras",
+    "headshot": "https://www.ufc.com/images/2025-09/TAVERAS_RAMON_09-27.png"
+  },
+  {
+    "name": "Hyder Amil",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "hyder-amil",
+    "headshot": "https://www.ufc.com/images/2026-06/AMIL_HYDER_06-20.png"
+  },
+  {
+    "name": "Bolaji Oki",
+    "weightClass": "Featherweight",
+    "nationality": "BEL",
+    "flag": "🇧🇪",
+    "slug": "bolaji-oki",
+    "headshot": "https://www.ufc.com/images/2026-10/OKI_BOLAJI_10-24.png"
+  },
+  {
+    "name": "Vinicius Oliveira",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "vinicius-oliveira",
+    "headshot": "https://www.ufc.com/images/2026-06/OLIVEIRA_VINICIUS_06-20.png"
+  },
+  {
+    "name": "Danny Silva",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "danny-silva",
+    "headshot": "https://www.ufc.com/images/2026-03/SILVA_DANNY_03-21.png"
+  },
+  {
+    "name": "Steven Nguyen",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "steven-nguyen",
+    "headshot": "https://www.ufc.com/images/2025-07/NGUYEN_STEVEN_07-26.png"
+  },
+  {
+    "name": "Felipe Lima",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "felipe-lima",
+    "headshot": "https://www.ufc.com/images/2026-09/LIMA_FELIPE_09-05.png"
+  },
+  {
+    "name": "Mairon Santos",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "mairon-santos-alves",
+    "headshot": "https://www.ufc.com/images/2025-12/SANTOS_MAIRON_12-06.png"
+  },
+  {
+    "name": "Kaan Ofli",
+    "weightClass": "Featherweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "kaan-ofli",
+    "headshot": "https://www.ufc.com/images/2026-06/OFLI_KAAN_06-27.png"
+  },
+  {
+    "name": "Roberto Romero",
+    "weightClass": "Featherweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "roberto-romero",
+    "headshot": "https://www.ufc.com/images/2025-04/ROMERO_ROBERTO_04-26.png"
+  },
+  {
+    "name": "Austin Bashi",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "austin-bashi",
+    "headshot": "https://www.ufc.com/images/2026-07/BASHI_AUSTIN_07-18.png"
+  },
+  {
+    "name": "Bogdan Grad",
+    "weightClass": "Featherweight",
+    "nationality": "AUT",
+    "flag": "🇦🇹",
+    "slug": "bogdan-grad",
+    "headshot": "https://www.ufc.com/images/2026-07/GRAD_BOGDAN_08-01.png"
+  },
+  {
+    "name": "José Miguel Delgado",
+    "weightClass": "Featherweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "jose-miguel-delgado",
+    "headshot": "https://www.ufc.com/images/2026-09/DELGADO_JOSE_MIGUEL_09-12.png"
+  },
+  {
+    "name": "Kevin Vallejos",
+    "weightClass": "Featherweight",
+    "nationality": "ARG",
+    "flag": "🇦🇷",
+    "slug": "kevin-vallejos",
+    "headshot": "https://www.ufc.com/images/2025-12/VALLEJOS_KEVIN_12-13.png"
+  },
+  {
+    "name": "Patrício Pitbull",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "patricio-freire",
+    "headshot": "https://www.ufc.com/images/2026-09/PITBULL_PATRICIO_09-19.png"
+  },
+  {
+    "name": "Yadier del Valle",
+    "weightClass": "Featherweight",
+    "nationality": "CUB",
+    "flag": "🇨🇺",
+    "slug": "yadier-del-valle",
+    "headshot": "https://www.ufc.com/images/2026-08/DEL_VALLE_YADIER_08-08.png"
+  },
+  {
+    "name": "Michael Aswell Jr.",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "michael-aswell-jr",
+    "headshot": "https://www.ufc.com/images/2026-09/ASWELL_JR_MICHAEL_09-19.png"
+  },
+  {
+    "name": "Yoo Joo-sang",
+    "weightClass": "Featherweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "joo-sang-yoo",
+    "headshot": "https://www.ufc.com/images/2026-09/YOO_JOOSANG_09-19.png"
+  },
+  {
+    "name": "Aaron Pico",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "aaron-pico",
+    "headshot": "https://www.ufc.com/images/2025-08/PICO_AARON_08-16.png"
+  },
+  {
+    "name": "Harry Hardwick",
+    "weightClass": "Featherweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "harry-hardwick",
+    "headshot": "https://www.ufc.com/images/2026-03/HARDWICK_HARRY_03-14.png"
+  },
+  {
+    "name": "Robert Ruchała",
+    "weightClass": "Featherweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "robert-ruchala",
+    "headshot": "https://www.ufc.com/images/2026-04/RUCHALA_ROBERT_04-04.png"
+  },
+  {
+    "name": "Luke Riley",
+    "weightClass": "Featherweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "luke-riley",
+    "headshot": "https://www.ufc.com/images/2026-07/RILEY_LUKE_07-11.png"
+  },
+  {
+    "name": "Isaac Thomson",
+    "weightClass": "Featherweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "isaac-thomson",
+    "headshot": "https://www.ufc.com/images/2025-12/THOMSON_ISAAC_12-13.png"
+  },
+  {
+    "name": "Keiichiro Nakamura",
+    "weightClass": "Featherweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "keiichiro-nakamura",
+    "headshot": "https://www.ufc.com/images/2026-01/NAKAMURA_KEIICHIRO_01-31.png"
+  },
+  {
+    "name": "Gianni Vázquez",
+    "weightClass": "Featherweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "gianni-vazquez",
+    "headshot": "https://www.ufc.com/images/2026-08/VAZQUEZ_GIANNI_08-08.png"
+  },
+  {
+    "name": "Javier Reyes",
+    "weightClass": "Featherweight",
+    "nationality": "COL",
+    "flag": "🇨🇴",
+    "slug": "javier-reyes",
+    "headshot": "https://www.ufc.com/images/2026-06/REYES_JAVIER_06-27.png"
+  },
+  {
+    "name": "Alberto Montes",
+    "weightClass": "Featherweight",
+    "nationality": "VEN",
+    "flag": "🇻🇪",
+    "slug": "alberto-montes",
+    "headshot": "https://www.ufc.com/images/2026-07/MONTES_ALBERTO_07-18.png"
+  },
+  {
+    "name": "Marwan Rahiki",
+    "weightClass": "Featherweight",
+    "nationality": "MAR",
+    "flag": "🇲🇦",
+    "slug": "marwan-rahiki",
+    "headshot": "https://www.ufc.com/images/2026-09/RAHIKI_MARWAN_09-12.png"
+  },
+  {
+    "name": "Losene Keita",
+    "weightClass": "Featherweight",
+    "nationality": "BEL",
+    "flag": "🇧🇪",
+    "slug": "losene-keita",
+    "headshot": "https://www.ufc.com/images/2026-10/KEITA_LOSENE_10-24.png"
+  },
+  {
+    "name": "Kurtis Campbell",
+    "weightClass": "Featherweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "kurtis-campbell",
+    "headshot": "https://www.ufc.com/images/2026-09/CAMPBELL_KURTIS_09-05.png"
+  },
+  {
+    "name": "Lerryan Douglas",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "lerryan-douglas",
+    "headshot": "https://www.ufc.com/images/2026-08/DOUGLAS_LERRYAN_08-22.png"
+  },
+  {
+    "name": "José Mauro Delano",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jose-delano",
+    "headshot": "https://www.ufc.com/images/2026-04/DELANO_JOSE_04-04.png"
+  },
+  {
+    "name": "Tommy McMillen",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "tommy-mcmillen",
+    "headshot": "https://www.ufc.com/images/2026-09/MCMILLEN_TOMMY_09-12.png"
+  },
+  {
+    "name": "Márcio Barbosa",
+    "weightClass": "Featherweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "marcio-barbosa",
+    "headshot": "https://www.ufc.com/images/2026-08/BARBOSA_MARCIO_08-22.png"
+  },
+  {
+    "name": "Ollie Schmid",
+    "weightClass": "Featherweight",
+    "nationality": "HUN",
+    "flag": "🇭🇺",
+    "slug": "ollie-schmid",
+    "headshot": "https://www.ufc.com/images/2026-04/SCHMID_OLLIE_05-02.png"
+  },
+  {
+    "name": "Zhu Kangjie",
+    "weightClass": "Featherweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "zhu-kangjie",
+    "headshot": "https://www.ufc.com/images/2026-05/KANGJIE_ZHU_05-30.png"
+  },
+  {
+    "name": "Rodrigo Vera",
+    "weightClass": "Featherweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "slug": "rodrigo-vera",
+    "headshot": "https://www.ufc.com/images/2026-05/VERA_RODRIGO_05-30.png"
+  },
+  {
+    "name": "Shane Collins",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "shane-collins",
+    "headshot": "https://www.ufc.com/images/2026-06/COLLINS_SHANE_06-20.png"
+  },
+  {
+    "name": "Murtazali Magomedov",
+    "weightClass": "Featherweight",
+    "nationality": "KGZ",
+    "flag": "🇰🇬",
+    "slug": "murtazali-magomedov",
+    "headshot": "https://www.ufc.com/images/2026-06/MAGOMEDOV_MURTAZLI_06-20.png"
+  },
+  {
+    "name": "Ezra Elliott",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ezra-elliot",
+    "headshot": "https://www.ufc.com/images/2026-07/ELLIOT_EZRA_07-18.png"
+  },
+  {
+    "name": "Damien Anderson",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "damien-anderson",
+    "headshot": "https://www.ufc.com/images/2026-07/ANDERSON_DAMIEN_07-18.png"
+  },
+  {
+    "name": "Ryan Kuse",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ryan-kuse",
+    "headshot": "https://www.ufc.com/images/2026-08/KUSE_RYAN_08-22.png"
+  },
+  {
+    "name": "Pavel Andrusca",
+    "weightClass": "Featherweight",
+    "nationality": "MDA",
+    "flag": "🇲🇩",
+    "slug": "pavel-andrusca",
+    "headshot": "https://www.ufc.com/images/2026-09/ANDRUSCA_PAVEL_09-05.png"
+  },
+  {
+    "name": "Jessie Rosas",
+    "weightClass": "Featherweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "jessie-rosas",
+    "headshot": "https://www.ufc.com/images/2026-09/ROSAS_JESSIE_09-12.png"
+  },
+  {
+    "name": "Sean King III",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sean-king-iii",
+    "headshot": "https://www.ufc.com/images/2026-09/KING_III_SEAN_09-12.png"
+  },
+  {
+    "name": "Anthony Romero",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "anthony-romero",
+    "headshot": "https://www.ufc.com/images/2022-03/fff14791-0ba3-44e1-94d0-cedc276d752e%252FROMERO_ANTHONY.png"
+  },
+  {
+    "name": "Davey Grant",
+    "weightClass": "Bantamweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "davey-grant",
+    "headshot": "https://www.ufc.com/images/2026-04/GRANT_DAVEY_04-25.png"
+  },
+  {
+    "name": "Rob Font",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "rob-font",
+    "headshot": "https://www.ufc.com/images/2026-03/FONT_ROB_03-07.png"
+  },
+  {
+    "name": "Marlon Vera",
+    "weightClass": "Bantamweight",
+    "nationality": "ECU",
+    "flag": "🇪🇨",
+    "slug": "marlon-vera",
+    "headshot": "https://www.ufc.com/images/2026-09/VERA_MARLON_09-19.png"
+  },
+  {
+    "name": "Cody Garbrandt",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "cody-garbrandt",
+    "headshot": "https://www.ufc.com/images/2026-07/GARBRANDT_CODY_07-11.png"
+  },
+  {
+    "name": "Aiemann Zahabi",
+    "weightClass": "Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "aiemann-zahabi",
+    "headshot": "https://www.ufc.com/images/2026-06/ZAHABI_AIEMANN_06-14.png"
+  },
+  {
+    "name": "Deiveson Figueiredo",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "deiveson-figueiredo",
+    "headshot": "https://www.ufc.com/images/2026-10/FIGUEIREDO_DEIVESON_10-03.png"
+  },
+  {
+    "name": "Song Yadong",
+    "weightClass": "Bantamweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "song-yadong",
+    "headshot": "https://www.ufc.com/images/2026-08/YADONG_SONG_08-29.png"
+  },
+  {
+    "name": "Sean O'Malley",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sean-omalley",
+    "headshot": "https://www.ufc.com/images/2026-06/OMALLEY_SEAN_06-14.png"
+  },
+  {
+    "name": "Merab Dvalishvili",
+    "weightClass": "Bantamweight",
+    "nationality": "GEO",
+    "flag": "🇬🇪",
+    "slug": "merab-dvalishvili",
+    "headshot": "https://www.ufc.com/images/2026-10/DVALISHVILI_MERAB_10-24.png"
+  },
+  {
+    "name": "Cory Sandhagen",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "cory-sandhagen",
+    "headshot": "https://www.ufc.com/images/2026-07/SANDHAGEN_CORY_07-11.png"
+  },
+  {
+    "name": "Ricky Simón",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ricky-simon",
+    "headshot": "https://www.ufc.com/images/2026-09/SIMON_RICKY_09-26.png"
+  },
+  {
+    "name": "Bryce Mitchell",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "bryce-mitchell",
+    "headshot": "https://www.ufc.com/images/2026-06/MITCHELL_BRYCE_06-06.png"
+  },
+  {
+    "name": "Raoni Barcelos",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "raoni-barcelos",
+    "headshot": "https://www.ufc.com/images/2026-09/BARCELOS_RAONI_09-26.png"
+  },
+  {
+    "name": "Petr Yan",
+    "weightClass": "Bantamweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "petr-yan",
+    "headshot": "https://www.ufc.com/images/2026-10/YAN_PETR_BELT_10-24.png"
+  },
+  {
+    "name": "Said Nurmagomedov",
+    "weightClass": "Bantamweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "said-nurmagomedov",
+    "headshot": "https://www.ufc.com/images/2025-07/NURMAGOMEDOV_SAID_07-26.png"
+  },
+  {
+    "name": "Montel Jackson",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "montel-jackson",
+    "headshot": "https://www.ufc.com/images/2026-09/JACKSON_MONTEL_09-26.png"
+  },
+  {
+    "name": "Chris Gutiérrez",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "chris-gutierrez",
+    "headshot": "https://www.ufc.com/images/2025-10/GUTIERREZ_CHRIS_10-04.png"
+  },
+  {
+    "name": "Jonathan Martinez",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jonathan-martinez",
+    "headshot": "https://www.ufc.com/images/2024-11/MARTINEZ_JONATHAN_11-16.png"
+  },
+  {
+    "name": "Mario Bautista",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mario-bautista",
+    "headshot": "https://www.ufc.com/images/2026-07/BAUTISTA_MARIO_07-11.png"
+  },
+  {
+    "name": "Charles Jourdain",
+    "weightClass": "Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "charles-jourdain",
+    "headshot": "https://www.ufc.com/images/2026-09/JOURDAIN_CHARLES_09-19.png"
+  },
+  {
+    "name": "Alateng Heili",
+    "weightClass": "Bantamweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "heili-alateng",
+    "headshot": "https://www.ufc.com/images/2026-09/ALATENGHEILI_09-26.png"
+  },
+  {
+    "name": "Kyler Phillips",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "kyler-phillips",
+    "headshot": "https://www.ufc.com/images/2026-04/PHILLIPS_KYLER_04-18.png"
+  },
+  {
+    "name": "John Castañeda",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "john-castaneda",
+    "headshot": "https://www.ufc.com/images/2026-09/CASTANEDA_JOHN_09-26.png"
+  },
+  {
+    "name": "Adrian Yañez",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "adrian-yanez",
+    "headshot": "https://www.ufc.com/images/2026-07/YANEZ_ADRIAN_07-11.png"
+  },
+  {
+    "name": "Umar Nurmagomedov",
+    "weightClass": "Bantamweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "umar-nurmagomedov",
+    "headshot": "https://www.ufc.com/images/2026-08/NURMAGOMEDOV_UMAR_08-29.png"
+  },
+  {
+    "name": "Brady Hiestand",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "brady-hiestand",
+    "headshot": "https://www.ufc.com/images/2026-09/HIESTAND_BRADY_09-26.png"
+  },
+  {
+    "name": "Saimon Oliveira",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "saimon-oliveira",
+    "headshot": "https://www.ufc.com/images/2025-10/OLIVEIRA_SAIMON_10-11.png"
+  },
+  {
+    "name": "Victor Henry",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "victor-henry",
+    "headshot": "https://www.ufc.com/images/2025-04/HENRY_VICTOR_04-05.png"
+  },
+  {
+    "name": "Chad Anheliger",
+    "weightClass": "Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "chad-anheliger",
+    "headshot": "https://www.ufc.com/images/2026-10/ANHELIGER_CHAD_10-17.png"
+  },
+  {
+    "name": "Garrett Armfield",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "garrett-armfield",
+    "headshot": "https://www.ufc.com/images/2024-10/ARMFIELD_GARRETT_11-02.png"
+  },
+  {
+    "name": "Da'Mon Blackshear",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "damon-blackshear",
+    "headshot": "https://www.ufc.com/images/2025-07/BLACKSHEAR_DAMON_07-26.png"
+  },
+  {
+    "name": "Cristian Quiñónez",
+    "weightClass": "Bantamweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "cristian-quinonez",
+    "headshot": "https://www.ufc.com/images/2026-02/QUINONEZ_CRISTIAN_02-28.png"
+  },
+  {
+    "name": "Cameron Saaiman",
+    "weightClass": "Bantamweight",
+    "nationality": "ZAF",
+    "flag": "🇿🇦",
+    "slug": "cameron-saaiman",
+    "headshot": "https://www.ufc.com/images/2025-04/SAAIMAN_CAMERON_04-26.png"
+  },
+  {
+    "name": "Steven Koslow",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "steven-koslow",
+    "headshot": "https://www.ufc.com/images/2026-10/KOSLOW_STEVEN_10-17.png"
+  },
+  {
+    "name": "Raul Rosas Jr.",
+    "weightClass": "Bantamweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "raul-rosas-jr",
+    "headshot": "https://www.ufc.com/images/2026-09/ROSAS_JR_RAUL_09-26.png"
+  },
+  {
+    "name": "Rinya Nakamura",
+    "weightClass": "Bantamweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "rinya-nakamura",
+    "headshot": "https://www.ufc.com/images/2026-09/NAKAMURA_RINYA_09-26.png"
+  },
+  {
+    "name": "Toshiomi Kazama",
+    "weightClass": "Bantamweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "toshiomi-kazama",
+    "headshot": "https://www.ufc.com/images/2025-08/KAZAMA_TOSHIOMI_08-09.png"
+  },
+  {
+    "name": "Jafel Filho",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jafel-filho",
+    "headshot": "https://www.ufc.com/images/2026-04/FILHO_JAFEL_04-25.png"
+  },
+  {
+    "name": "Muin Gafurov",
+    "weightClass": "Bantamweight",
+    "nationality": "TJK",
+    "flag": "🇹🇯",
+    "slug": "muin-gafurov",
+    "headshot": "https://www.ufc.com/images/2026-02/GAFUROV_MUIN_02-07.png"
+  },
+  {
+    "name": "Rafael Estevam",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "rafael-estevam",
+    "headshot": "https://www.ufc.com/images/2026-04/ESTEVAM_RAFAEL_04-04.png"
+  },
+  {
+    "name": "Payton Talbott",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "payton-talbott",
+    "headshot": "https://www.ufc.com/images/2026-10/TALBOTT_PAYTON_10-03.png"
+  },
+  {
+    "name": "Serhiy Sidey",
+    "weightClass": "Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "serhiy-sidey",
+    "headshot": "https://www.ufc.com/images/2025-05/SIDEY_SERHIY_05-03.png"
+  },
+  {
+    "name": "Timothy Cuamba",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "timothy-cuamba",
+    "headshot": "https://www.ufc.com/images/2026-10/CUAMBA_TIMMY_10-17.png"
+  },
+  {
+    "name": "Carlos Vera",
+    "weightClass": "Bantamweight",
+    "nationality": "ECU",
+    "flag": "🇪🇨",
+    "slug": "carlos-vera",
+    "headshot": "https://www.ufc.com/images/2025-03/VERA_CARLOS_03-15.png"
+  },
+  {
+    "name": "Bernardo Sopaj",
+    "weightClass": "Bantamweight",
+    "nationality": "ALB",
+    "flag": "🇦🇱",
+    "slug": "bernardo-sopaj",
+    "headshot": "https://www.ufc.com/images/2026-05/SOPAJ_BENARDO_05-16.png"
+  },
+  {
+    "name": "Angel Pacheco",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "angel-pacheco",
+    "headshot": "https://www.ufc.com/images/2026-02/PACHECO_ANGEL_02-28.png"
+  },
+  {
+    "name": "Jean Matsumoto",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jean-matsumoto",
+    "headshot": "https://www.ufc.com/images/2026-06/MATSUMOTO_JEAN_06-27.png"
+  },
+  {
+    "name": "Lee Chang-ho",
+    "weightClass": "Bantamweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "chang-ho-lee",
+    "headshot": "https://www.ufc.com/images/2025-10/LEE_CHANGHO_11-01.png"
+  },
+  {
+    "name": "Xiao Long",
+    "weightClass": "Bantamweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "xiao-long",
+    "headshot": "https://www.ufc.com/images/2026-08/LONG_XIAO_08-29.png"
+  },
+  {
+    "name": "Cody Haddon",
+    "weightClass": "Bantamweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "cody-haddon",
+    "headshot": "https://www.ufc.com/images/2026-05/HADDON_CODY_05-30.png"
+  },
+  {
+    "name": "You Su-young",
+    "weightClass": "Bantamweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "suyoung-you",
+    "headshot": "https://www.ufc.com/images/2026-10/YOU_SUYOUNG_10-17.png"
+  },
+  {
+    "name": "Kai Asakura",
+    "weightClass": "Bantamweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "kai-asakura",
+    "headshot": "https://www.ufc.com/images/2026-08/ASAKURA_KAI_08-29.png"
+  },
+  {
+    "name": "Colby Thicknesse",
+    "weightClass": "Bantamweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "colby-thicknesse",
+    "headshot": "https://www.ufc.com/images/2026-10/THICKNESSE_COLBY_10-24.png"
+  },
+  {
+    "name": "Aleksandre Topuria",
+    "weightClass": "Bantamweight",
+    "nationality": "GEO",
+    "flag": "🇬🇪",
+    "slug": "aleksandre-topuria",
+    "headshot": "https://www.ufc.com/images/2025-11/TOPURIA_ALEKSANDRE_11-22.png"
+  },
+  {
+    "name": "Elijah Smith",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "elijah-smith",
+    "headshot": "https://www.ufc.com/images/2026-03/SMITH_ELIJAH_03-14.png"
+  },
+  {
+    "name": "Josias Musasa",
+    "weightClass": "Bantamweight",
+    "nationality": "COD",
+    "flag": "🇨🇩",
+    "slug": "josias-musasa",
+    "headshot": "https://www.ufc.com/images/2025-09/MUSASA_JOSIAS_09-27.png"
+  },
+  {
+    "name": "David Martínez",
+    "weightClass": "Bantamweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "david-martinez",
+    "headshot": "https://www.ufc.com/images/2026-09/MARTINEZ_DAVID_09-12.png"
+  },
+  {
+    "name": "Luis Gurule",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "luis-gurule",
+    "headshot": "https://www.ufc.com/images/2025-09/GURULE_LUIS_09-13.png"
+  },
+  {
+    "name": "Malcolm Wellmaker",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "malcolm-wellmaker",
+    "headshot": "https://www.ufc.com/images/2026-10/WELLMAKER_MALCOM_10-10.png"
+  },
+  {
+    "name": "John Yannis",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "john-yannis",
+    "headshot": "https://www.ufc.com/images/2026-06/YANNIS_JOHN_06-06.png"
+  },
+  {
+    "name": "Santiago Luna",
+    "weightClass": "Bantamweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "santiago-luna",
+    "headshot": "https://www.ufc.com/images/2026-06/LUNA_SANTIAGO_06-06.png"
+  },
+  {
+    "name": "Jakub Wikłacz",
+    "weightClass": "Bantamweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "jakub-wiklacz",
+    "headshot": "https://www.ufc.com/images/2025-10/WIKLACZ_JAKUB_10-04.png"
+  },
+  {
+    "name": "Ethyn Ewing",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "ethyn-ewing",
+    "headshot": "https://www.ufc.com/images/2026-04/EWING_ETHYN_04-04.png"
+  },
+  {
+    "name": "Lawrence Lui",
+    "weightClass": "Bantamweight",
+    "nationality": "NZL",
+    "flag": "🇳🇿",
+    "slug": "lawrence-lui",
+    "headshot": "https://www.ufc.com/images/2026-08/LUI_LAWRENCE_08-29.png"
+  },
+  {
+    "name": "Hecher Sosa",
+    "weightClass": "Bantamweight",
+    "nationality": "ESP",
+    "flag": "🇪🇸",
+    "slug": "hecher-sosa",
+    "headshot": "https://www.ufc.com/images/2026-03/SOSA_HECHER_03-14.png"
+  },
+  {
+    "name": "Jamie Siraj",
+    "weightClass": "Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "jamie-siraj",
+    "headshot": "https://www.ufc.com/images/2026-04/SIRAJ_JAMIE_04-18.png"
+  },
+  {
+    "name": "Mark Vologdin",
+    "weightClass": "Bantamweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "mark-vologdin",
+    "headshot": "https://www.ufc.com/images/2026-07/VOLOGDIN_MARK_08-01.png"
+  },
+  {
+    "name": "Adrián Luna Martinetti",
+    "weightClass": "Bantamweight",
+    "nationality": "ECU",
+    "flag": "🇪🇨",
+    "slug": "juan-martinetti",
+    "headshot": "https://www.ufc.com/images/2026-04/MARTINETTI_ADRIAN_04-25.png"
+  },
+  {
+    "name": "Juan Díaz",
+    "weightClass": "Bantamweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "slug": "juan-diaz",
+    "headshot": "https://www.ufc.com/images/2026-05/DIAS_JUAN_05-16.png"
+  },
+  {
+    "name": "Otari Tanzilovi",
+    "weightClass": "Bantamweight",
+    "nationality": "GEO",
+    "flag": "🇬🇪",
+    "slug": "otari-tanzilovi",
+    "headshot": "https://www.ufc.com/images/2026-10/TANZILOVI_OTARI_10-10.png"
+  },
+  {
+    "name": "John Garza",
+    "weightClass": "Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "john-garza",
+    "headshot": "https://www.ufc.com/images/2026-07/GARZA_JOHN_07-11.png"
+  },
+  {
+    "name": "Abdul Hussein",
+    "weightClass": "Bantamweight",
+    "nationality": "FIN",
+    "flag": "🇫🇮",
+    "slug": "abdul-hussein",
+    "headshot": "https://www.ufc.com/images/2026-07/HUSSEIN_ABDUL_07-25.png"
+  },
+  {
+    "name": "Borislav Nikolić",
+    "weightClass": "Bantamweight",
+    "nationality": "SRB",
+    "flag": "🇷🇸",
+    "slug": "borislav-nikolic",
+    "headshot": "https://www.ufc.com/images/2026-07/NIKOLIC_BORISLAV_08-01.png"
+  },
+  {
+    "name": "Hector Santiago",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "hector-de-sousa-santiago",
+    "headshot": "https://www.ufc.com/images/2026-08/SANTIAGO_HECTOR_08-29.png"
+  },
+  {
+    "name": "Francesco Nuzzi",
+    "weightClass": "Bantamweight",
+    "nationality": "ITA",
+    "flag": "🇮🇹",
+    "slug": "francesco-nuzzi",
+    "headshot": "https://www.ufc.com/images/2026-08/NUZZI_FRANCESCO_08-29.png"
+  },
+  {
+    "name": "Mehemmedeli Osmanli",
+    "weightClass": "Bantamweight",
+    "nationality": "AZE",
+    "flag": "🇦🇿",
+    "slug": "mehemmedeli-osmanli",
+    "headshot": "https://www.ufc.com/images/2026-09/OSMANLI_MAHAMMADALI_09-26.png"
+  },
+  {
+    "name": "Ilimbek Akylbek Uulu",
+    "weightClass": "Bantamweight",
+    "nationality": "KGZ",
+    "flag": "🇰🇬",
+    "slug": "ilimbek-akylbek-uulu",
+    "headshot": "https://www.ufc.com/images/2026-09/AKYLBEK_ILIMBEK_09-26.png"
+  },
+  {
+    "name": "Cody Chovancek",
+    "weightClass": "Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "cody-chovancek",
+    "headshot": "https://www.ufc.com/images/2026-10/CHOVANCEK_CODY_10-17.png"
+  },
+  {
+    "name": "Louis Jourdain",
+    "weightClass": "Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "louis-jourdain",
+    "headshot": "https://www.ufc.com/images/2026-10/JOURDAIN_LOUIS_10-17.png"
+  },
+  {
+    "name": "Asaf Chopurov",
+    "weightClass": "Bantamweight",
+    "nationality": "AZE",
+    "flag": "🇦🇿",
+    "slug": "asaf-chopurov",
+    "headshot": "https://www.ufc.com/images/2026-10/CHOPUROV_ASAF_10-24.png"
+  },
+  {
+    "name": "Tim Elliott",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "tim-elliott",
+    "headshot": "https://www.ufc.com/images/2026-09/ELLIOTT_TIM_09-12.png"
+  },
+  {
+    "name": "Kyoji Horiguchi",
+    "weightClass": "Flyweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "kyoji-horiguchi",
+    "headshot": "https://www.ufc.com/images/2025-11/HORIGUCHI_KYOJI_11-22.png"
+  },
+  {
+    "name": "Brandon Moreno",
+    "weightClass": "Flyweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "brandon-moreno",
+    "headshot": "https://www.ufc.com/images/2026-09/MORENO_BRANDON_09-12.png"
+  },
+  {
+    "name": "Alexandre Pantoja",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "alexandre-pantoja",
+    "headshot": "https://www.ufc.com/images/2026-09/PANTOJA_ALEXANDRE_09-19.png"
+  },
+  {
+    "name": "Joseph Morales",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "joseph-morales",
+    "headshot": "https://www.ufc.com/images/2026-09/MORALES_JOSEPH_09-12.png"
+  },
+  {
+    "name": "Alex Perez",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "alex-perez",
+    "headshot": "https://www.ufc.com/images/2026-08/PEREZ_ALEX_08-29.png"
+  },
+  {
+    "name": "Su Mudaerji",
+    "weightClass": "Flyweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "su-mudaerji",
+    "headshot": "https://www.ufc.com/images/2026-08/SUMUDAERJI_08-29.png"
+  },
+  {
+    "name": "Kai Kara-France",
+    "weightClass": "Flyweight",
+    "nationality": "NZL",
+    "flag": "🇳🇿",
+    "slug": "kai-kara-france",
+    "headshot": "https://www.ufc.com/images/2025-06/KARA-FRANCE_KAI_06-28.png"
+  },
+  {
+    "name": "Bruno Gustavo da Silva",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "bruno-silva",
+    "headshot": "https://www.ufc.com/images/2026-06/SILVA_BRUNO_06-06.png"
+  },
+  {
+    "name": "Ode' Osbourne",
+    "weightClass": "Flyweight",
+    "nationality": "JAM",
+    "flag": "🇯🇲",
+    "slug": "ode-osbourne",
+    "headshot": "https://www.ufc.com/images/2026-02/OSBOURNE_ODE_02-21.png"
+  },
+  {
+    "name": "Brandon Royval",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "brandon-royval",
+    "headshot": "https://www.ufc.com/images/2026-07/ROYVAL_BRANDON_07-11.png"
+  },
+  {
+    "name": "Amir Albazi",
+    "weightClass": "Flyweight",
+    "nationality": "IRQ",
+    "flag": "🇮🇶",
+    "slug": "amir-albazi",
+    "headshot": "https://www.ufc.com/images/2026-02/ALBAZI_AMIR_02-07.png"
+  },
+  {
+    "name": "Cody Durden",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "cody-durden",
+    "headshot": "https://www.ufc.com/images/2026-07/DURDEN_CODY_07-11.png"
+  },
+  {
+    "name": "Tagir Ulanbekov",
+    "weightClass": "Flyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "tagir-ulanbekov",
+    "headshot": "https://www.ufc.com/images/2025-11/ULANBEKOV_TAGIR_11-22.png"
+  },
+  {
+    "name": "Manel Kape",
+    "weightClass": "Flyweight",
+    "nationality": "AGO",
+    "flag": "🇦🇴",
+    "slug": "manel-kape",
+    "headshot": "https://www.ufc.com/images/2026-06/KAPE_MANEL_06-20.png"
+  },
+  {
+    "name": "Tatsuro Taira",
+    "weightClass": "Flyweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "tatsuro-taira",
+    "headshot": "https://www.ufc.com/images/2026-05/TAIRA_TATSURO_05-09.png"
+  },
+  {
+    "name": "Charles Johnson",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "charles-johnson",
+    "headshot": "https://www.ufc.com/images/2026-08/JOHNSON_CHARLES_08-15.png"
+  },
+  {
+    "name": "Alessandro Costa",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "alessandro-costa",
+    "headshot": "https://www.ufc.com/images/2026-07/COSTA_ALESSANDRO_07-11.png"
+  },
+  {
+    "name": "Park Hyun-sung",
+    "weightClass": "Flyweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "hyunsung-park",
+    "headshot": "https://www.ufc.com/images/2025-10/PARK_HYUN_SUNG_10-18.png"
+  },
+  {
+    "name": "Clayton Carpenter",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "clayton-carpenter",
+    "headshot": "https://www.ufc.com/images/2026-05/CARPENTER_CLAYTON_05-09.png"
+  },
+  {
+    "name": "Steve Erceg",
+    "weightClass": "Flyweight",
+    "nationality": "AUS",
+    "flag": "🇦🇺",
+    "slug": "steve-erceg",
+    "headshot": "https://www.ufc.com/images/2026-07/ERCEG_STEVE_07-25.png"
+  },
+  {
+    "name": "Joshua Van",
+    "weightClass": "Flyweight",
+    "nationality": "MMR",
+    "flag": "🇲🇲",
+    "slug": "joshua-van",
+    "headshot": "https://www.ufc.com/images/2026-09/VAN_JOSHUA_09-19.png"
+  },
+  {
+    "name": "Édgar Cháirez",
+    "weightClass": "Flyweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "edgar-chairez",
+    "headshot": "https://www.ufc.com/images/2026-09/CHAIREZ_EDGAR_09-12.png"
+  },
+  {
+    "name": "Asu Almabayev",
+    "weightClass": "Flyweight",
+    "nationality": "KAZ",
+    "flag": "🇰🇿",
+    "slug": "asu-almabayev",
+    "headshot": "https://www.ufc.com/images/2026-06/ALMABAYEV_ASU_06-27.png"
+  },
+  {
+    "name": "Kevin Borjas",
+    "weightClass": "Flyweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "slug": "kevin-borjas",
+    "headshot": "https://www.ufc.com/images/2026-08/BORJAS_KEVIN_08-29.png"
+  },
+  {
+    "name": "Ronaldo Rodríguez",
+    "weightClass": "Flyweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽"
+  },
+  {
+    "name": "André Lima",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "andre-lima",
+    "headshot": "https://www.ufc.com/images/2026-08/LIMA_ANDRE_08-29.png"
+  },
+  {
+    "name": "Mitch Raposo",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mitch-raposo",
+    "headshot": "https://www.ufc.com/images/2026-06/RAPOSO_MITCH_06-20.png"
+  },
+  {
+    "name": "Rei Tsuruya",
+    "weightClass": "Flyweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "rei-tsuruya",
+    "headshot": "https://www.ufc.com/images/2026-08/TSURUYA_REI_08-29.png"
+  },
+  {
+    "name": "Lucas Rocha",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "lucas-rocha",
+    "headshot": "https://www.ufc.com/images/2025-10/ROCHA_LUCAS_10-11.png"
+  },
+  {
+    "name": "Ramazan Temirov",
+    "weightClass": "Flyweight",
+    "nationality": "UZB",
+    "flag": "🇺🇿",
+    "slug": "ramazan-temirov",
+    "headshot": "https://www.ufc.com/images/2026-10/TEMIROV_RAMAZAN_10-24.png"
+  },
+  {
+    "name": "Lone'er Kavanagh",
+    "weightClass": "Flyweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "loneer-kavanagh",
+    "headshot": "https://www.ufc.com/images/2026-10/KAVANAGH_LONEER_10-24.png"
+  },
+  {
+    "name": "José Ochoa",
+    "weightClass": "Flyweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "slug": "jose-ochoa",
+    "headshot": "https://www.ufc.com/images/2026-05/OCHOA_JOSE_05-09.png"
+  },
+  {
+    "name": "Nyamjargal Tumendemberel",
+    "weightClass": "Flyweight",
+    "nationality": "MNG",
+    "flag": "🇲🇳",
+    "slug": "nyamjargal-tumendemberel",
+    "headshot": "https://www.ufc.com/images/2026-03/TUMENDEMBEREL_NYAMJARGAL_03-07.png"
+  },
+  {
+    "name": "Choi Dong-hun",
+    "weightClass": "Flyweight",
+    "nationality": "KOR",
+    "flag": "🇰🇷",
+    "slug": "donghun-choi",
+    "headshot": "https://www.ufc.com/images/2024-11/CHOI_DONGHUN_11-23.png"
+  },
+  {
+    "name": "Alibi Idiris",
+    "weightClass": "Flyweight",
+    "nationality": "KAZ",
+    "flag": "🇰🇿",
+    "slug": "alibi-idiris",
+    "headshot": "https://www.ufc.com/images/2026-02/IDIRIS_ALIBI_02-21.png"
+  },
+  {
+    "name": "Alden Coria",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "alden-coria",
+    "headshot": "https://www.ufc.com/images/2026-10/CORIA_ALDEN_10-03.png"
+  },
+  {
+    "name": "Imanol Rodríguez",
+    "weightClass": "Flyweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "imanol-rodriguez",
+    "headshot": "https://www.ufc.com/images/2026-10/RODRIGUEZ_IMANOL_10-03.png"
+  },
+  {
+    "name": "Eduardo Henrique",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "eduardo-chapolin",
+    "headshot": "https://www.ufc.com/images/2026-08/CHAPOLIN_EDUARDO_08-15.png"
+  },
+  {
+    "name": "Namsrai Batbayar",
+    "weightClass": "Flyweight",
+    "nationality": "MNG",
+    "flag": "🇲🇳",
+    "slug": "namsrai-batbayar",
+    "headshot": "https://www.ufc.com/images/2026-08/BATBAYAR_NAMSRAI_08-29.png"
+  },
+  {
+    "name": "Bilal Hasan",
+    "weightClass": "Flyweight",
+    "nationality": "IDN",
+    "flag": "🇮🇩",
+    "slug": "bilal-hasan",
+    "headshot": "https://www.ufc.com/images/2026-08/HASAN_BILAL_08-29.png"
+  },
+  {
+    "name": "Nilson Rojas",
+    "weightClass": "Flyweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "slug": "nilson-rojas",
+    "headshot": "https://www.ufc.com/images/2026-08/ROJAS_NILSON_08-29.png"
+  },
+  {
+    "name": "Michael Aljarouj",
+    "weightClass": "Flyweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "michael-aljarouj",
+    "headshot": "https://www.ufc.com/images/2026-09/ALJAROUJ_MICHAEL_09-05.png"
+  },
+  {
+    "name": "Fabià Sintes",
+    "weightClass": "Flyweight",
+    "nationality": "ESP",
+    "flag": "🇪🇸",
+    "slug": "fabia-sintes",
+    "headshot": "https://www.ufc.com/images/2026-09/SINTES_FABIA_09-05.png"
+  },
+  {
+    "name": "Miesha Tate",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "miesha-tate",
+    "headshot": "https://www.ufc.com/images/2025-05/TATE_MIESHA_05-03.png"
+  },
+  {
+    "name": "Julianna Peña",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "julianna-pena",
+    "headshot": "https://www.ufc.com/images/2024-10/PENA_JULIANNA_10-05.png"
+  },
+  {
+    "name": "Raquel Pennington",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "raquel-pennington",
+    "headshot": "https://www.ufc.com/images/2025-01/5/PENNINGTON_RAQUEL_01-20.png"
+  },
+  {
+    "name": "Priscila Cachoeira",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "priscila-cachoeira",
+    "headshot": "https://www.ufc.com/images/2026-06/CACHOEIRA_PRISCILA_06-06.png"
+  },
+  {
+    "name": "Yana Santos",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "slug": "yana-santos",
+    "headshot": "https://www.ufc.com/images/2025-10/SANTOS_YANA_10-04.png"
+  },
+  {
+    "name": "Macy Chiasson",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "macy-chiasson",
+    "headshot": "https://www.ufc.com/images/2026-02/CHIASSON_MACY_02-28.png"
+  },
+  {
+    "name": "Karol Rosa",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "karol-rosa",
+    "headshot": "https://www.ufc.com/images/2026-06/ROSA_KAROL_06-20.png"
+  },
+  {
+    "name": "Norma Dumont",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "norma-dumont",
+    "headshot": "https://www.ufc.com/images/2026-09/DUMONT_NORMA_09-26.png"
+  },
+  {
+    "name": "Joselyne Edwards",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "PAN",
+    "flag": "🇵🇦",
+    "slug": "joselyne-edwards",
+    "headshot": "https://www.ufc.com/images/2026-04/EDWARDS_JOSELYNE_04-25.png"
+  },
+  {
+    "name": "Josiane Nunes",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "josiane-nunes",
+    "headshot": "https://www.ufc.com/images/2025-03/NUNES_JOSIANE_03-15.png"
+  },
+  {
+    "name": "Ailín Pérez",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "ARG",
+    "flag": "🇦🇷",
+    "slug": "ailin-perez",
+    "headshot": "https://www.ufc.com/images/2026-09/PEREZ_AILIN_09-26.png"
+  },
+  {
+    "name": "Chelsea Chandler",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "chelsea-chandler",
+    "headshot": "https://www.ufc.com/images/2026-10/CHANDLER_CHELSEA_10-17.png"
+  },
+  {
+    "name": "Tainara Lisboa",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "tainara-lisboa",
+    "headshot": "https://www.ufc.com/images/2025-10/LISBOA_TAINARA_10-18.png"
+  },
+  {
+    "name": "Luana Santos",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "luana-santos",
+    "headshot": "https://www.ufc.com/images/2026-06/SANTOS_LUANA_06-20.png"
+  },
+  {
+    "name": "Jacqueline Cavalcanti",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "PRT",
+    "flag": "🇵🇹",
+    "slug": "jacqueline-cavalcanti",
+    "headshot": "https://www.ufc.com/images/2026-05/CAVALCANTI_JACQUELINE_05-16.png"
+  },
+  {
+    "name": "Nora Cornolle",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "nora-cornolle",
+    "headshot": "https://www.ufc.com/images/2026-09/CORNOLLE_NORA_09-05.png"
+  },
+  {
+    "name": "Melissa Mullins",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "melissa-mullins",
+    "headshot": "https://www.ufc.com/images/2026-06/MULLINS_MELISSA_06-20.png"
+  },
+  {
+    "name": "Darya Zheleznyakova",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺"
+  },
+  {
+    "name": "Kayla Harrison",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "kayla-harrison",
+    "headshot": "https://www.ufc.com/images/2025-06/HARRISON_KAYLA_BELTMOCK.png"
+  },
+  {
+    "name": "Klaudia Syguła",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "klaudia-sygula",
+    "headshot": "https://www.ufc.com/images/2026-09/SYGULA_KLAUDIA_09-05.png"
+  },
+  {
+    "name": "Alice Pereira",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "alice-pereira",
+    "headshot": "https://www.ufc.com/images/2026-10/PEREIRA_ALICE_10-10.png"
+  },
+  {
+    "name": "Michelle Montague",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "NZL",
+    "flag": "🇳🇿",
+    "slug": "michelle-montague",
+    "headshot": "https://www.ufc.com/images/2026-04/MONTAGUE_MICHELLE_04-25.png"
+  },
+  {
+    "name": "Beatriz Mesquita",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "bia-mesquita",
+    "headshot": "https://www.ufc.com/images/2025-10/MESQUITA_BIA_10-11.png"
+  },
+  {
+    "name": "Melissa Croden",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "melissa-croden",
+    "headshot": "https://www.ufc.com/images/2025-10/CRODEN_MELISSA_10-18.png"
+  },
+  {
+    "name": "Nina Nikolija Milošević",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "SRB",
+    "flag": "🇷🇸",
+    "slug": "nina-milosevic",
+    "headshot": "https://www.ufc.com/images/2026-07/MILOSEVIC_NINA_08-01.png"
+  },
+  {
+    "name": "Rose Namajunas",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "rose-namajunas",
+    "headshot": "https://www.ufc.com/images/2026-01/NAMAJUNAS_ROSE_01-24.png"
+  },
+  {
+    "name": "Valentina Shevchenko",
+    "weightClass": "Women's Flyweight",
+    "nationality": "KGZ",
+    "flag": "🇰🇬",
+    "slug": "valentina-shevchenko",
+    "headshot": "https://www.ufc.com/images/2025-11/SHEVCHENKO_VALENTINA_BELT_11-15.png"
+  },
+  {
+    "name": "Veronica Hardy",
+    "weightClass": "Women's Flyweight",
+    "nationality": "VEN",
+    "flag": "🇻🇪",
+    "slug": "veronica-hardy",
+    "headshot": "https://www.ufc.com/images/2025-10/HARDY_VERONICA_10-04.png"
+  },
+  {
+    "name": "Katlyn Cerminara",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "katlyn-cerminara",
+    "headshot": "https://www.ufc.com/images/2026-10/CERMINARA_KATLYN_10-17.png"
+  },
+  {
+    "name": "Alexa Grasso",
+    "weightClass": "Women's Flyweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "alexa-grasso",
+    "headshot": "https://www.ufc.com/images/2026-09/GRASSO_ALEXA_09-12.png"
+  },
+  {
+    "name": "JJ Aldrich",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "jj-aldrich",
+    "headshot": "https://www.ufc.com/images/2026-09/ALDRICH_JJ_09-12.png"
+  },
+  {
+    "name": "Zhang Weili",
+    "weightClass": "Women's Flyweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "zhang-weili",
+    "headshot": "https://www.ufc.com/images/2025-11/WEILI_ZHANG_11-15.png"
+  },
+  {
+    "name": "Maycee Barber",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "maycee-barber",
+    "headshot": "https://www.ufc.com/images/2026-03/1/BARBER_MAYCEE_03-28.png"
+  },
+  {
+    "name": "Tracy Cortez",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "tracy-cortez",
+    "headshot": "https://www.ufc.com/images/2026-07/CORTEZ_TRACY_07-11.png"
+  },
+  {
+    "name": "Miranda Maverick",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "miranda-maverick",
+    "headshot": "https://www.ufc.com/images/2025-06/MAVERICK_MIRANDA_06-14.png"
+  },
+  {
+    "name": "Manon Fiorot",
+    "weightClass": "Women's Flyweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "manon-fiorot",
+    "headshot": "https://www.ufc.com/images/2026-09/FIOROT_MANON_09-12.png"
+  },
+  {
+    "name": "Casey O'Neill",
+    "weightClass": "Women's Flyweight",
+    "nationality": "GBR",
+    "region": "Scotland",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "slug": "casey-oneill",
+    "headshot": "https://www.ufc.com/images/2026-09/ONEILL_CASEY_09-19.png"
+  },
+  {
+    "name": "Melissa Gatto",
+    "weightClass": "Women's Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "melissa-gatto",
+    "headshot": "https://www.ufc.com/images/2026-10/GATTO_MELISSA_10-10.png"
+  },
+  {
+    "name": "Erin Blanchfield",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "erin-blanchfield",
+    "headshot": "https://www.ufc.com/images/2026-10/BLANCHFIELD_ERIN_10-17.png"
+  },
+  {
+    "name": "Jasmine Jasudavicius",
+    "weightClass": "Women's Flyweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "jasmine-jasudavicius",
+    "headshot": "https://www.ufc.com/images/2026-10/JASUDAVICIUS_JASMINE_10-17.png"
+  },
+  {
+    "name": "Karine Silva",
+    "weightClass": "Women's Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "karine-silva",
+    "headshot": "https://www.ufc.com/images/2026-04/SILVA_KARINE_04-18.png"
+  },
+  {
+    "name": "Natália Silva",
+    "weightClass": "Women's Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "natalia-silva",
+    "headshot": "https://www.ufc.com/images/2026-10/SILVA_NATALIA_BELT.png"
+  },
+  {
+    "name": "Juliana Miller",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "juliana-miller",
+    "headshot": "https://www.ufc.com/images/2026-08/MILLER_JULIANA_08-08.png"
+  },
+  {
+    "name": "Tereza Bledá",
+    "weightClass": "Women's Flyweight",
+    "nationality": "CZE",
+    "flag": "🇨🇿",
+    "slug": "tereza-bleda",
+    "headshot": "https://www.ufc.com/images/2025-12/BLEDA_TEREZA_12-13.png"
+  },
+  {
+    "name": "Gabriella Fernandes",
+    "weightClass": "Women's Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "gabriella-fernandes",
+    "headshot": "https://www.ufc.com/images/2026-03/FERNANDES_GABRIELLA_03-28.png"
+  },
+  {
+    "name": "Jamey-Lyn Horth",
+    "weightClass": "Women's Flyweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "jamey-lyn-horth",
+    "headshot": "https://www.ufc.com/images/2026-04/HORTH_JAMEY-LYN_04-18.png"
+  },
+  {
+    "name": "Dione Barbosa",
+    "weightClass": "Women's Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "dione-barbosa",
+    "headshot": "https://www.ufc.com/images/2026-07/BARBOSA_DIONE_07-18.png"
+  },
+  {
+    "name": "Ernesta Kareckaitė",
+    "weightClass": "Women's Flyweight",
+    "nationality": "LTU",
+    "flag": "🇱🇹",
+    "slug": "ernesta-kareckaite",
+    "headshot": "https://www.ufc.com/images/2026-10/KARECKAITE_ERNESTA_10-10.png"
+  },
+  {
+    "name": "Eduarda Moura",
+    "weightClass": "Women's Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "eduarda-moura",
+    "headshot": "https://www.ufc.com/images/2026-09/MOURA_EDUARDA_09-19.png"
+  },
+  {
+    "name": "Carli Judice",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "carli-judice",
+    "headshot": "https://www.ufc.com/images/2026-08/JUDICE_CARLI_08-22.png"
+  },
+  {
+    "name": "Wang Cong",
+    "weightClass": "Women's Flyweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "wang-cong",
+    "headshot": "https://www.ufc.com/images/2026-10/CONG_WANG_10-03.png"
+  },
+  {
+    "name": "Yuneisy Duben",
+    "weightClass": "Women's Flyweight",
+    "nationality": "VEN",
+    "flag": "🇻🇪",
+    "slug": "yuneisy-duben",
+    "headshot": "https://www.ufc.com/images/2026-06/DUBEN_YUNEISY_06-06.png"
+  },
+  {
+    "name": "Regina Tarín",
+    "weightClass": "Women's Flyweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "regina-malpica-rivera",
+    "headshot": "https://www.ufc.com/images/2026-09/TARIN_REGINA_09-12.png"
+  },
+  {
+    "name": "Jeisla Chaves",
+    "weightClass": "Women's Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jeisla-chaves",
+    "headshot": "https://www.ufc.com/images/2026-08/CHAVES_JEISLA_08-22.png"
+  },
+  {
+    "name": "Anna Melisano",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "anna-melisano",
+    "headshot": "https://www.ufc.com/images/2026-07/MELISANO_ANNA_07-18.png"
+  },
+  {
+    "name": "Mackenzie Stiller",
+    "weightClass": "Women's Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "mackenzie-stiller",
+    "headshot": "https://www.ufc.com/images/2026-10/STILLER_MACKENZIE_10-17.png"
+  },
+  {
+    "name": "Jéssica Andrade",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jessica-andrade",
+    "headshot": "https://www.ufc.com/images/2025-08/ANDRADE_JESSICA_08-16.png"
+  },
+  {
+    "name": "Angela Hill",
+    "weightClass": "Women's Strawweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "angela-hill",
+    "headshot": "https://www.ufc.com/images/2026-05/HILL_ANGELA_05-30.png"
+  },
+  {
+    "name": "Karolina Kowalkiewicz",
+    "weightClass": "Women's Strawweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "slug": "karolina-kowalkiewicz",
+    "headshot": "https://www.ufc.com/images/2025-10/KOWALKIEWICZ_KAROLINA_10-11.png"
+  },
+  {
+    "name": "Tatiana Suarez",
+    "weightClass": "Women's Strawweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "tatiana-suarez",
+    "headshot": "https://www.ufc.com/images/2026-04/SUAREZ_TATIANA_04-11.png"
+  },
+  {
+    "name": "Amanda Lemos",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "amanda-lemos",
+    "headshot": "https://www.ufc.com/images/2026-08/LEMOS_AMANDA_08-08.png"
+  },
+  {
+    "name": "Yan Xiaonan",
+    "weightClass": "Women's Strawweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "yan-xiaonan",
+    "headshot": "https://www.ufc.com/images/2026-08/XIAONAN_YAN_08-29.png"
+  },
+  {
+    "name": "Gillian Robertson",
+    "weightClass": "Women's Strawweight",
+    "nationality": "CAN",
+    "flag": "🇨🇦",
+    "slug": "gillian-robertson",
+    "headshot": "https://www.ufc.com/images/2026-08/ROBERTSON_GILLIAN_08-15.png"
+  },
+  {
+    "name": "Polyana Viana",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "polyana-viana",
+    "headshot": "https://www.ufc.com/images/2026-05/VIANA_POLYANA_05-16.png"
+  },
+  {
+    "name": "Mackenzie Dern",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "mackenzie-dern",
+    "headshot": "https://www.ufc.com/images/2026-08/DERN_MACKENZIE_BELT_08-15.png"
+  },
+  {
+    "name": "Virna Jandiroba",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "virna-jandiroba",
+    "headshot": "https://www.ufc.com/images/2026-04/JANDIROBA_VIRNA_04-04.png"
+  },
+  {
+    "name": "Amanda Ribas",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "amanda-ribas",
+    "headshot": "https://www.ufc.com/images/2025-07/RIBAS_AMANDA_07-26.png"
+  },
+  {
+    "name": "Mizuki Inoue",
+    "weightClass": "Women's Strawweight",
+    "nationality": "JPN",
+    "flag": "🇯🇵",
+    "slug": "mizuki-inoue",
+    "headshot": "https://www.ufc.com/images/2025-10/MIZUKI_10-25.png"
+  },
+  {
+    "name": "Loma Lookboonmee",
+    "weightClass": "Women's Strawweight",
+    "nationality": "THA",
+    "flag": "🇹🇭",
+    "slug": "loma-lookboonmee",
+    "headshot": "https://www.ufc.com/images/2026-05/LOOKBOONMEE_LOMA_05-30.png"
+  },
+  {
+    "name": "Sam Hughes",
+    "weightClass": "Women's Strawweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "sam-hughes",
+    "headshot": "https://www.ufc.com/images/2026-03/HUGHES_SAM_03-14.png"
+  },
+  {
+    "name": "Montserrat Ruiz",
+    "weightClass": "Women's Strawweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "montserrat-ruiz",
+    "headshot": "https://www.ufc.com/images/2025-10/RUIZ_MONTSERRAT_CONEJO_11-01.png"
+  },
+  {
+    "name": "Loopy Godinez",
+    "weightClass": "Women's Strawweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "loopy-godinez",
+    "headshot": "https://www.ufc.com/images/2026-10/GODINEZ_LOOPY_10-10.png"
+  },
+  {
+    "name": "Luana Pinheiro",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "luana-pinheiro",
+    "headshot": "https://www.ufc.com/images/2025-01/5/PINHEIRO_LUANA_11-09.png"
+  },
+  {
+    "name": "Tabatha Ricci",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "tabatha-ricci",
+    "headshot": "https://www.ufc.com/images/2026-07/RICCI_TABATHA_07-18.png"
+  },
+  {
+    "name": "Elise Reed",
+    "weightClass": "Women's Strawweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "elise-reed",
+    "headshot": "https://www.ufc.com/images/2026-08/REED_ELISE_08-22.png"
+  },
+  {
+    "name": "Vanessa Demopoulos",
+    "weightClass": "Women's Strawweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "vanessa-demopoulos",
+    "headshot": "https://www.ufc.com/images/2026-09/DEMOPOULOS_VANESSA_09-26.png"
+  },
+  {
+    "name": "Piera Rodriguez",
+    "weightClass": "Women's Strawweight",
+    "nationality": "VEN",
+    "flag": "🇻🇪",
+    "slug": "piera-rodriguez",
+    "headshot": "https://www.ufc.com/images/2026-03/RODRIGUEZ_PIERA_03-14.png"
+  },
+  {
+    "name": "Yazmin Jauregui",
+    "weightClass": "Women's Strawweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "slug": "yazmin-jauregui",
+    "headshot": "https://www.ufc.com/images/2026-09/JAUREGUI_YAZMIN_09-26.png"
+  },
+  {
+    "name": "Iasmin Lucindo",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "iasmin-lucindo",
+    "headshot": "https://www.ufc.com/images/2026-10/LUCINDO_IASMIN_10-24.png"
+  },
+  {
+    "name": "Denise Gomes",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "denise-gomes",
+    "headshot": "https://www.ufc.com/images/2026-08/GOMES_DENISE_08-29.png"
+  },
+  {
+    "name": "Jaqueline Amorim",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "jaqueline-amorim",
+    "headshot": "https://www.ufc.com/images/2026-05/AMORIM_JAQUELINE_05-30.png"
+  },
+  {
+    "name": "Ketlen Souza",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "ketlen-souza",
+    "headshot": "https://www.ufc.com/images/2026-10/SOUZA_KETLEN_10-10.png"
+  },
+  {
+    "name": "Shauna Bannon",
+    "weightClass": "Women's Strawweight",
+    "nationality": "IRL",
+    "flag": "🇮🇪",
+    "slug": "shauna-bannon",
+    "headshot": "https://www.ufc.com/images/2026-05/BANNON_SHAUNA_05-16.png"
+  },
+  {
+    "name": "Talita Alencar",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "talita-alencar",
+    "headshot": "https://www.ufc.com/images/2026-04/ALENCAR_TALITA_04-25.png"
+  },
+  {
+    "name": "Rayanne dos Santos",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "rayanne-dos-santos",
+    "headshot": "https://www.ufc.com/images/2025-05/DOS_SANTOS_RAYANNE_05-31.png"
+  },
+  {
+    "name": "Puja Tomar",
+    "weightClass": "Women's Strawweight",
+    "nationality": "IND",
+    "flag": "🇮🇳",
+    "slug": "puja-tomar",
+    "headshot": "https://www.ufc.com/images/2026-05/TOMAR_PUJA_05-28.png"
+  },
+  {
+    "name": "Julia Polastri",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "julia-polastri",
+    "headshot": "https://www.ufc.com/images/2026-08/POLASTRI_JULIA_08-29.png"
+  },
+  {
+    "name": "Fatima Kline",
+    "weightClass": "Women's Strawweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "fatima-kline",
+    "headshot": "https://www.ufc.com/images/2026-07/KLINE_FATIMA_07-18.png"
+  },
+  {
+    "name": "Nicolle Caliari",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "nicolle-caliari",
+    "headshot": "https://www.ufc.com/images/2026-10/CALIARI_NICOLLE_10-24.png"
+  },
+  {
+    "name": "Alice Ardelean",
+    "weightClass": "Women's Strawweight",
+    "nationality": "ROU",
+    "flag": "🇷🇴",
+    "slug": "alice-ardelean",
+    "headshot": "https://www.ufc.com/images/2026-05/ARDELEAN_ALICE_05-16.png"
+  },
+  {
+    "name": "Stephanie Luciano",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "stephanie-bruna-luciano",
+    "headshot": "https://www.ufc.com/images/2026-07/LUCIANO_STEPHANIE_08-01.png"
+  },
+  {
+    "name": "Shi Ming",
+    "weightClass": "Women's Strawweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "shi-ming",
+    "headshot": "https://www.ufc.com/images/2026-05/MING_SHI_05-28.png"
+  },
+  {
+    "name": "Alexia Thainara",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "alexia-thainara",
+    "headshot": "https://www.ufc.com/images/2026-08/THAINARA_ALEXIA_08-08.png"
+  },
+  {
+    "name": "Shanelle Dyer",
+    "weightClass": "Women's Strawweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "shanelle-dyer",
+    "headshot": "https://www.ufc.com/images/2026-08/DYER_SHANELLE_08-22.png"
+  },
+  {
+    "name": "Xiong Jingnan",
+    "weightClass": "Women's Strawweight",
+    "nationality": "CHN",
+    "flag": "🇨🇳",
+    "slug": "xiong-jingnan",
+    "headshot": "https://www.ufc.com/images/2026-08/JINGNAN_XIONG_08-29.png"
+  },
+  {
+    "name": "Marina Spasić",
+    "weightClass": "Women's Strawweight",
+    "nationality": "SRB",
+    "flag": "🇷🇸",
+    "slug": "marina-spasic",
+    "headshot": "https://www.ufc.com/images/2026-07/SPASIC_MARINA_08-01.png"
+  },
+  {
+    "name": "Giovanna Canuto",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "gigi-canuto",
+    "headshot": "https://www.ufc.com/images/2026-08/CANUTO_GIGI_08-08.png"
+  },
+  {
+    "name": "Carol Foro",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "carol-foro",
+    "headshot": "https://www.ufc.com/images/2026-08/FORO_CAROL_08-08.png"
+  },
+  {
+    "name": "Delphine Benouaich",
+    "weightClass": "Women's Strawweight",
+    "nationality": "FRA",
+    "flag": "🇫🇷",
+    "slug": "delphine-benouaich",
+    "headshot": "https://www.ufc.com/images/2026-09/BENOUAICH_DELPHINE_09-05.png"
+  },
+  {
+    "name": "Sofia Montenegro",
+    "weightClass": "Women's Strawweight",
+    "nationality": "ARG",
+    "flag": "🇦🇷",
+    "slug": "sofia-montenegro",
+    "headshot": "https://www.ufc.com/images/2026-09/MONTENEGRO_SOFIA_09-05.png"
+  },
+  {
+    "name": "Melissa Amaya",
+    "weightClass": "Women's Strawweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "slug": "melissa-amaya",
+    "headshot": "https://www.ufc.com/images/2026-09/AMAYA_MELISSA_09-26.png"
+  },
+  {
+    "name": "Valesca Machado",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "slug": "valesca-machado",
+    "headshot": "https://www.ufc.com/images/2026-09/BLACK_TINA_09-26.png"
+  },
+  {
+    "name": "Kennedy Freeman",
+    "weightClass": "Women's Flyweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "debuted": false,
+    "slug": "kennedy-freeman"
+  },
+  {
+    "name": "Ramiro Jimenez",
+    "weightClass": "Featherweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "debuted": false,
+    "slug": "ramiro-jimenez",
+    "headshot": "https://www.ufc.com/images/2025-08/JIMENEZ_RAMIRO_08-19.png"
+  },
+  {
+    "name": "Louis Lee Scott",
+    "weightClass": "Bantamweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "debuted": false,
+    "slug": "louis-lee-scott",
+    "headshot": "https://www.ufc.com/images/2025-08/SCOTT_LOUIS_LEE_08-19.png"
+  },
+  {
+    "name": "Samuel Sanches",
+    "weightClass": "Lightweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "samuel-sanches",
+    "headshot": "https://www.ufc.com/images/2025-09/SANCHES_SAMUEL_09-09.png"
+  },
+  {
+    "name": "Christopher Alvidrez",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "christopher-alvidrez",
+    "headshot": "https://www.ufc.com/images/2025-10/ALVIDREZ_CHRISTOPHER_09-30.png"
+  },
+  {
+    "name": "Amanda Nunes",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "amanda-nunes",
+    "headshot": "https://www.ufc.com/images/2025-12/NUNES_AMANDA.png"
+  },
+  {
+    "name": "Magomedrasul Gasanov",
+    "weightClass": "Middleweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "debuted": false,
+    "slug": "magomedrasul-gasanov"
+  },
+  {
+    "name": "Joseph Kropschot",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "joseph-kropschot",
+    "headshot": "https://www.ufc.com/images/2026-08/KROPSCHOT_JOE_08-11.png"
+  },
+  {
+    "name": "Tom Pagliarulo",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "thomas-pagliarulo",
+    "headshot": "https://www.ufc.com/images/2026-08/PAGLIARULO_TOM_08-11.png"
+  },
+  {
+    "name": "Roman Puga",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "roman-puga",
+    "headshot": "https://www.ufc.com/images/2026-08/PUGA_ROMAN_08-18.png"
+  },
+  {
+    "name": "Taner Trembley",
+    "weightClass": "Featherweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "taner-trembley",
+    "headshot": "https://www.ufc.com/images/2026-08/TREMBLEY_TANER_08-18.png"
+  },
+  {
+    "name": "Alik Lorenz",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "alik-lorenz",
+    "headshot": "https://www.ufc.com/images/2026-08/LORENZ_ALIK_08-18.png"
+  },
+  {
+    "name": "Trent Miller",
+    "weightClass": "Middleweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "trent-miller",
+    "headshot": "https://www.ufc.com/images/2026-08/MILLER_TRENT_08-18.png"
+  },
+  {
+    "name": "Kaik Brito",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "kaik-brito",
+    "headshot": "https://www.ufc.com/images/2026-08/BRITO_KAIK_08-18.png"
+  },
+  {
+    "name": "Lucia Szabová",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "SVK",
+    "flag": "🇸🇰",
+    "debuted": false,
+    "slug": "lucia-szabova"
+  },
+  {
+    "name": "Ronald Humphrey",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "ronald-humphrey",
+    "headshot": "https://www.ufc.com/images/2026-09/HUMPHREY_RONALD_08-25.png"
+  },
+  {
+    "name": "Sean Clancy Jr.",
+    "weightClass": "Welterweight",
+    "nationality": "GBR",
+    "region": "Scotland",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "debuted": false,
+    "slug": "sean-clancy-jr",
+    "headshot": "https://www.ufc.com/images/2026-09/CLANCY_JR_SEAN_08-25.png"
+  },
+  {
+    "name": "Guilherme Uriel",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "guilherme-uriel",
+    "headshot": "https://www.ufc.com/images/2026-09/URIEL_GUILHERME_08-25.png"
+  },
+  {
+    "name": "Alex Apodaca",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "alex-apodaca",
+    "headshot": "https://www.ufc.com/images/2026-09/APODACA_ALEX_08-25.png"
+  },
+  {
+    "name": "Adam Livingston",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "adam-livingston",
+    "headshot": "https://www.ufc.com/images/2026-09/LIVINGSTON_ADAM_09-01.png"
+  },
+  {
+    "name": "Gabriel Lorenço",
+    "weightClass": "Heavyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "gabriel-lorenco",
+    "headshot": "https://www.ufc.com/images/2026-09/LORENCO_GABRIEL_09-01.png"
+  },
+  {
+    "name": "Silvestre Sanchez",
+    "weightClass": "Lightweight",
+    "nationality": "MEX",
+    "flag": "🇲🇽",
+    "debuted": false,
+    "slug": "silvestre-sanchez",
+    "headshot": "https://www.ufc.com/images/2026-09/SANCHEZ_SILVESTRE_09-01.png"
+  },
+  {
+    "name": "Modestino Rodrigues",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "modestino-rodrigues",
+    "headshot": "https://www.ufc.com/images/2026-09/RODRIGUES_MODESTINO_09-01.png"
+  },
+  {
+    "name": "Adam Darby",
+    "weightClass": "Welterweight",
+    "nationality": "IRL",
+    "flag": "🇮🇪",
+    "debuted": false,
+    "slug": "adam-darby",
+    "headshot": "https://www.ufc.com/images/2026-09/DARBY_ADAM_09-01.png"
+  },
+  {
+    "name": "Christian Natividad",
+    "weightClass": "Flyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "christian-natividad",
+    "headshot": "https://www.ufc.com/images/2026-09/NATIVIDAD_CHRISTIAN_09-08.png"
+  },
+  {
+    "name": "Martin Kozák",
+    "weightClass": "Middleweight",
+    "nationality": "SVK",
+    "flag": "🇸🇰",
+    "debuted": false,
+    "slug": "martin-kozak",
+    "headshot": "https://www.ufc.com/images/2026-09/KOZAK_MARTIN_09-08.png"
+  },
+  {
+    "name": "Isaac Moreno",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "isaac-moreno",
+    "headshot": "https://www.ufc.com/images/2026-09/MORENO_ISAAC_09-08.png"
+  },
+  {
+    "name": "Quentin Pasley",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "quentin-pasley",
+    "headshot": "https://www.ufc.com/images/2026-09/PASLEY_QUENTEN_09-08.png"
+  },
+  {
+    "name": "Jonny Parsons",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "jonny-parsons",
+    "headshot": "https://www.ufc.com/images/2023-07/PARSONS_JONNY_07-22.png"
+  },
+  {
+    "name": "Akbar Abdullaev",
+    "weightClass": "Lightweight",
+    "nationality": "KGZ",
+    "flag": "🇰🇬",
+    "debuted": false,
+    "slug": "akbar-abdullaev",
+    "headshot": "https://www.ufc.com/images/2026-09/ABDULLAEV_AKBAR_09-15.png"
+  },
+  {
+    "name": "Igor Cavalcanti",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "igor-cavalcanti",
+    "headshot": "https://www.ufc.com/images/2026-09/CAVALCANTI_IGOR_09-15.png"
+  },
+  {
+    "name": "Mayton Perea",
+    "weightClass": "Welterweight",
+    "nationality": "ECU",
+    "flag": "🇪🇨",
+    "debuted": false,
+    "slug": "mayton-perea",
+    "headshot": "https://www.ufc.com/images/2026-09/PEREA_MAYTON_09-15.png"
+  },
+  {
+    "name": "Damian Piwowarczyk",
+    "weightClass": "Light Heavyweight",
+    "nationality": "POL",
+    "flag": "🇵🇱",
+    "debuted": false,
+    "slug": "damian-piwowarczyk",
+    "headshot": "https://www.ufc.com/images/2026-09/PIWOWARCZYK_DAMIAN_09-22.png"
+  },
+  {
+    "name": "Piero Guaylupo",
+    "weightClass": "Lightweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "debuted": false,
+    "slug": "piero-guaylupo",
+    "headshot": "https://www.ufc.com/images/2026-09/GUAYLUPO_PIERO_09-22.png"
+  },
+  {
+    "name": "Callum Connor",
+    "weightClass": "Lightweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "debuted": false,
+    "slug": "callum-connor",
+    "headshot": "https://www.ufc.com/images/2026-09/CONNOR_CALLUM_09-22.png"
+  },
+  {
+    "name": "Marcos Degli",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "marcos-degli",
+    "headshot": "https://www.ufc.com/images/2026-09/DEGLI_MARCOS_09-22.png"
+  },
+  {
+    "name": "Alvi Dasuyev",
+    "weightClass": "Welterweight",
+    "nationality": "BEL",
+    "flag": "🇧🇪",
+    "debuted": false,
+    "slug": "alvi-dasuyev",
+    "headshot": "https://www.ufc.com/images/2026-09/DASUYEV_ALVI_09-22.png"
+  },
+  {
+    "name": "Jaden Ortega",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "jaden-ortega",
+    "headshot": "https://www.ufc.com/images/2026-09/ORTEGA_JADEN_09-22.png"
+  },
+  {
+    "name": "Aieza Ramos Bertolso",
+    "weightClass": "Women's Strawweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "aieza-bertolso",
+    "headshot": "https://www.ufc.com/images/2026-09/BERTOLSO_AIEZA_09-29.png"
+  },
+  {
+    "name": "Ian Escuza",
+    "weightClass": "Featherweight",
+    "nationality": "PER",
+    "flag": "🇵🇪",
+    "debuted": false,
+    "slug": "ian-escuza",
+    "headshot": "https://www.ufc.com/images/2026-09/ESCUZA_IAN_09-29.png"
+  },
+  {
+    "name": "Adama Diop",
+    "weightClass": "Heavyweight",
+    "nationality": "SEN",
+    "flag": "🇸🇳",
+    "debuted": false,
+    "slug": "adama-diop",
+    "headshot": "https://www.ufc.com/images/2026-09/DIOP_ADAMA_09-29.png"
+  },
+  {
+    "name": "George Staines",
+    "weightClass": "Lightweight",
+    "nationality": "GBR",
+    "region": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "debuted": false,
+    "slug": "george-staines",
+    "headshot": "https://www.ufc.com/images/2026-09/STAINES_GEORGE_09-29.png"
+  },
+  {
+    "name": "Mateus Soares",
+    "weightClass": "Bantamweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "mateus-soares",
+    "headshot": "https://www.ufc.com/images/2026-10/SOARES_MATEUS.png"
+  },
+  {
+    "name": "Roque Conceição Moreira Jr.",
+    "weightClass": "Flyweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "roque-conceicao",
+    "headshot": "https://www.ufc.com/images/2026-10/CONCEICAO_ROQUE.png"
+  },
+  {
+    "name": "Salhahuddin Everett",
+    "weightClass": "Welterweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "salhahuddin-everett",
+    "headshot": "https://www.ufc.com/images/2026-10/EVERETT_SAL.png"
+  },
+  {
+    "name": "Preston LaGrange",
+    "weightClass": "Light Heavyweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "preston-la-grange",
+    "headshot": "https://www.ufc.com/images/2026-10/LA_GRANGE_PRESTON.png"
+  },
+  {
+    "name": "Gregory Foster",
+    "weightClass": "Lightweight",
+    "nationality": "USA",
+    "flag": "🇺🇸",
+    "debuted": false,
+    "slug": "gregory-foster",
+    "headshot": "https://www.ufc.com/images/2026-10/FOSTER_GREG_10-13.png"
+  },
+  {
+    "name": "Douglas da Lapa",
+    "weightClass": "Middleweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "douglas-da-lapa",
+    "headshot": "https://www.ufc.com/images/2026-10/DA_LAPA_DOUGLAS_10-13.png"
+  },
+  {
+    "name": "Luis Francischinelli",
+    "weightClass": "Welterweight",
+    "nationality": "BRA",
+    "flag": "🇧🇷",
+    "debuted": false,
+    "slug": "luis-francischinelli",
+    "headshot": "https://www.ufc.com/images/2026-10/FRANCISCHINELLI_LUIS_10-13.png"
+  },
+  {
+    "name": "Smilla Sundell",
+    "weightClass": "Women's Bantamweight",
+    "nationality": "SWE",
+    "flag": "🇸🇪",
+    "debuted": false,
+    "slug": "smilla-sundell",
+    "headshot": "https://www.ufc.com/images/2026-10/SUNDELL_SMILLA_10-13.png"
+  },
+  {
+    "name": "Ivan Gnizditskiy",
+    "weightClass": "Light Heavyweight",
+    "nationality": "RUS",
+    "flag": "🇷🇺",
+    "debuted": false,
+    "slug": "ivan-gnizditskiy"
+  }
+]

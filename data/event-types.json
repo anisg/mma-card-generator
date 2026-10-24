@@ -1,0 +1,14 @@
+[
+    {
+        "id": "numbered",
+        "name": "UFC",
+        "titleFormat": "UFC {number}",
+        "logo": "/brand/ufc.svg"
+    },
+    {
+        "id": "fight-night",
+        "name": "UFC Fight Night",
+        "titleFormat": "UFC Fight Night",
+        "logo": "/brand/ufc-fight-night.webp"
+    }
+]

@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "glendale",
+    "name": "Glendale",
+    "region": "Arizona",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "inglewood",
+    "name": "Inglewood",
+    "region": "California",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "broomfield",
+    "name": "Broomfield",
+    "region": "Colorado",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "washington",
+    "name": "Washington",
+    "region": "District of Columbia",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "minneapolis",
+    "name": "Minneapolis",
+    "region": "Minnesota",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "kansas-city",
+    "name": "Kansas City",
+    "region": "Missouri",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "oklahoma-city",
+    "name": "Oklahoma City",
+    "region": "Oklahoma",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "pittsburgh",
+    "name": "Pittsburgh",
+    "region": "Pennsylvania",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "fairfax",
+    "name": "Fairfax",
+    "region": "Virginia",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "milwaukee",
+    "name": "Milwaukee",
+    "region": "Wisconsin",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 3
+  },
+  {
+    "id": "brasilia",
+    "name": "Brasília",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 3
+  },
+  {
+    "id": "fortaleza",
+    "name": "Fortaleza",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 3
+  },
+  {
+    "id": "winnipeg",
+    "name": "Winnipeg",
+    "region": "Manitoba",
+    "country": "CAN",
+    "countryName": "Canada",
+    "flag": "🇨🇦",
+    "eventCount": 3
+  },
+  {
+    "id": "shanghai",
+    "name": "Shanghai",
+    "country": "CHN",
+    "countryName": "China",
+    "flag": "🇨🇳",
+    "eventCount": 3
+  },
+  {
+    "id": "dublin",
+    "name": "Dublin",
+    "country": "IRL",
+    "countryName": "Ireland",
+    "flag": "🇮🇪",
+    "eventCount": 3
+  },
+  {
+    "id": "auckland",
+    "name": "Auckland",
+    "country": "NZL",
+    "countryName": "New Zealand",
+    "flag": "🇳🇿",
+    "eventCount": 3
+  },
+  {
+    "id": "sunrise",
+    "name": "Sunrise",
+    "region": "Florida",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "augusta",
+    "name": "Augusta",
+    "region": "Georgia",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "indianapolis",
+    "name": "Indianapolis",
+    "region": "Indiana",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "cedar-rapids",
+    "name": "Cedar Rapids",
+    "region": "Iowa",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "louisville",
+    "name": "Louisville",
+    "region": "Kentucky",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "lake-charles",
+    "name": "Lake Charles",
+    "region": "Louisiana",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "detroit",
+    "name": "Detroit",
+    "region": "Michigan",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "bay-st-louis",
+    "name": "Bay St. Louis",
+    "region": "Mississippi",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "st-louis",
+    "name": "St. Louis",
+    "region": "Missouri",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "omaha",
+    "name": "Omaha",
+    "region": "Nebraska",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "east-rutherford",
+    "name": "East Rutherford",
+    "region": "New Jersey",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "buffalo",
+    "name": "Buffalo",
+    "region": "New York",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "cincinnati",
+    "name": "Cincinnati",
+    "region": "Ohio",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "tulsa",
+    "name": "Tulsa",
+    "region": "Oklahoma",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "portland",
+    "name": "Portland",
+    "region": "Oregon",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "norfolk",
+    "name": "Norfolk",
+    "region": "Virginia",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 2
+  },
+  {
+    "id": "barueri",
+    "name": "Barueri",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 2
+  },
+  {
+    "id": "belo-horizonte",
+    "name": "Belo Horizonte",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 2
+  },
+  {
+    "id": "goiania",
+    "name": "Goiânia",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 2
+  },
+  {
+    "id": "jaragua-do-sul",
+    "name": "Jaraguá do Sul",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 2
+  },
+  {
+    "id": "calgary",
+    "name": "Calgary",
+    "region": "Alberta",
+    "country": "CAN",
+    "countryName": "Canada",
+    "flag": "🇨🇦",
+    "eventCount": 2
+  },
+  {
+    "id": "halifax",
+    "name": "Halifax",
+    "region": "Nova Scotia",
+    "country": "CAN",
+    "countryName": "Canada",
+    "flag": "🇨🇦",
+    "eventCount": 2
+  },
+  {
+    "id": "ottawa",
+    "name": "Ottawa",
+    "region": "Ontario",
+    "country": "CAN",
+    "countryName": "Canada",
+    "flag": "🇨🇦",
+    "eventCount": 2
+  },
+  {
+    "id": "birmingham-england",
+    "name": "Birmingham",
+    "region": "England",
+    "country": "GBR",
+    "countryName": "United Kingdom",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventCount": 2
+  },
+  {
+    "id": "belfast",
+    "name": "Belfast",
+    "region": "Northern Ireland",
+    "country": "GBR",
+    "countryName": "United Kingdom",
+    "flag": "🇬🇧",
+    "eventCount": 2
+  },
+  {
+    "id": "glasgow",
+    "name": "Glasgow",
+    "region": "Scotland",
+    "country": "GBR",
+    "countryName": "United Kingdom",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "eventCount": 2
+  },
+  {
+    "id": "adelaide",
+    "name": "Adelaide",
+    "country": "AUS",
+    "countryName": "Australia",
+    "flag": "🇦🇺",
+    "eventCount": 2
+  },
+  {
+    "id": "brisbane",
+    "name": "Brisbane",
+    "country": "AUS",
+    "countryName": "Australia",
+    "flag": "🇦🇺",
+    "eventCount": 2
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "country": "JPN",
+    "countryName": "Japan",
+    "flag": "🇯🇵",
+    "eventCount": 2
+  },
+  {
+    "id": "berlin",
+    "name": "Berlin",
+    "country": "DEU",
+    "countryName": "Germany",
+    "flag": "🇩🇪",
+    "eventCount": 2
+  },
+  {
+    "id": "hamburg",
+    "name": "Hamburg",
+    "country": "DEU",
+    "countryName": "Germany",
+    "flag": "🇩🇪",
+    "eventCount": 2
+  },
+  {
+    "id": "moscow",
+    "name": "Moscow",
+    "country": "RUS",
+    "countryName": "Russia",
+    "flag": "🇷🇺",
+    "eventCount": 2
+  },
+  {
+    "id": "baku",
+    "name": "Baku",
+    "country": "AZE",
+    "countryName": "Azerbaijan",
+    "flag": "🇦🇿",
+    "eventCount": 2
+  },
+  {
+    "id": "rotterdam",
+    "name": "Rotterdam",
+    "country": "NLD",
+    "countryName": "Netherlands",
+    "flag": "🇳🇱",
+    "eventCount": 2
+  },
+  {
+    "id": "riyadh",
+    "name": "Riyadh",
+    "country": "SAU",
+    "countryName": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "eventCount": 2
+  },
+  {
+    "id": "dothan",
+    "name": "Dothan",
+    "region": "Alabama",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "mobile",
+    "name": "Mobile",
+    "region": "Alabama",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "fresno",
+    "name": "Fresno",
+    "region": "California",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "oakland",
+    "name": "Oakland",
+    "region": "California",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "mashantucket",
+    "name": "Mashantucket",
+    "region": "Connecticut",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "duluth",
+    "name": "Duluth",
+    "region": "Georgia",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "boise",
+    "name": "Boise",
+    "region": "Idaho",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "rosemont",
+    "name": "Rosemont",
+    "region": "Illinois",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "des-moines",
+    "name": "Des Moines",
+    "region": "Iowa",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "wichita",
+    "name": "Wichita",
+    "region": "Kansas",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "fort-campbell",
+    "name": "Fort Campbell",
+    "region": "Kentucky",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "bossier-city",
+    "name": "Bossier City",
+    "region": "Louisiana",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "bangor",
+    "name": "Bangor",
+    "region": "Maine",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "baltimore",
+    "name": "Baltimore",
+    "region": "Maryland",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "auburn-hills",
+    "name": "Auburn Hills",
+    "region": "Michigan",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "lincoln",
+    "name": "Lincoln",
+    "region": "Nebraska",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "albuquerque",
+    "name": "Albuquerque",
+    "region": "New Mexico",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "rio-rancho",
+    "name": "Rio Rancho",
+    "region": "New Mexico",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "albany",
+    "name": "Albany",
+    "region": "New York",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "elmont",
+    "name": "Elmont",
+    "region": "New York",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "rochester",
+    "name": "Rochester",
+    "region": "New York",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "uniondale",
+    "name": "Uniondale",
+    "region": "New York",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "utica",
+    "name": "Utica",
+    "region": "New York",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "fayetteville",
+    "name": "Fayetteville",
+    "region": "North Carolina",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "raleigh",
+    "name": "Raleigh",
+    "region": "North Carolina",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "cleveland",
+    "name": "Cleveland",
+    "region": "Ohio",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "greenville",
+    "name": "Greenville",
+    "region": "South Carolina",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "sioux-falls",
+    "name": "Sioux Falls",
+    "region": "South Dakota",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "memphis",
+    "name": "Memphis",
+    "region": "Tennessee",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "fort-hood",
+    "name": "Fort Hood",
+    "region": "Texas",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "hidalgo",
+    "name": "Hidalgo",
+    "region": "Texas",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "casper",
+    "name": "Casper",
+    "region": "Wyoming",
+    "country": "USA",
+    "countryName": "United States",
+    "flag": "🇺🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "belem",
+    "name": "Belém",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "curitiba",
+    "name": "Curitiba",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "natal",
+    "name": "Natal",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "porto-alegre",
+    "name": "Porto Alegre",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "uberlandia",
+    "name": "Uberlândia",
+    "country": "BRA",
+    "countryName": "Brazil",
+    "flag": "🇧🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "moncton",
+    "name": "Moncton",
+    "region": "New Brunswick",
+    "country": "CAN",
+    "countryName": "Canada",
+    "flag": "🇨🇦",
+    "eventCount": 1
+  },
+  {
+    "id": "quebec-city",
+    "name": "Québec City",
+    "region": "Québec",
+    "country": "CAN",
+    "countryName": "Canada",
+    "flag": "🇨🇦",
+    "eventCount": 1
+  },
+  {
+    "id": "saskatoon",
+    "name": "Saskatoon",
+    "region": "Saskatchewan",
+    "country": "CAN",
+    "countryName": "Canada",
+    "flag": "🇨🇦",
+    "eventCount": 1
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "region": "England",
+    "country": "GBR",
+    "countryName": "United Kingdom",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventCount": 1
+  },
+  {
+    "id": "newcastle-upon-tyne",
+    "name": "Newcastle upon Tyne",
+    "region": "England",
+    "country": "GBR",
+    "countryName": "United Kingdom",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventCount": 1
+  },
+  {
+    "id": "nottingham",
+    "name": "Nottingham",
+    "region": "England",
+    "country": "GBR",
+    "countryName": "United Kingdom",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventCount": 1
+  },
+  {
+    "id": "gold-coast",
+    "name": "Gold Coast",
+    "country": "AUS",
+    "countryName": "Australia",
+    "flag": "🇦🇺",
+    "eventCount": 1
+  },
+  {
+    "id": "beijing",
+    "name": "Beijing",
+    "country": "CHN",
+    "countryName": "China",
+    "flag": "🇨🇳",
+    "eventCount": 1
+  },
+  {
+    "id": "shenzhen",
+    "name": "Shenzhen",
+    "country": "CHN",
+    "countryName": "China",
+    "flag": "🇨🇳",
+    "eventCount": 1
+  },
+  {
+    "id": "chiba",
+    "name": "Chiba",
+    "country": "JPN",
+    "countryName": "Japan",
+    "flag": "🇯🇵",
+    "eventCount": 1
+  },
+  {
+    "id": "yokohama",
+    "name": "Yokohama",
+    "country": "JPN",
+    "countryName": "Japan",
+    "flag": "🇯🇵",
+    "eventCount": 1
+  },
+  {
+    "id": "monterrey",
+    "name": "Monterrey",
+    "country": "MEX",
+    "countryName": "Mexico",
+    "flag": "🇲🇽",
+    "eventCount": 1
+  },
+  {
+    "id": "cologne",
+    "name": "Cologne",
+    "country": "DEU",
+    "countryName": "Germany",
+    "flag": "🇩🇪",
+    "eventCount": 1
+  },
+  {
+    "id": "oberhausen",
+    "name": "Oberhausen",
+    "country": "DEU",
+    "countryName": "Germany",
+    "flag": "🇩🇪",
+    "eventCount": 1
+  },
+  {
+    "id": "marina-bay",
+    "name": "Marina Bay",
+    "country": "SGP",
+    "countryName": "Singapore",
+    "flag": "🇸🇬",
+    "eventCount": 1
+  },
+  {
+    "id": "saint-petersburg",
+    "name": "Saint Petersburg",
+    "country": "RUS",
+    "countryName": "Russia",
+    "flag": "🇷🇺",
+    "eventCount": 1
+  },
+  {
+    "id": "gdansk",
+    "name": "Gdańsk",
+    "country": "POL",
+    "countryName": "Poland",
+    "flag": "🇵🇱",
+    "eventCount": 1
+  },
+  {
+    "id": "krakow",
+    "name": "Kraków",
+    "country": "POL",
+    "countryName": "Poland",
+    "flag": "🇵🇱",
+    "eventCount": 1
+  },
+  {
+    "id": "busan",
+    "name": "Busan",
+    "country": "KOR",
+    "countryName": "South Korea",
+    "flag": "🇰🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "seoul",
+    "name": "Seoul",
+    "country": "KOR",
+    "countryName": "South Korea",
+    "flag": "🇰🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "buenos-aires",
+    "name": "Buenos Aires",
+    "country": "ARG",
+    "countryName": "Argentina",
+    "flag": "🇦🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "santiago",
+    "name": "Santiago",
+    "country": "CHL",
+    "countryName": "Chile",
+    "flag": "🇨🇱",
+    "eventCount": 1
+  },
+  {
+    "id": "zagreb",
+    "name": "Zagreb",
+    "country": "HRV",
+    "countryName": "Croatia",
+    "flag": "🇭🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "prague",
+    "name": "Prague",
+    "country": "CZE",
+    "countryName": "Czech Republic",
+    "flag": "🇨🇿",
+    "eventCount": 1
+  },
+  {
+    "id": "copenhagen",
+    "name": "Copenhagen",
+    "country": "DNK",
+    "countryName": "Denmark",
+    "flag": "🇩🇰",
+    "eventCount": 1
+  },
+  {
+    "id": "pasay",
+    "name": "Pasay",
+    "country": "PHL",
+    "countryName": "Philippines",
+    "flag": "🇵🇭",
+    "eventCount": 1
+  },
+  {
+    "id": "bayamon",
+    "name": "Bayamón",
+    "country": "PRI",
+    "countryName": "Puerto Rico",
+    "flag": "🇵🇷",
+    "eventCount": 1
+  },
+  {
+    "id": "al-rayyan",
+    "name": "Al Rayyan",
+    "country": "QAT",
+    "countryName": "Qatar",
+    "flag": "🇶🇦",
+    "eventCount": 1
+  },
+  {
+    "id": "belgrade",
+    "name": "Belgrade",
+    "country": "SRB",
+    "countryName": "Serbia",
+    "flag": "🇷🇸",
+    "eventCount": 1
+  },
+  {
+    "id": "montevideo",
+    "name": "Montevideo",
+    "country": "URY",
+    "countryName": "Uruguay",
+    "flag": "🇺🇾",
+    "eventCount": 1
+  }
+]
